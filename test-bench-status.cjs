@@ -1,0 +1,15 @@
+const assert=require('node:assert/strict'),boot=require('./test-integration.cjs');
+async function test(){const app=boot(),run=app.run;
+ for(const name of ['First reserve','Second reserve']){run(`editReserve('home');$('reserve-name').value='${name}';$('reserve-position').value='FWD';$('reserve-rating').value='7.2';$('reserve-photo').files=[]`);await run('reserveForm.onsubmit({preventDefault(){}})')}
+ run("currentMatch().status='UPCOMING';$('sim-ai-home').checked=false;$('sim-ai-away').checked=false;$('sim-start').onclick();stopTimer();attachData();MatchSimulator.start(currentMatch(),library,42);currentMatch().simulation.ai={home:false,away:false};globalThis.firstOn=state.teams.home.bench[0].playerId;globalThis.secondOn=state.teams.home.bench[1].playerId;globalThis.starterOff=state.teams.home.players.find(p=>!p.sentOff).playerId;for(let i=0;i<20;i++)MatchSimulator.step(currentMatch());MatchSimulator.substitute(currentMatch(),'home',starterOff,firstOn,true);save();refreshSimulation()");
+ const row=id=>app.document.querySelector(`[data-bench-player-id="${id}"]`),first=run('firstOn'),second=run('secondOn'),starter=run('starterOff');
+ assert.match(row(first).textContent,/On 20′/);assert.match(row(starter).textContent,/Off 20′/);assert.equal(row(second).querySelectorAll('.bench-sub-status').length,0);assert.equal(row(first).tagName,'DIV');assert.ok(row(second).hasAttribute('data-edit-reserve'));
+ run("attachData();for(let i=20;i<35;i++)MatchSimulator.step(currentMatch());globalThis.changed=MatchSimulator.substitute(currentMatch(),'home',firstOn,secondOn,true);save();refreshSimulation()");assert.equal(run('changed.ok'),true,run('changed.error'));
+ assert.match(row(first).textContent,/On 20′/);assert.match(row(first).textContent,/Off 35′/);assert.match(row(second).textContent,/On 35′/);assert.equal(app.document.querySelectorAll(`[data-bench-player-id="${first}"]`).length,1);assert.equal(app.document.querySelectorAll('[data-bench-team=home]').length,3);
+ run("globalThis.beforeRender=JSON.stringify(currentMatch());benchHTML('home');benchHTML('away')");assert.equal(run('JSON.stringify(currentMatch())'),run('beforeRender'));
+ const reload=boot(new Map(app.storage));const reloaded=reload.document.querySelector(`[data-bench-player-id="${first}"]`);assert.match(reloaded.textContent,/On 20′/);assert.match(reloaded.textContent,/Off 35′/);
+ run("attachData();while(currentMatch().simulation.phase!=='FT'){if(currentMatch().simulation.phase==='HT')MatchSimulator.resume(currentMatch());MatchSimulator.step(currentMatch())}save();refreshSimulation()");assert.match(row(first).textContent,/Off 35′/);assert.match(row(second).textContent,/On 35′/);
+ run('createMatch();refreshSimulation()');assert.equal(app.document.querySelectorAll('.bench-sub-status').length,0);
+ console.log('Passed: live bench On/Off minute badges, used reserves remain visible, a reserve coming on then off shows both, outgoing starters have face cards, no duplicate/editable used rows, render leaves match data unchanged, save/reload and FT persistence, and fresh-fixture reset.');
+}
+test().catch(error=>{console.error(error);process.exitCode=1});

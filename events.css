@@ -83,11 +83,11 @@
 
 .player .rating.rating-red {
     background: #ef5350;
-    color: #242424
+    color: #000
 }
 
 .event.match-event.missed {
-    left: 132px;
+    left: 151px;
     top: 36px
 }
 

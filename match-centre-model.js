@@ -1,0 +1,8 @@
+const MatchCentreModel=(()=>{
+ function addDays(day,n){const d=new Date(day+'T12:00:00Z');d.setUTCDate(d.getUTCDate()+n);return d.toISOString().slice(0,10)}
+ function todayDate(now=new Date()){return new Intl.DateTimeFormat('en-CA',{timeZone:'Europe/London',year:'numeric',month:'2-digit',day:'2-digit'}).format(now)}
+ function state(m){if(m.status==='FT'||m.simulation?.phase==='FT')return {kind:'FT',label:'FT'};if(m.simulation?.phase==='HT')return {kind:'HT',label:'HT'};if(m.status==='LIVE')return {kind:'LIVE',label:`LIVE${m.simulation?' • '+m.simulation.minute+'′':''}${m.simulation?.paused?' · Paused':''}`};return {kind:'UPCOMING',label:m.kickoff||'15:00'}}
+ function groups(db,date){const map=new Map();const club=id=>db.clubs.find(c=>c.id===id);for(const m of db.matches){if(m.date!==date)continue;const league=db.leagues.find(l=>l.id===m.leagueId)||(db.competitions||[]).find(c=>c.id===m.competitionId),key=league?'league:'+league.id:'competition:'+m.competition,favourite=!!(club(m.homeId)?.favourite||club(m.awayId)?.favourite);if(!map.has(key))map.set(key,{key,name:league?.name||m.competition||'My matches',logo:league?.logo||'',category:league?.category||'',matches:[],favourite:false});const g=map.get(key);g.matches.push(m);g.favourite||=favourite}for(const g of map.values())g.matches.sort((a,b)=>Number(!!(club(b.homeId)?.favourite||club(b.awayId)?.favourite))-Number(!!(club(a.homeId)?.favourite||club(a.awayId)?.favourite))||(a.kickoff||'15:00').localeCompare(b.kickoff||'15:00')||a.id.localeCompare(b.id));return [...map.values()].sort((a,b)=>Number(b.favourite)-Number(a.favourite)||a.name.localeCompare(b.name))}
+ return {addDays,todayDate,state,groups};
+})();
+if(typeof module!=='undefined')module.exports=MatchCentreModel;

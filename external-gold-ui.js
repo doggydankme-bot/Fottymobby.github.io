@@ -1,0 +1,10 @@
+/* User-selected external image URLs; existing player assignments are preserved. */
+faceSourceSelect.insertAdjacentHTML('afterbegin',`<option value="external-gold">${ExternalGoldFaces.faces.length} external Gold head images · WeFUT</option>`);
+faceSourceSelect.value='external-gold';
+const generationBeforeExternalGold=generationFacePack;
+generationFacePack=function(){return faceSourceSelect.value==='external-gold'?ExternalGoldFaces.faces:generationBeforeExternalGold()};
+const refreshBeforeExternalGold=refreshFacePool;
+refreshFacePool=function(){refreshBeforeExternalGold();if(faceSourceSelect.value==='external-gold'){$('face-pool-status').textContent=`${ExternalGoldFaces.faces.length} external male Gold-player head images enabled. Source: WeFUT links from your FC26 Gold catalogue. Internet is required to load images; face assignments remain saved.`;$('face-pack-preview').innerHTML=ExternalGoldFaces.faces.slice(0,12).map(f=>`<img src="${f.photo}" alt="${esc(f.name)}" referrerpolicy="no-referrer">`).join('')}};
+const externalGoldNote=document.createElement('p');externalGoldNote.className='hint';externalGoldNote.textContent=`${ExternalGoldFaces.faces.length} external Gold head-image links have been added. Generate Team and Random Real Face use them by default. Existing player photos remain unchanged.`;packBox.querySelector('h2').after(externalGoldNote);
+async function installExternalGoldFaces(){const previous=library.facePack||[],known=new Set(previous.map(f=>f.id)),added=SquadGenerator.cleanPack(ExternalGoldFaces.faces).filter(f=>!known.has(f.id));if(added.length){if(previous.length+added.length>500){toast('The external Gold source is ready. Your saved face pool is full; the external links remain available for new assignments.');refreshFacePool();return}library.facePack=[...previous,...added];if(!await persist()){library.facePack=previous;toast('Could not save external Gold library. Existing saved photos are intact.')}}refreshFacePool()}
+const externalGoldReady=installExternalGoldFaces();
