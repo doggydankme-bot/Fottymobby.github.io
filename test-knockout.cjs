@@ -1,7 +1,7 @@
 const assert=require('node:assert/strict'),boot=require('./test-integration.cjs');
 const app=boot(),run=app.run;let extras=0,shootouts=0;
 for(let seed=1;seed<=35;seed++){
- run(`createMatch();currentMatch().knockout=true;attachData();MatchSimulator.start(currentMatch(),library,${seed});currentMatch().simulation.ai={home:false,away:false}`);
+ run(`createMatch();currentMatch().knockout=true;for(const c of library.clubs)for(const p of c.squad.players)p.overallRating=75;attachData();MatchSimulator.start(currentMatch(),{...library,matches:[currentMatch()]},${seed});currentMatch().simulation.ai={home:false,away:false}`);
  let guard=0;while(run("currentMatch().simulation.phase!=='FT'")&&guard++<125){if(run("['HT','ET_HT'].includes(currentMatch().simulation.phase)"))run('MatchSimulator.resume(currentMatch())');run('MatchSimulator.step(currentMatch())')}
  assert.ok(guard<125);assert.ok(run('[currentMatch().homeId,currentMatch().awayId].includes(currentMatch().winnerClubId)'));
  if(run('currentMatch().extraTime')){extras++;assert.equal(run('currentMatch().simulation.minute'),120);assert.equal(run("currentMatch().simulation.events.filter(e=>e.type==='extratime').length"),1)}
