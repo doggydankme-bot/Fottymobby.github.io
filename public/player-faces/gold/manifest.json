@@ -1,0 +1,3580 @@
+{
+  "version": 1,
+  "source": "Wikimedia Commons licensed portraits; EA public ratings eligibility; Wikidata identity/sex",
+  "goldRule": {
+    "minimumOverall": 75,
+    "source": "https://www.ea.com/ea-originals/news/explaining-rarity-in-fifa-ultimate-team"
+  },
+  "faces": [
+    {
+      "id": "gold-209331",
+      "sourcePlayerId": "209331",
+      "name": "Mohamed Salah",
+      "nationality": "Egypt",
+      "gender": "male",
+      "tier": "gold",
+      "kind": "head",
+      "overallRating": 91,
+      "genderSource": {
+        "ea": {
+          "id": 0,
+          "label": "Men's Football"
+        },
+        "wikidata": "Q1354960"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "goldRule": {
+        "minimumOverall": 75,
+        "source": "https://www.ea.com/ea-originals/news/explaining-rarity-in-fifa-ultimate-team"
+      },
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Mohamed_Salah_Argentina_v_Egypt_7_July_2026-163_(cropped).jpg",
+      "fileTitle": "File:Mohamed Salah Argentina v Egypt 7 July 2026-163 (cropped).jpg",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "originalWidth": 1297,
+      "originalHeight": 1878,
+      "wikipediaPage": "https://en.wikipedia.org/wiki/Mohamed%20Salah",
+      "wikidata": "Q1354960",
+      "image": "/public/player-faces/gold/gold-209331.png",
+      "author": "Bryan Berlin",
+      "credit": "Own work",
+      "crop": {
+        "left": 0,
+        "top": 0,
+        "size": 960,
+        "sourceWidth": 960,
+        "sourceHeight": 1390
+      },
+      "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features.",
+      "sha256": "2eedb18796b6e36b01cb9d2ce7b0c0cb48c75e0ae092cada9acce3e60369a3b4"
+    },
+    {
+      "id": "gold-231747",
+      "sourcePlayerId": "231747",
+      "name": "Kylian Mbappé",
+      "nationality": "France",
+      "gender": "male",
+      "tier": "gold",
+      "kind": "head",
+      "overallRating": 91,
+      "genderSource": {
+        "ea": {
+          "id": 0,
+          "label": "Men's Football"
+        },
+        "wikidata": "Q21621995"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "goldRule": {
+        "minimumOverall": 75,
+        "source": "https://www.ea.com/ea-originals/news/explaining-rarity-in-fifa-ultimate-team"
+      },
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Kylian_Mbappe_France_v_Senegal_16_June_2026-391_(cropped).jpg",
+      "fileTitle": "File:Kylian Mbappe France v Senegal 16 June 2026-391 (cropped).jpg",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "originalWidth": 2201,
+      "originalHeight": 3301,
+      "wikipediaPage": "https://en.wikipedia.org/wiki/Kylian%20Mbapp%C3%A9",
+      "wikidata": "Q21621995",
+      "image": "/public/player-faces/gold/gold-231747.png",
+      "author": "Bryan Berlin",
+      "credit": "Own work",
+      "crop": {
+        "left": 140,
+        "top": 0,
+        "size": 618,
+        "sourceWidth": 960,
+        "sourceHeight": 1440
+      },
+      "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features.",
+      "sha256": "66813c68238b672954adc838fb81e6685014b7c3b7a728d5244cb42baed90c78"
+    },
+    {
+      "id": "gold-231443",
+      "sourcePlayerId": "231443",
+      "name": "Ousmane Dembélé",
+      "nationality": "France",
+      "gender": "male",
+      "tier": "gold",
+      "kind": "head",
+      "overallRating": 90,
+      "genderSource": {
+        "ea": {
+          "id": 0,
+          "label": "Men's Football"
+        },
+        "wikidata": "Q20851003"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "goldRule": {
+        "minimumOverall": 75,
+        "source": "https://www.ea.com/ea-originals/news/explaining-rarity-in-fifa-ultimate-team"
+      },
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Ousmane_Dembele_France_v_Senegal_16_June_2026-341_(cropped)_2.jpg",
+      "fileTitle": "File:Ousmane Dembele France v Senegal 16 June 2026-341 (cropped) 2.jpg",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "originalWidth": 2183,
+      "originalHeight": 3253,
+      "wikipediaPage": "https://en.wikipedia.org/wiki/Ousmane%20Demb%C3%A9l%C3%A9",
+      "wikidata": "Q20851003",
+      "image": "/public/player-faces/gold/gold-231443.png",
+      "author": "Bryan Berlin",
+      "credit": "Own work",
+      "crop": {
+        "left": 320,
+        "top": 20,
+        "size": 480,
+        "sourceWidth": 960,
+        "sourceHeight": 1431
+      },
+      "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features.",
+      "sha256": "7a7b7ed4fa42d6f5d73ee8d35685ac6c197ccba5b83b8806812e44754c00abcd"
+    },
+    {
+      "id": "gold-231866",
+      "sourcePlayerId": "231866",
+      "name": "Rodri",
+      "nationality": "Spain",
+      "gender": "male",
+      "tier": "gold",
+      "kind": "head",
+      "overallRating": 90,
+      "genderSource": {
+        "ea": {
+          "id": 0,
+          "label": "Men's Football"
+        },
+        "wikidata": "Q20994118"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "goldRule": {
+        "minimumOverall": 75,
+        "source": "https://www.ea.com/ea-originals/news/explaining-rarity-in-fifa-ultimate-team"
+      },
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Rodri_Argentina_v_Spain_19_July_2026-187_(cropped).jpg",
+      "fileTitle": "File:Rodri Argentina v Spain 19 July 2026-187 (cropped).jpg",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "originalWidth": 1737,
+      "originalHeight": 2392,
+      "wikipediaPage": "https://en.wikipedia.org/wiki/Rodri",
+      "wikidata": "Q20994118",
+      "image": "/public/player-faces/gold/gold-231866.png",
+      "author": "Bryan Berlin",
+      "credit": "Own work",
+      "crop": {
+        "left": 239,
+        "top": 0,
+        "size": 596,
+        "sourceWidth": 960,
+        "sourceHeight": 1322
+      },
+      "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features.",
+      "sha256": "142c1f1fd3a4a3654141f18a75e1170b506dfeeb5a4f8015b0ede5ef816efa0b"
+    },
+    {
+      "id": "gold-203376",
+      "sourcePlayerId": "203376",
+      "name": "Virgil van Dijk",
+      "nationality": "Holland",
+      "gender": "male",
+      "tier": "gold",
+      "kind": "head",
+      "overallRating": 90,
+      "genderSource": {
+        "ea": {
+          "id": 0,
+          "label": "Men's Football"
+        },
+        "wikidata": "Q133903"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "goldRule": {
+        "minimumOverall": 75,
+        "source": "https://www.ea.com/ea-originals/news/explaining-rarity-in-fifa-ultimate-team"
+      },
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:20160604_AUT_NED_8876_(cropped).jpg",
+      "fileTitle": "File:20160604 AUT NED 8876 (cropped).jpg",
+      "licenseName": "CC BY-SA 3.0 at",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/at/deed.en",
+      "originalWidth": 916,
+      "originalHeight": 1112,
+      "wikipediaPage": "https://en.wikipedia.org/wiki/Virgil%20van%20Dijk",
+      "wikidata": "Q133903",
+      "image": "/public/player-faces/gold/gold-203376.png",
+      "author": "Ailura",
+      "credit": "Own work",
+      "crop": {
+        "left": 0,
+        "top": 0,
+        "size": 827,
+        "sourceWidth": 916,
+        "sourceHeight": 1112
+      },
+      "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features.",
+      "sha256": "0c5cbcf24047c5a31e6503b19a667de7f3802602f92e4f702d9a5df10f76a243"
+    },
+    {
+      "id": "gold-252371",
+      "sourcePlayerId": "252371",
+      "name": "Jude Bellingham",
+      "nationality": "England",
+      "gender": "male",
+      "tier": "gold",
+      "kind": "head",
+      "overallRating": 90,
+      "genderSource": {
+        "ea": {
+          "id": 0,
+          "label": "Men's Football"
+        },
+        "wikidata": "Q66241169"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "goldRule": {
+        "minimumOverall": 75,
+        "source": "https://www.ea.com/ea-originals/news/explaining-rarity-in-fifa-ultimate-team"
+      },
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Jude_Bellingham_England_v_Ghana_23_June_2026-061_(cropped).jpg",
+      "fileTitle": "File:Jude Bellingham England v Ghana 23 June 2026-061 (cropped).jpg",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "originalWidth": 2666,
+      "originalHeight": 4000,
+      "wikipediaPage": "https://en.wikipedia.org/wiki/Jude%20Bellingham",
+      "wikidata": "Q66241169",
+      "image": "/public/player-faces/gold/gold-252371.png",
+      "author": "Bryan Berlin",
+      "credit": "Own work",
+      "crop": {
+        "left": 79,
+        "top": 55,
+        "size": 647,
+        "sourceWidth": 960,
+        "sourceHeight": 1440
+      },
+      "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features.",
+      "sha256": "dc393a4cb36702fcae6a26b6fc53282165de954c3f932bafe772b10774a591ac"
+    },
+    {
+      "id": "gold-239085",
+      "sourcePlayerId": "239085",
+      "name": "Erling Haaland",
+      "nationality": "Norway",
+      "gender": "male",
+      "tier": "gold",
+      "kind": "head",
+      "overallRating": 90,
+      "genderSource": {
+        "ea": {
+          "id": 0,
+          "label": "Men's Football"
+        },
+        "wikidata": "Q28967995"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "goldRule": {
+        "minimumOverall": 75,
+        "source": "https://www.ea.com/ea-originals/news/explaining-rarity-in-fifa-ultimate-team"
+      },
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Erling_Haaland_Morocco_v_Norway_7_June_2026-51.jpg",
+      "fileTitle": "File:Erling Haaland Morocco v Norway 7 June 2026-51.jpg",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "originalWidth": 3333,
+      "originalHeight": 5000,
+      "wikipediaPage": "https://en.wikipedia.org/wiki/Erling%20Haaland",
+      "wikidata": "Q28967995",
+      "image": "/public/player-faces/gold/gold-239085.png",
+      "author": "Bryan Berlin",
+      "credit": "Own work",
+      "crop": {
+        "left": 161,
+        "top": 18,
+        "size": 647,
+        "sourceWidth": 960,
+        "sourceHeight": 1440
+      },
+      "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features.",
+      "sha256": "89b5a507140d9d8b8f702f9c2cacafeafd7ab36b397fab8b430a60c10102bde9"
+    },
+    {
+      "id": "gold-233419",
+      "sourcePlayerId": "233419",
+      "name": "Raphinha",
+      "nationality": "Brazil",
+      "gender": "male",
+      "tier": "gold",
+      "kind": "head",
+      "overallRating": 89,
+      "genderSource": {
+        "ea": {
+          "id": 0,
+          "label": "Men's Football"
+        },
+        "wikidata": "Q28861547"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "goldRule": {
+        "minimumOverall": 75,
+        "source": "https://www.ea.com/ea-originals/news/explaining-rarity-in-fifa-ultimate-team"
+      },
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Raphinha_Brazil_V_Morocco_13_June_2026-133_(cropped).jpg",
+      "fileTitle": "File:Raphinha Brazil V Morocco 13 June 2026-133 (cropped).jpg",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "originalWidth": 2042,
+      "originalHeight": 2824,
+      "wikipediaPage": "https://en.wikipedia.org/wiki/Raphinha",
+      "wikidata": "Q28861547",
+      "image": "/public/player-faces/gold/gold-233419.png",
+      "author": "Bryan Berlin",
+      "credit": "Own work",
+      "crop": {
+        "left": 27,
+        "top": 13,
+        "size": 605,
+        "sourceWidth": 960,
+        "sourceHeight": 1328
+      },
+      "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features.",
+      "sha256": "8fd9fb08d048f406e5180fd5484a1bfeea78841a4e8067daa53b43fcfd24473c"
+    },
+    {
+      "id": "gold-235212",
+      "sourcePlayerId": "235212",
+      "name": "Achraf Hakimi",
+      "nationality": "Morocco",
+      "gender": "male",
+      "tier": "gold",
+      "kind": "head",
+      "overallRating": 89,
+      "genderSource": {
+        "ea": {
+          "id": 0,
+          "label": "Men's Football"
+        },
+        "wikidata": "Q26932598"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "goldRule": {
+        "minimumOverall": 75,
+        "source": "https://www.ea.com/ea-originals/news/explaining-rarity-in-fifa-ultimate-team"
+      },
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Achraf_Hakimi_Morocco_v_Norway_7_June_2026-16.jpg",
+      "fileTitle": "File:Achraf Hakimi Morocco v Norway 7 June 2026-16.jpg",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "originalWidth": 3333,
+      "originalHeight": 5000,
+      "wikipediaPage": "https://en.wikipedia.org/wiki/Achraf%20Hakimi",
+      "wikidata": "Q26932598",
+      "image": "/public/player-faces/gold/gold-235212.png",
+      "author": "Bryan Berlin",
+      "credit": "Own work",
+      "crop": {
+        "left": 279,
+        "top": 124,
+        "size": 530,
+        "sourceWidth": 960,
+        "sourceHeight": 1440
+      },
+      "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features.",
+      "sha256": "c6a91fee51ce54e0d0eabbd48f50c6f231b5acb5e5785b3c12921d32007fcac0"
+    },
+    {
+      "id": "gold-277643",
+      "sourcePlayerId": "277643",
+      "name": "Lamine Yamal",
+      "nationality": "Spain",
+      "gender": "male",
+      "tier": "gold",
+      "kind": "head",
+      "overallRating": 89,
+      "genderSource": {
+        "ea": {
+          "id": 0,
+          "label": "Men's Football"
+        },
+        "wikidata": "Q113704154"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "goldRule": {
+        "minimumOverall": 75,
+        "source": "https://www.ea.com/ea-originals/news/explaining-rarity-in-fifa-ultimate-team"
+      },
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Lamine_Yamal_France_v_Spain_7.24.26-142.jpg",
+      "fileTitle": "File:Lamine Yamal France v Spain 7.24.26-142.jpg",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "originalWidth": 3333,
+      "originalHeight": 5000,
+      "wikipediaPage": "https://en.wikipedia.org/wiki/Lamine%20Yamal",
+      "wikidata": "Q113704154",
+      "image": "/public/player-faces/gold/gold-277643.png",
+      "author": "Bryan Berlin",
+      "credit": "Own work",
+      "crop": {
+        "left": 194,
+        "top": 149,
+        "size": 533,
+        "sourceWidth": 960,
+        "sourceHeight": 1440
+      },
+      "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features.",
+      "sha256": "0b60bd12d2863dcd2b4e422b8bc3d804214677a8799978791918fc9d1c07c2d0"
+    },
+    {
+      "id": "gold-255253",
+      "sourcePlayerId": "255253",
+      "name": "Vitinha",
+      "nationality": "Portugal",
+      "gender": "male",
+      "tier": "gold",
+      "kind": "head",
+      "overallRating": 89,
+      "genderSource": {
+        "ea": {
+          "id": 0,
+          "label": "Men's Football"
+        },
+        "wikidata": "Q66818509"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "goldRule": {
+        "minimumOverall": 75,
+        "source": "https://www.ea.com/ea-originals/news/explaining-rarity-in-fifa-ultimate-team"
+      },
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Vitinha_USMNT_v_Portugal_Mar_31_2026-50_(cropped).jpg",
+      "fileTitle": "File:Vitinha USMNT v Portugal Mar 31 2026-50 (cropped).jpg",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "originalWidth": 3194,
+      "originalHeight": 4256,
+      "wikipediaPage": "https://en.wikipedia.org/wiki/Vitinha",
+      "wikidata": "Q66818509",
+      "image": "/public/player-faces/gold/gold-255253.png",
+      "author": "Bryan Berlin",
+      "credit": "Own work",
+      "crop": {
+        "left": 123,
+        "top": 61,
+        "size": 722,
+        "sourceWidth": 960,
+        "sourceHeight": 1279
+      },
+      "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features.",
+      "sha256": "14cfa8abfc2c21da56569260a08cf000c913415bf7ad944b68f6c3452ad9f5db"
+    },
+    {
+      "id": "gold-230621",
+      "sourcePlayerId": "230621",
+      "name": "Gianluigi Donnarumma",
+      "nationality": "Italy",
+      "gender": "male",
+      "tier": "gold",
+      "kind": "head",
+      "overallRating": 89,
+      "genderSource": {
+        "ea": {
+          "id": 0,
+          "label": "Men's Football"
+        },
+        "wikidata": "Q20830808"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "goldRule": {
+        "minimumOverall": 75,
+        "source": "https://www.ea.com/ea-originals/news/explaining-rarity-in-fifa-ultimate-team"
+      },
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Norway_Italy_-_June_2025_A_17_(Gianluigi_Donnarumma).jpg",
+      "fileTitle": "File:Norway Italy - June 2025 A 17 (Gianluigi Donnarumma).jpg",
+      "licenseName": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "originalWidth": 1034,
+      "originalHeight": 1364,
+      "wikipediaPage": "https://en.wikipedia.org/wiki/Gianluigi%20Donnarumma",
+      "wikidata": "Q20830808",
+      "image": "/public/player-faces/gold/gold-230621.png",
+      "author": "MichaelEmilio",
+      "credit": "Own work",
+      "crop": {
+        "left": 144,
+        "top": 30,
+        "size": 816,
+        "sourceWidth": 960,
+        "sourceHeight": 1266
+      },
+      "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features.",
+      "sha256": "ba8690de6d68572bdad72a67c1feefad25ad65aa8e59724ca895b7acac41e777"
+    },
+    {
+      "id": "gold-251854",
+      "sourcePlayerId": "251854",
+      "name": "Pedri",
+      "nationality": "Spain",
+      "gender": "male",
+      "tier": "gold",
+      "kind": "head",
+      "overallRating": 89,
+      "genderSource": {
+        "ea": {
+          "id": 0,
+          "label": "Men's Football"
+        },
+        "wikidata": "Q66606355"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "goldRule": {
+        "minimumOverall": 75,
+        "source": "https://www.ea.com/ea-originals/news/explaining-rarity-in-fifa-ultimate-team"
+      },
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Pedri_France_v_Spain_7.24.26-245.jpg",
+      "fileTitle": "File:Pedri France v Spain 7.24.26-245.jpg",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "originalWidth": 3333,
+      "originalHeight": 5000,
+      "wikipediaPage": "https://en.wikipedia.org/wiki/Pedri",
+      "wikidata": "Q66606355",
+      "image": "/public/player-faces/gold/gold-251854.png",
+      "author": "Bryan Berlin",
+      "credit": "Own work",
+      "crop": {
+        "left": 142,
+        "top": 12,
+        "size": 676,
+        "sourceWidth": 960,
+        "sourceHeight": 1440
+      },
+      "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features.",
+      "sha256": "9d13efe625eaee71d5a9cd6768918d858556295f641a10294a17ac39a9f67911"
+    },
+    {
+      "id": "gold-212622",
+      "sourcePlayerId": "212622",
+      "name": "Joshua Kimmich",
+      "nationality": "Germany",
+      "gender": "male",
+      "tier": "gold",
+      "kind": "head",
+      "overallRating": 89,
+      "genderSource": {
+        "ea": {
+          "id": 0,
+          "label": "Men's Football"
+        },
+        "wikidata": "Q13865408"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "goldRule": {
+        "minimumOverall": 75,
+        "source": "https://www.ea.com/ea-originals/news/explaining-rarity-in-fifa-ultimate-team"
+      },
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Joshua_Kimmich_Ecuador_v_Germany_25_June_2026-149.jpg",
+      "fileTitle": "File:Joshua Kimmich Ecuador v Germany 25 June 2026-149.jpg",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "originalWidth": 3333,
+      "originalHeight": 5000,
+      "wikipediaPage": "https://en.wikipedia.org/wiki/Joshua%20Kimmich",
+      "wikidata": "Q13865408",
+      "image": "/public/player-faces/gold/gold-212622.png",
+      "author": "Bryan Berlin",
+      "credit": "Own work",
+      "crop": {
+        "left": 176,
+        "top": 71,
+        "size": 666,
+        "sourceWidth": 960,
+        "sourceHeight": 1440
+      },
+      "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features.",
+      "sha256": "02db1d40106d88e773c731b02662ddb85c6919b8851b9919d3272d62a84cd669"
+    },
+    {
+      "id": "gold-212831",
+      "sourcePlayerId": "212831",
+      "name": "Alisson",
+      "nationality": "Brazil",
+      "gender": "male",
+      "tier": "gold",
+      "kind": "head",
+      "overallRating": 89,
+      "genderSource": {
+        "ea": {
+          "id": 0,
+          "label": "Men's Football"
+        },
+        "wikidata": "Q18237361"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "goldRule": {
+        "minimumOverall": 75,
+        "source": "https://www.ea.com/ea-originals/news/explaining-rarity-in-fifa-ultimate-team"
+      },
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Alisson_Becker_Brazil_V_Morocco_13_June_2026-117_(cropped).jpg",
+      "fileTitle": "File:Alisson Becker Brazil V Morocco 13 June 2026-117 (cropped).jpg",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "originalWidth": 1617,
+      "originalHeight": 2424,
+      "wikipediaPage": "https://en.wikipedia.org/wiki/Alisson%20Becker",
+      "wikidata": "Q18237361",
+      "image": "/public/player-faces/gold/gold-212831.png",
+      "author": "Bryan Berlin",
+      "credit": "Own work",
+      "crop": {
+        "left": 66,
+        "top": 80,
+        "size": 567,
+        "sourceWidth": 960,
+        "sourceHeight": 1439
+      },
+      "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features.",
+      "sha256": "124b095e5660ebbeeb5942730b8592e3df20968efa4f54a5ded05f06d973eebb"
+    },
+    {
+      "id": "gold-202126",
+      "sourcePlayerId": "202126",
+      "name": "Harry Kane",
+      "nationality": "England",
+      "gender": "male",
+      "tier": "gold",
+      "kind": "head",
+      "overallRating": 89,
+      "genderSource": {
+        "ea": {
+          "id": 0,
+          "label": "Men's Football"
+        },
+        "wikidata": "Q969725"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "goldRule": {
+        "minimumOverall": 75,
+        "source": "https://www.ea.com/ea-originals/news/explaining-rarity-in-fifa-ultimate-team"
+      },
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Harry_Kane_England_v_Ghana_23_June_2026-024_(cropped).jpg",
+      "fileTitle": "File:Harry Kane England v Ghana 23 June 2026-024 (cropped).jpg",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "originalWidth": 2103,
+      "originalHeight": 2916,
+      "wikipediaPage": "https://en.wikipedia.org/wiki/Harry%20Kane",
+      "wikidata": "Q969725",
+      "image": "/public/player-faces/gold/gold-202126.png",
+      "author": "Bryan Berlin",
+      "credit": "Own work",
+      "crop": {
+        "left": 152,
+        "top": 0,
+        "size": 685,
+        "sourceWidth": 960,
+        "sourceHeight": 1331
+      },
+      "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features.",
+      "sha256": "659afbf4f01a4b22d3aaed35e503bab4cc3a90749edddb29bfbb89290df7984c"
+    },
+    {
+      "id": "gold-239053",
+      "sourcePlayerId": "239053",
+      "name": "Federico Valverde",
+      "nationality": "Uruguay",
+      "gender": "male",
+      "tier": "gold",
+      "kind": "head",
+      "overallRating": 89,
+      "genderSource": {
+        "ea": {
+          "id": 0,
+          "label": "Men's Football"
+        },
+        "wikidata": "Q19509544"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "goldRule": {
+        "minimumOverall": 75,
+        "source": "https://www.ea.com/ea-originals/news/explaining-rarity-in-fifa-ultimate-team"
+      },
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Federico_Valverde_2021_(cropped).jpg",
+      "fileTitle": "File:Federico Valverde 2021 (cropped).jpg",
+      "licenseName": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "originalWidth": 895,
+      "originalHeight": 680,
+      "wikipediaPage": "https://en.wikipedia.org/wiki/Federico%20Valverde",
+      "wikidata": "Q19509544",
+      "image": "/public/player-faces/gold/gold-239053.png",
+      "author": "Real Madrid",
+      "credit": "🌟 Fede Valverde's dream journey: From Peñarol to rising Real Madrid star!",
+      "crop": {
+        "left": 61,
+        "top": 0,
+        "size": 680,
+        "sourceWidth": 895,
+        "sourceHeight": 680
+      },
+      "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features.",
+      "sha256": "5390f1401d391dd18fd3f90927b99b17b88d4a16b6fa9f5318e4bbd74713a017"
+    },
+    {
+      "id": "gold-256630",
+      "sourcePlayerId": "256630",
+      "name": "Florian Wirtz",
+      "nationality": "Germany",
+      "gender": "male",
+      "tier": "gold",
+      "kind": "head",
+      "overallRating": 89,
+      "genderSource": {
+        "ea": {
+          "id": 0,
+          "label": "Men's Football"
+        },
+        "wikidata": "Q94699949"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "goldRule": {
+        "minimumOverall": 75,
+        "source": "https://www.ea.com/ea-originals/news/explaining-rarity-in-fifa-ultimate-team"
+      },
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Florian_Wirtz_Ecuador_v_Germany_25_June_2026-181_(cropped).jpg",
+      "fileTitle": "File:Florian Wirtz Ecuador v Germany 25 June 2026-181 (cropped).jpg",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "originalWidth": 1204,
+      "originalHeight": 1838,
+      "wikipediaPage": "https://en.wikipedia.org/wiki/Florian%20Wirtz",
+      "wikidata": "Q94699949",
+      "image": "/public/player-faces/gold/gold-256630.png",
+      "author": "Bryan Berlin",
+      "credit": "Own work",
+      "crop": {
+        "left": 210,
+        "top": 192,
+        "size": 525,
+        "sourceWidth": 960,
+        "sourceHeight": 1466
+      },
+      "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features.",
+      "sha256": "635aaf14d15df06fb66df8f1339dd44f9085626cb425ef1ee96f5beb5ab32309"
+    },
+    {
+      "id": "gold-192119",
+      "sourcePlayerId": "192119",
+      "name": "Thibaut Courtois",
+      "nationality": "Belgium",
+      "gender": "male",
+      "tier": "gold",
+      "kind": "head",
+      "overallRating": 89,
+      "genderSource": {
+        "ea": {
+          "id": 0,
+          "label": "Men's Football"
+        },
+        "wikidata": "Q73360"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "goldRule": {
+        "minimumOverall": 75,
+        "source": "https://www.ea.com/ea-originals/news/explaining-rarity-in-fifa-ultimate-team"
+      },
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Thibaut_Courtois_Belgium_v_USA_6_July_2026-076_(cropped).jpg",
+      "fileTitle": "File:Thibaut Courtois Belgium v USA 6 July 2026-076 (cropped).jpg",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "originalWidth": 1420,
+      "originalHeight": 1870,
+      "wikipediaPage": "https://en.wikipedia.org/wiki/Thibaut%20Courtois",
+      "wikidata": "Q73360",
+      "image": "/public/player-faces/gold/gold-192119.png",
+      "author": "Bryan Berlin",
+      "credit": "Own work",
+      "crop": {
+        "left": 216,
+        "top": 3,
+        "size": 511,
+        "sourceWidth": 960,
+        "sourceHeight": 1264
+      },
+      "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features.",
+      "sha256": "7120ded3878e753c828f5d816347607509f1e55f8ae3fddb8d8e736bcf45e430"
+    },
+    {
+      "id": "gold-188545",
+      "sourcePlayerId": "188545",
+      "name": "Robert Lewandowski",
+      "nationality": "Poland",
+      "gender": "male",
+      "tier": "gold",
+      "kind": "head",
+      "overallRating": 88,
+      "genderSource": {
+        "ea": {
+          "id": 0,
+          "label": "Men's Football"
+        },
+        "wikidata": "Q151269"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "goldRule": {
+        "minimumOverall": 75,
+        "source": "https://www.ea.com/ea-originals/news/explaining-rarity-in-fifa-ultimate-team"
+      },
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Robert_Lewandowski_NYCFC_v_Chicago_25_July_2026-383.jpg",
+      "fileTitle": "File:Robert Lewandowski NYCFC v Chicago 25 July 2026-383.jpg",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "originalWidth": 3333,
+      "originalHeight": 5000,
+      "wikipediaPage": "https://en.wikipedia.org/wiki/Robert%20Lewandowski",
+      "wikidata": "Q151269",
+      "image": "/public/player-faces/gold/gold-188545.png",
+      "author": "Bryan Berlin",
+      "credit": "Own work",
+      "crop": {
+        "left": 107,
+        "top": 35,
+        "size": 737,
+        "sourceWidth": 960,
+        "sourceHeight": 1440
+      },
+      "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features.",
+      "sha256": "e73ddc34786e80614c693ec5718a4242754ebc20857426f2bfe2c57e90a06f71"
+    },
+    {
+      "id": "gold-231478",
+      "sourcePlayerId": "231478",
+      "name": "Lautaro Martínez",
+      "nationality": "Argentina",
+      "gender": "male",
+      "tier": "gold",
+      "kind": "head",
+      "overallRating": 88,
+      "genderSource": {
+        "ea": {
+          "id": 0,
+          "label": "Men's Football"
+        },
+        "wikidata": "Q21484126"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "goldRule": {
+        "minimumOverall": 75,
+        "source": "https://www.ea.com/ea-originals/news/explaining-rarity-in-fifa-ultimate-team"
+      },
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Lautaro_Martinez_Argentina_v_Spain_19_July_2026-049_(cropped).jpg",
+      "fileTitle": "File:Lautaro Martinez Argentina v Spain 19 July 2026-049 (cropped).jpg",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "originalWidth": 1624,
+      "originalHeight": 2055,
+      "wikipediaPage": "https://en.wikipedia.org/wiki/Lautaro%20Mart%C3%ADnez",
+      "wikidata": "Q21484126",
+      "image": "/public/player-faces/gold/gold-231478.png",
+      "author": "Bryan Berlin",
+      "credit": "Own work",
+      "crop": {
+        "left": 0,
+        "top": 0,
+        "size": 759,
+        "sourceWidth": 960,
+        "sourceHeight": 1215
+      },
+      "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features.",
+      "sha256": "96e487c511a172bb7cf6e2420e3d7e4a8ace8b23cbe2a57aca410035030fab66"
+    },
+    {
+      "id": "gold-233731",
+      "sourcePlayerId": "233731",
+      "name": "Alexander Isak",
+      "nationality": "Sweden",
+      "gender": "male",
+      "tier": "gold",
+      "kind": "head",
+      "overallRating": 88,
+      "genderSource": {
+        "ea": {
+          "id": 0,
+          "label": "Men's Football"
+        },
+        "wikidata": "Q23759917"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "goldRule": {
+        "minimumOverall": 75,
+        "source": "https://www.ea.com/ea-originals/news/explaining-rarity-in-fifa-ultimate-team"
+      },
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Alexander_Isak_-_Sweden_-_Greece21_(cropped).jpg",
+      "fileTitle": "File:Alexander Isak - Sweden - Greece21 (cropped).jpg",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "originalWidth": 1033,
+      "originalHeight": 1349,
+      "wikipediaPage": "https://en.wikipedia.org/wiki/Alexander%20Isak",
+      "wikidata": "Q23759917",
+      "image": "/public/player-faces/gold/gold-233731.png",
+      "author": "Mikael Hervestad",
+      "credit": "Own work",
+      "crop": {
+        "left": 0,
+        "top": 0,
+        "size": 838,
+        "sourceWidth": 960,
+        "sourceHeight": 1254
+      },
+      "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features.",
+      "sha256": "ca7ed8c3ef665725448a12e871c2844f7c5fe7f63889301cc7b773b7065437cd"
+    },
+    {
+      "id": "gold-256790",
+      "sourcePlayerId": "256790",
+      "name": "Jamal Musiala",
+      "nationality": "Germany",
+      "gender": "male",
+      "tier": "gold",
+      "kind": "head",
+      "overallRating": 88,
+      "genderSource": {
+        "ea": {
+          "id": 0,
+          "label": "Men's Football"
+        },
+        "wikidata": "Q96072055"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "goldRule": {
+        "minimumOverall": 75,
+        "source": "https://www.ea.com/ea-originals/news/explaining-rarity-in-fifa-ultimate-team"
+      },
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Jamal_Musiala_Ecuador_v_Germany_25_June_2026-174_(cropped).jpg",
+      "fileTitle": "File:Jamal Musiala Ecuador v Germany 25 June 2026-174 (cropped).jpg",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "originalWidth": 1271,
+      "originalHeight": 1957,
+      "wikipediaPage": "https://en.wikipedia.org/wiki/Jamal%20Musiala",
+      "wikidata": "Q96072055",
+      "image": "/public/player-faces/gold/gold-256790.png",
+      "author": "Bryan Berlin",
+      "credit": "Own work",
+      "crop": {
+        "left": 119,
+        "top": 64,
+        "size": 727,
+        "sourceWidth": 960,
+        "sourceHeight": 1478
+      },
+      "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features.",
+      "sha256": "99e609a24ef3ebf978de289bf8a7f8a6f84f3592a87e6bd411f06476168952e0"
+    },
+    {
+      "id": "gold-232580",
+      "sourcePlayerId": "232580",
+      "name": "Gabriel",
+      "nationality": "Brazil",
+      "gender": "male",
+      "tier": "gold",
+      "kind": "head",
+      "overallRating": 88,
+      "genderSource": {
+        "ea": {
+          "id": 0,
+          "label": "Men's Football"
+        },
+        "wikidata": "Q25175970"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "goldRule": {
+        "minimumOverall": 75,
+        "source": "https://www.ea.com/ea-originals/news/explaining-rarity-in-fifa-ultimate-team"
+      },
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Gabriel_Magalhaes_Brazil_V_Morocco_13_June_2026-132_(cropped).jpg",
+      "fileTitle": "File:Gabriel Magalhaes Brazil V Morocco 13 June 2026-132 (cropped).jpg",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "originalWidth": 1635,
+      "originalHeight": 2452,
+      "wikipediaPage": "https://en.wikipedia.org/wiki/Gabriel%20Magalh%C3%A3es",
+      "wikidata": "Q25175970",
+      "image": "/public/player-faces/gold/gold-232580.png",
+      "author": "Bryan Berlin",
+      "credit": "Own work",
+      "crop": {
+        "left": 53,
+        "top": 0,
+        "size": 846,
+        "sourceWidth": 960,
+        "sourceHeight": 1440
+      },
+      "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features.",
+      "sha256": "77b68f4a9ef2a7840063fb3f643167ca163963f6fc5933635972d7b8f8de0043"
+    },
+    {
+      "id": "gold-246669",
+      "sourcePlayerId": "246669",
+      "name": "Bukayo Saka",
+      "nationality": "England",
+      "gender": "male",
+      "tier": "gold",
+      "kind": "head",
+      "overallRating": 88,
+      "genderSource": {
+        "ea": {
+          "id": 0,
+          "label": "Men's Football"
+        },
+        "wikidata": "Q59306386"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "goldRule": {
+        "minimumOverall": 75,
+        "source": "https://www.ea.com/ea-originals/news/explaining-rarity-in-fifa-ultimate-team"
+      },
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Bukayo_Saka_England_v_Ghana_23_June_2026-057_(cropped).jpg",
+      "fileTitle": "File:Bukayo Saka England v Ghana 23 June 2026-057 (cropped).jpg",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "originalWidth": 2666,
+      "originalHeight": 4000,
+      "wikipediaPage": "https://en.wikipedia.org/wiki/Bukayo%20Saka",
+      "wikidata": "Q59306386",
+      "image": "/public/player-faces/gold/gold-246669.png",
+      "author": "Bryan Berlin",
+      "credit": "Own work",
+      "crop": {
+        "left": 161,
+        "top": 20,
+        "size": 707,
+        "sourceWidth": 960,
+        "sourceHeight": 1440
+      },
+      "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features.",
+      "sha256": "07f230b49a95c78c065aa3f17c5381336f6948b636e8401391658e84b8cd97e0"
+    },
+    {
+      "id": "gold-200389",
+      "sourcePlayerId": "200389",
+      "name": "Jan Oblak",
+      "nationality": "Slovenia",
+      "gender": "male",
+      "tier": "gold",
+      "kind": "head",
+      "overallRating": 88,
+      "genderSource": {
+        "ea": {
+          "id": 0,
+          "label": "Men's Football"
+        },
+        "wikidata": "Q2058682"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "goldRule": {
+        "minimumOverall": 75,
+        "source": "https://www.ea.com/ea-originals/news/explaining-rarity-in-fifa-ultimate-team"
+      },
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Jan_Oblak_2019.jpg",
+      "fileTitle": "File:Jan Oblak 2019.jpg",
+      "licenseName": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "originalWidth": 869,
+      "originalHeight": 1208,
+      "wikipediaPage": "https://en.wikipedia.org/wiki/Jan%20Oblak",
+      "wikidata": "Q2058682",
+      "image": "/public/player-faces/gold/gold-200389.png",
+      "author": "Анна Нэсси",
+      "credit": "https://www.soccer.ru/galery/1140903/photo/830771",
+      "crop": {
+        "left": 294,
+        "top": 0,
+        "size": 387,
+        "sourceWidth": 869,
+        "sourceHeight": 1208
+      },
+      "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features.",
+      "sha256": "b58d9c8ab95fc94abde54c3c9a18c9188e3d706806f9c9ff2fa3cb410099adcd"
+    },
+    {
+      "id": "gold-247635",
+      "sourcePlayerId": "247635",
+      "name": "Khvicha Kvaratskhelia",
+      "nationality": "Georgia",
+      "gender": "male",
+      "tier": "gold",
+      "kind": "head",
+      "overallRating": 87,
+      "genderSource": {
+        "ea": {
+          "id": 0,
+          "label": "Men's Football"
+        },
+        "wikidata": "Q61780902"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "goldRule": {
+        "minimumOverall": 75,
+        "source": "https://www.ea.com/ea-originals/news/explaining-rarity-in-fifa-ultimate-team"
+      },
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Kvaratskhelia_asse_psg_2425.png",
+      "fileTitle": "File:Kvaratskhelia asse psg 2425.png",
+      "licenseName": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "originalWidth": 624,
+      "originalHeight": 882,
+      "wikipediaPage": "https://en.wikipedia.org/wiki/Khvicha%20Kvaratskhelia",
+      "wikidata": "Q61780902",
+      "image": "/public/player-faces/gold/gold-247635.png",
+      "author": "Paté kroute",
+      "credit": "Own work",
+      "crop": {
+        "left": 227,
+        "top": 50,
+        "size": 251,
+        "sourceWidth": 624,
+        "sourceHeight": 882
+      },
+      "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features.",
+      "sha256": "3ed175831b0da92dd56f7044af05a7156b84abd5c5d87d77924c00ef16fe7c99"
+    },
+    {
+      "id": "gold-237383",
+      "sourcePlayerId": "237383",
+      "name": "Alessandro Bastoni",
+      "nationality": "Italy",
+      "gender": "male",
+      "tier": "gold",
+      "kind": "head",
+      "overallRating": 87,
+      "genderSource": {
+        "ea": {
+          "id": 0,
+          "label": "Men's Football"
+        },
+        "wikidata": "Q28561068"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "goldRule": {
+        "minimumOverall": 75,
+        "source": "https://www.ea.com/ea-originals/news/explaining-rarity-in-fifa-ultimate-team"
+      },
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Norway_Italy_-_June_2025_A_36_(cropped).jpg",
+      "fileTitle": "File:Norway Italy - June 2025 A 36 (cropped).jpg",
+      "licenseName": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "originalWidth": 2433,
+      "originalHeight": 3043,
+      "wikipediaPage": "https://en.wikipedia.org/wiki/Alessandro%20Bastoni",
+      "wikidata": "Q28561068",
+      "image": "/public/player-faces/gold/gold-237383.png",
+      "author": "MichaelEmilio",
+      "credit": "Own work",
+      "crop": {
+        "left": 332,
+        "top": 0,
+        "size": 540,
+        "sourceWidth": 960,
+        "sourceHeight": 1201
+      },
+      "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features.",
+      "sha256": "f7aebe7452680bae57466d1d774ce9ba3004832d66c23d90f7c186013c7bc81e"
+    },
+    {
+      "id": "gold-192985",
+      "sourcePlayerId": "192985",
+      "name": "Kevin De Bruyne",
+      "nationality": "Belgium",
+      "gender": "male",
+      "tier": "gold",
+      "kind": "head",
+      "overallRating": 87,
+      "genderSource": {
+        "ea": {
+          "id": 0,
+          "label": "Men's Football"
+        },
+        "wikidata": "Q357984"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "goldRule": {
+        "minimumOverall": 75,
+        "source": "https://www.ea.com/ea-originals/news/explaining-rarity-in-fifa-ultimate-team"
+      },
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Kevin_De_Bruyne_USMNT_v_Belgium_Mar_28_2026-64_(cropped).jpg",
+      "fileTitle": "File:Kevin De Bruyne USMNT v Belgium Mar 28 2026-64 (cropped).jpg",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "originalWidth": 3093,
+      "originalHeight": 4122,
+      "wikipediaPage": "https://en.wikipedia.org/wiki/Kevin%20De%20Bruyne",
+      "wikidata": "Q357984",
+      "image": "/public/player-faces/gold/gold-192985.png",
+      "author": "Bryan Berlin",
+      "credit": "Own work",
+      "crop": {
+        "left": 88,
+        "top": 44,
+        "size": 601,
+        "sourceWidth": 960,
+        "sourceHeight": 1279
+      },
+      "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features.",
+      "sha256": "4d8ccf894c87815aee558edd1586907c29e1faacc2b31394c80d5f8b5ed7a8ad"
+    },
+    {
+      "id": "gold-228702",
+      "sourcePlayerId": "228702",
+      "name": "Frenkie de Jong",
+      "nationality": "Holland",
+      "gender": "male",
+      "tier": "gold",
+      "kind": "head",
+      "overallRating": 87,
+      "genderSource": {
+        "ea": {
+          "id": 0,
+          "label": "Men's Football"
+        },
+        "wikidata": "Q19898898"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "goldRule": {
+        "minimumOverall": 75,
+        "source": "https://www.ea.com/ea-originals/news/explaining-rarity-in-fifa-ultimate-team"
+      },
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Frenkie_De_Jong_(2025)_(cropped).png",
+      "fileTitle": "File:Frenkie De Jong (2025) (cropped).png",
+      "licenseName": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "originalWidth": 706,
+      "originalHeight": 720,
+      "wikipediaPage": "https://en.wikipedia.org/wiki/Frenkie%20de%20Jong",
+      "wikidata": "Q19898898",
+      "image": "/public/player-faces/gold/gold-228702.png",
+      "author": "Unknown authorUnknown author",
+      "credit": "https://www.youtube.com/watch?v=fRt7943pUB4",
+      "crop": {
+        "left": 102,
+        "top": 0,
+        "size": 533,
+        "sourceWidth": 706,
+        "sourceHeight": 720
+      },
+      "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features.",
+      "sha256": "248123f32d9383c56b82a780ac24366a55796ba60ebf304522929ad638388019"
+    },
+    {
+      "id": "gold-256079",
+      "sourcePlayerId": "256079",
+      "name": "Moisés Caicedo",
+      "nationality": "Ecuador",
+      "gender": "male",
+      "tier": "gold",
+      "kind": "head",
+      "overallRating": 87,
+      "genderSource": {
+        "ea": {
+          "id": 0,
+          "label": "Men's Football"
+        },
+        "wikidata": "Q87715532"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "goldRule": {
+        "minimumOverall": 75,
+        "source": "https://www.ea.com/ea-originals/news/explaining-rarity-in-fifa-ultimate-team"
+      },
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Moises_Caicedo_Ecuador_v_Germany_25_June_2026-051_(cropped).jpg",
+      "fileTitle": "File:Moises Caicedo Ecuador v Germany 25 June 2026-051 (cropped).jpg",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "originalWidth": 2753,
+      "originalHeight": 4129,
+      "wikipediaPage": "https://en.wikipedia.org/wiki/Mois%C3%A9s%20Caicedo",
+      "wikidata": "Q87715532",
+      "image": "/public/player-faces/gold/gold-256079.png",
+      "author": "Bryan Berlin",
+      "credit": "Own work",
+      "crop": {
+        "left": 182,
+        "top": 0,
+        "size": 683,
+        "sourceWidth": 960,
+        "sourceHeight": 1440
+      },
+      "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features.",
+      "sha256": "5dca0e2b973707c8ba13f93c96f9396a823b5366400ad4aba41a09db8324142c"
+    },
+    {
+      "id": "gold-234378",
+      "sourcePlayerId": "234378",
+      "name": "Declan Rice",
+      "nationality": "England",
+      "gender": "male",
+      "tier": "gold",
+      "kind": "head",
+      "overallRating": 87,
+      "genderSource": {
+        "ea": {
+          "id": 0,
+          "label": "Men's Football"
+        },
+        "wikidata": "Q30007142"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "goldRule": {
+        "minimumOverall": 75,
+        "source": "https://www.ea.com/ea-originals/news/explaining-rarity-in-fifa-ultimate-team"
+      },
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Declan_Rice_England_v_Ghana_23_June_2026-150.jpg",
+      "fileTitle": "File:Declan Rice England v Ghana 23 June 2026-150.jpg",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "originalWidth": 3333,
+      "originalHeight": 5000,
+      "wikipediaPage": "https://en.wikipedia.org/wiki/Declan%20Rice",
+      "wikidata": "Q30007142",
+      "image": "/public/player-faces/gold/gold-234378.png",
+      "author": "Bryan Berlin",
+      "credit": "Own work",
+      "crop": {
+        "left": 182,
+        "top": 25,
+        "size": 634,
+        "sourceWidth": 960,
+        "sourceHeight": 1440
+      },
+      "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features.",
+      "sha256": "424918ed0266cc6dd4f95aad81a83927df4706c174270b162f172dccfe742792"
+    },
+    {
+      "id": "gold-207865",
+      "sourcePlayerId": "207865",
+      "name": "Marquinhos",
+      "nationality": "Brazil",
+      "gender": "male",
+      "tier": "gold",
+      "kind": "head",
+      "overallRating": 87,
+      "genderSource": {
+        "ea": {
+          "id": 0,
+          "label": "Men's Football"
+        },
+        "wikidata": "Q39230"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "goldRule": {
+        "minimumOverall": 75,
+        "source": "https://www.ea.com/ea-originals/news/explaining-rarity-in-fifa-ultimate-team"
+      },
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Marquinhos_Brazil_V_Morocco_13_June_2026-153_(cropped).jpg",
+      "fileTitle": "File:Marquinhos Brazil V Morocco 13 June 2026-153 (cropped).jpg",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "originalWidth": 2051,
+      "originalHeight": 3076,
+      "wikipediaPage": "https://en.wikipedia.org/wiki/Marquinhos",
+      "wikidata": "Q39230",
+      "image": "/public/player-faces/gold/gold-207865.png",
+      "author": "Bryan Berlin",
+      "credit": "Own work",
+      "crop": {
+        "left": 115,
+        "top": 49,
+        "size": 691,
+        "sourceWidth": 960,
+        "sourceHeight": 1440
+      },
+      "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features.",
+      "sha256": "13fd7765010fc7d5a6c21cffdb04fece7495556686db93c8b0c68b1d395c64ec"
+    },
+    {
+      "id": "gold-177683",
+      "sourcePlayerId": "177683",
+      "name": "Yann Sommer",
+      "nationality": "Switzerland",
+      "gender": "male",
+      "tier": "gold",
+      "kind": "head",
+      "overallRating": 87,
+      "genderSource": {
+        "ea": {
+          "id": 0,
+          "label": "Men's Football"
+        },
+        "wikidata": "Q667596"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "goldRule": {
+        "minimumOverall": 75,
+        "source": "https://www.ea.com/ea-originals/news/explaining-rarity-in-fifa-ultimate-team"
+      },
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:FC_Salzburg_gegen_Inter_Mailand_(Testspiel_2023-08-09)_69.jpg",
+      "fileTitle": "File:FC Salzburg gegen Inter Mailand (Testspiel 2023-08-09) 69.jpg",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "originalWidth": 1413,
+      "originalHeight": 2101,
+      "wikipediaPage": "https://en.wikipedia.org/wiki/Yann%20Sommer",
+      "wikidata": "Q667596",
+      "image": "/public/player-faces/gold/gold-177683.png",
+      "author": "Werner100359",
+      "credit": "Own work",
+      "crop": {
+        "left": 438,
+        "top": 45,
+        "size": 265,
+        "sourceWidth": 960,
+        "sourceHeight": 1427
+      },
+      "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features.",
+      "sha256": "5fba1ee3ae5d6ed775e8bec696da1721f86f2961ad64968563d2c0febc5fa03d"
+    },
+    {
+      "id": "gold-241486",
+      "sourcePlayerId": "241486",
+      "name": "Jules Koundé",
+      "nationality": "France",
+      "gender": "male",
+      "tier": "gold",
+      "kind": "head",
+      "overallRating": 87,
+      "genderSource": {
+        "ea": {
+          "id": 0,
+          "label": "Men's Football"
+        },
+        "wikidata": "Q47170176"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "goldRule": {
+        "minimumOverall": 75,
+        "source": "https://www.ea.com/ea-originals/news/explaining-rarity-in-fifa-ultimate-team"
+      },
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Jules_Kounde_France_v_Senegal_16_June_2026-449_(cropped).jpg",
+      "fileTitle": "File:Jules Kounde France v Senegal 16 June 2026-449 (cropped).jpg",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "originalWidth": 1582,
+      "originalHeight": 2372,
+      "wikipediaPage": "https://en.wikipedia.org/wiki/Jules%20Kound%C3%A9",
+      "wikidata": "Q47170176",
+      "image": "/public/player-faces/gold/gold-241486.png",
+      "author": "Bryan Berlin",
+      "credit": "Own work",
+      "crop": {
+        "left": 140,
+        "top": 142,
+        "size": 554,
+        "sourceWidth": 960,
+        "sourceHeight": 1439
+      },
+      "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features.",
+      "sha256": "53de047ba5f6376ff560a54b7b360f9cc4ab49a1aec25c325ab46230022a15f4"
+    },
+    {
+      "id": "gold-212198",
+      "sourcePlayerId": "212198",
+      "name": "Bruno Fernandes",
+      "nationality": "Portugal",
+      "gender": "male",
+      "tier": "gold",
+      "kind": "head",
+      "overallRating": 87,
+      "genderSource": {
+        "ea": {
+          "id": 0,
+          "label": "Men's Football"
+        },
+        "wikidata": "Q4979316"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "goldRule": {
+        "minimumOverall": 75,
+        "source": "https://www.ea.com/ea-originals/news/explaining-rarity-in-fifa-ultimate-team"
+      },
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Bruno_Fernandes_USMNT_v_Portugal_Mar_31_2026-27_(cropped).jpg",
+      "fileTitle": "File:Bruno Fernandes USMNT v Portugal Mar 31 2026-27 (cropped).jpg",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "originalWidth": 2816,
+      "originalHeight": 4222,
+      "wikipediaPage": "https://en.wikipedia.org/wiki/Bruno%20Fernandes",
+      "wikidata": "Q4979316",
+      "image": "/public/player-faces/gold/gold-212198.png",
+      "author": "Bryan Berlin",
+      "credit": "Own work",
+      "crop": {
+        "left": 42,
+        "top": 69,
+        "size": 742,
+        "sourceWidth": 960,
+        "sourceHeight": 1439
+      },
+      "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features.",
+      "sha256": "5c9a85ebd518fa142fa9ec46f4eb2e27ab25420e9d1910cfb7c253716fd4c38d"
+    },
+    {
+      "id": "gold-243715",
+      "sourcePlayerId": "243715",
+      "name": "William Saliba",
+      "nationality": "France",
+      "gender": "male",
+      "tier": "gold",
+      "kind": "head",
+      "overallRating": 87,
+      "genderSource": {
+        "ea": {
+          "id": 0,
+          "label": "Men's Football"
+        },
+        "wikidata": "Q56868118"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "goldRule": {
+        "minimumOverall": 75,
+        "source": "https://www.ea.com/ea-originals/news/explaining-rarity-in-fifa-ultimate-team"
+      },
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:William_Saliba_France_v_Paraguay_4_July_2026-183.jpg",
+      "fileTitle": "File:William Saliba France v Paraguay 4 July 2026-183.jpg",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "originalWidth": 3333,
+      "originalHeight": 5000,
+      "wikipediaPage": "https://en.wikipedia.org/wiki/William%20Saliba",
+      "wikidata": "Q56868118",
+      "image": "/public/player-faces/gold/gold-243715.png",
+      "author": "Bryan Berlin",
+      "credit": "Own work",
+      "crop": {
+        "left": 122,
+        "top": 0,
+        "size": 656,
+        "sourceWidth": 960,
+        "sourceHeight": 1440
+      },
+      "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features.",
+      "sha256": "cc8f4e13b3f4fb99fbf9f5fad7484c54bce43d65a42806bcc4e21b5de2f98220"
+    },
+    {
+      "id": "gold-246191",
+      "sourcePlayerId": "246191",
+      "name": "Julián Alvarez",
+      "nationality": "Argentina",
+      "gender": "male",
+      "tier": "gold",
+      "kind": "head",
+      "overallRating": 87,
+      "genderSource": {
+        "ea": {
+          "id": 0,
+          "label": "Men's Football"
+        },
+        "wikidata": "Q59381180"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "goldRule": {
+        "minimumOverall": 75,
+        "source": "https://www.ea.com/ea-originals/news/explaining-rarity-in-fifa-ultimate-team"
+      },
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Julian_Alvarez_Argentina_v_Spain_19_July_2026-052_(cropped).jpg",
+      "fileTitle": "File:Julian Alvarez Argentina v Spain 19 July 2026-052 (cropped).jpg",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "originalWidth": 2446,
+      "originalHeight": 3748,
+      "wikipediaPage": "https://en.wikipedia.org/wiki/Juli%C3%A1n%20Alvarez",
+      "wikidata": "Q59381180",
+      "image": "/public/player-faces/gold/gold-246191.png",
+      "author": "Bryan Berlin",
+      "credit": "Own work",
+      "crop": {
+        "left": 66,
+        "top": 85,
+        "size": 722,
+        "sourceWidth": 960,
+        "sourceHeight": 1471
+      },
+      "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features.",
+      "sha256": "5870839edf5d6c2e7e4c9babbcd9bd4dd748d592fcd9f72fc806dbf9d700fef1"
+    },
+    {
+      "id": "gold-213331",
+      "sourcePlayerId": "213331",
+      "name": "Jonathan Tah",
+      "nationality": "Germany",
+      "gender": "male",
+      "tier": "gold",
+      "kind": "head",
+      "overallRating": 87,
+      "genderSource": {
+        "ea": {
+          "id": 0,
+          "label": "Men's Football"
+        },
+        "wikidata": "Q14640027"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "goldRule": {
+        "minimumOverall": 75,
+        "source": "https://www.ea.com/ea-originals/news/explaining-rarity-in-fifa-ultimate-team"
+      },
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Jonathan_Tah_Ecuador_v_Germany_25_June_2026-116.jpg",
+      "fileTitle": "File:Jonathan Tah Ecuador v Germany 25 June 2026-116.jpg",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "originalWidth": 3333,
+      "originalHeight": 5000,
+      "wikipediaPage": "https://en.wikipedia.org/wiki/Jonathan%20Tah",
+      "wikidata": "Q14640027",
+      "image": "/public/player-faces/gold/gold-213331.png",
+      "author": "Bryan Berlin",
+      "credit": "Own work",
+      "crop": {
+        "left": 187,
+        "top": 58,
+        "size": 644,
+        "sourceWidth": 960,
+        "sourceHeight": 1440
+      },
+      "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features.",
+      "sha256": "729db997531e0c78739df508c2627c2fc5305cd7c4ee7fe318a700a8c13eded8"
+    },
+    {
+      "id": "gold-239837",
+      "sourcePlayerId": "239837",
+      "name": "Alexis Mac Allister",
+      "nationality": "Argentina",
+      "gender": "male",
+      "tier": "gold",
+      "kind": "head",
+      "overallRating": 87,
+      "genderSource": {
+        "ea": {
+          "id": 0,
+          "label": "Men's Football"
+        },
+        "wikidata": "Q33297140"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "goldRule": {
+        "minimumOverall": 75,
+        "source": "https://www.ea.com/ea-originals/news/explaining-rarity-in-fifa-ultimate-team"
+      },
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Alexis_Mac_Allister_Argentina_v_Spain_19_July_2026-162_(cropped).jpg",
+      "fileTitle": "File:Alexis Mac Allister Argentina v Spain 19 July 2026-162 (cropped).jpg",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "originalWidth": 2673,
+      "originalHeight": 3749,
+      "wikipediaPage": "https://en.wikipedia.org/wiki/Alexis%20Mac%20Allister",
+      "wikidata": "Q33297140",
+      "image": "/public/player-faces/gold/gold-239837.png",
+      "author": "Bryan Berlin",
+      "credit": "Own work",
+      "crop": {
+        "left": 163,
+        "top": 0,
+        "size": 707,
+        "sourceWidth": 960,
+        "sourceHeight": 1346
+      },
+      "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features.",
+      "sha256": "19784a8099516bf3f738c5fec5aa3f41ef2e0bec4a9e41c358e00547ad717bd3"
+    },
+    {
+      "id": "gold-215698",
+      "sourcePlayerId": "215698",
+      "name": "Mike Maignan",
+      "nationality": "France",
+      "gender": "male",
+      "tier": "gold",
+      "kind": "head",
+      "overallRating": 87,
+      "genderSource": {
+        "ea": {
+          "id": 0,
+          "label": "Men's Football"
+        },
+        "wikidata": "Q17274709"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "goldRule": {
+        "minimumOverall": 75,
+        "source": "https://www.ea.com/ea-originals/news/explaining-rarity-in-fifa-ultimate-team"
+      },
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Mike_Maignan_France_v_Norway_26_June_26-132_(cropped).jpg",
+      "fileTitle": "File:Mike Maignan France v Norway 26 June 26-132 (cropped).jpg",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "originalWidth": 917,
+      "originalHeight": 1318,
+      "wikipediaPage": "https://en.wikipedia.org/wiki/Mike%20Maignan",
+      "wikidata": "Q17274709",
+      "image": "/public/player-faces/gold/gold-215698.png",
+      "author": "Bryan Berlin",
+      "credit": "Own work",
+      "crop": {
+        "left": 121,
+        "top": 102,
+        "size": 445,
+        "sourceWidth": 917,
+        "sourceHeight": 1318
+      },
+      "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features.",
+      "sha256": "88e71abfad14c881111f9dd5c600a9641cfaddffe65484f1ea3d68f8561e03e3"
+    },
+    {
+      "id": "gold-222665",
+      "sourcePlayerId": "222665",
+      "name": "Martin Ødegaard",
+      "nationality": "Norway",
+      "gender": "male",
+      "tier": "gold",
+      "kind": "head",
+      "overallRating": 87,
+      "genderSource": {
+        "ea": {
+          "id": 0,
+          "label": "Men's Football"
+        },
+        "wikidata": "Q16902219"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "goldRule": {
+        "minimumOverall": 75,
+        "source": "https://www.ea.com/ea-originals/news/explaining-rarity-in-fifa-ultimate-team"
+      },
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Martin_Odegaard_France_v_Norway_26_June_26-014.jpg",
+      "fileTitle": "File:Martin Odegaard France v Norway 26 June 26-014.jpg",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "originalWidth": 3333,
+      "originalHeight": 5000,
+      "wikipediaPage": "https://en.wikipedia.org/wiki/Martin%20%C3%98degaard",
+      "wikidata": "Q16902219",
+      "image": "/public/player-faces/gold/gold-222665.png",
+      "author": "Bryan Berlin",
+      "credit": "Own work",
+      "crop": {
+        "left": 102,
+        "top": 82,
+        "size": 657,
+        "sourceWidth": 960,
+        "sourceHeight": 1440
+      },
+      "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features.",
+      "sha256": "da7e5405493d23bf4586d570b6255e37c17783fec0c43c4e8f4e05ab670e4eca"
+    },
+    {
+      "id": "gold-220901",
+      "sourcePlayerId": "220901",
+      "name": "David Raya",
+      "nationality": "Spain",
+      "gender": "male",
+      "tier": "gold",
+      "kind": "head",
+      "overallRating": 87,
+      "genderSource": {
+        "ea": {
+          "id": 0,
+          "label": "Men's Football"
+        },
+        "wikidata": "Q19665907"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "goldRule": {
+        "minimumOverall": 75,
+        "source": "https://www.ea.com/ea-originals/news/explaining-rarity-in-fifa-ultimate-team"
+      },
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:David_Raya_Argentina_v_Spain_19_July_2026-003_(cropped).jpg",
+      "fileTitle": "File:David Raya Argentina v Spain 19 July 2026-003 (cropped).jpg",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "originalWidth": 2183,
+      "originalHeight": 3481,
+      "wikipediaPage": "https://en.wikipedia.org/wiki/David%20Raya",
+      "wikidata": "Q19665907",
+      "image": "/public/player-faces/gold/gold-220901.png",
+      "author": "Bryan Berlin",
+      "credit": "Own work",
+      "crop": {
+        "left": 44,
+        "top": 0,
+        "size": 785,
+        "sourceWidth": 960,
+        "sourceHeight": 1531
+      },
+      "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features.",
+      "sha256": "72cc6d565b652af726bdc739dcec9c0524e0b23bea14d420971983cea1c37b93"
+    },
+    {
+      "id": "gold-241651",
+      "sourcePlayerId": "241651",
+      "name": "Viktor Gyökeres",
+      "nationality": "Sweden",
+      "gender": "male",
+      "tier": "gold",
+      "kind": "head",
+      "overallRating": 87,
+      "genderSource": {
+        "ea": {
+          "id": 0,
+          "label": "Men's Football"
+        },
+        "wikidata": "Q47075606"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "goldRule": {
+        "minimumOverall": 75,
+        "source": "https://www.ea.com/ea-originals/news/explaining-rarity-in-fifa-ultimate-team"
+      },
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Viktor_Gyokeres_France_v_Sweden_6.30.26-123_(cropped).jpg",
+      "fileTitle": "File:Viktor Gyokeres France v Sweden 6.30.26-123 (cropped).jpg",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "originalWidth": 1138,
+      "originalHeight": 1818,
+      "wikipediaPage": "https://en.wikipedia.org/wiki/Viktor%20Gy%C3%B6keres",
+      "wikidata": "Q47075606",
+      "image": "/public/player-faces/gold/gold-241651.png",
+      "author": "Bryan Berlin",
+      "credit": "Own work",
+      "crop": {
+        "left": 134,
+        "top": 137,
+        "size": 671,
+        "sourceWidth": 960,
+        "sourceHeight": 1534
+      },
+      "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features.",
+      "sha256": "2b4259b63a1f7d8562177fcb575b7173755a87ee456d4cf030f11be3bd76664c"
+    },
+    {
+      "id": "gold-224232",
+      "sourcePlayerId": "224232",
+      "name": "Nicolò Barella",
+      "nationality": "Italy",
+      "gender": "male",
+      "tier": "gold",
+      "kind": "head",
+      "overallRating": 87,
+      "genderSource": {
+        "ea": {
+          "id": 0,
+          "label": "Men's Football"
+        },
+        "wikidata": "Q20090225"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "goldRule": {
+        "minimumOverall": 75,
+        "source": "https://www.ea.com/ea-originals/news/explaining-rarity-in-fifa-ultimate-team"
+      },
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Nicol%C3%B2_Barella_in_2021_(cropped_2).jpg",
+      "fileTitle": "File:Nicolò Barella in 2021 (cropped 2).jpg",
+      "licenseName": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "originalWidth": 628,
+      "originalHeight": 942,
+      "wikipediaPage": "https://en.wikipedia.org/wiki/Nicol%C3%B2%20Barella",
+      "wikidata": "Q20090225",
+      "image": "/public/player-faces/gold/gold-224232.png",
+      "author": "Biser Todorov",
+      "credit": "Own work",
+      "crop": {
+        "left": 60,
+        "top": 14,
+        "size": 455,
+        "sourceWidth": 628,
+        "sourceHeight": 942
+      },
+      "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features.",
+      "sha256": "9e6608a698b9f6ea48f7e25edce28631c008230591188a49d91e24c05ffe5d41"
+    },
+    {
+      "id": "gold-205452",
+      "sourcePlayerId": "205452",
+      "name": "Antonio Rüdiger",
+      "nationality": "Germany",
+      "gender": "male",
+      "tier": "gold",
+      "kind": "head",
+      "overallRating": 86,
+      "genderSource": {
+        "ea": {
+          "id": 0,
+          "label": "Men's Football"
+        },
+        "wikidata": "Q96755"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "goldRule": {
+        "minimumOverall": 75,
+        "source": "https://www.ea.com/ea-originals/news/explaining-rarity-in-fifa-ultimate-team"
+      },
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Antonio_Rudiger_Ecuador_v_Germany_25_June_2026-055_(cropped).jpg",
+      "fileTitle": "File:Antonio Rudiger Ecuador v Germany 25 June 2026-055 (cropped).jpg",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "originalWidth": 2283,
+      "originalHeight": 3153,
+      "wikipediaPage": "https://en.wikipedia.org/wiki/Antonio%20R%C3%BCdiger",
+      "wikidata": "Q96755",
+      "image": "/public/player-faces/gold/gold-205452.png",
+      "author": "Bryan Berlin",
+      "credit": "Own work",
+      "crop": {
+        "left": 18,
+        "top": 0,
+        "size": 768,
+        "sourceWidth": 960,
+        "sourceHeight": 1326
+      },
+      "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features.",
+      "sha256": "32a4a4002bc6eaa4331ee425646195a22f03636642a192e3023df7ef71f2a46d"
+    },
+    {
+      "id": "gold-247827",
+      "sourcePlayerId": "247827",
+      "name": "Michael Olise",
+      "nationality": "France",
+      "gender": "male",
+      "tier": "gold",
+      "kind": "head",
+      "overallRating": 86,
+      "genderSource": {
+        "ea": {
+          "id": 0,
+          "label": "Men's Football"
+        },
+        "wikidata": "Q62050484"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "goldRule": {
+        "minimumOverall": 75,
+        "source": "https://www.ea.com/ea-originals/news/explaining-rarity-in-fifa-ultimate-team"
+      },
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Michael_Olise_France_v_Senegal_16_June_2026-307_(cropped).jpg",
+      "fileTitle": "File:Michael Olise France v Senegal 16 June 2026-307 (cropped).jpg",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "originalWidth": 2877,
+      "originalHeight": 4315,
+      "wikipediaPage": "https://en.wikipedia.org/wiki/Michael%20Olise",
+      "wikidata": "Q62050484",
+      "image": "/public/player-faces/gold/gold-247827.png",
+      "author": "Bryan Berlin",
+      "credit": "Own work",
+      "crop": {
+        "left": 95,
+        "top": 22,
+        "size": 673,
+        "sourceWidth": 960,
+        "sourceHeight": 1440
+      },
+      "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features.",
+      "sha256": "169f262799916a91a3cb9a76aa667cb7a0b6682ab80209790523b7978c24da6b"
+    },
+    {
+      "id": "gold-239818",
+      "sourcePlayerId": "239818",
+      "name": "Rúben Dias",
+      "nationality": "Portugal",
+      "gender": "male",
+      "tier": "gold",
+      "kind": "head",
+      "overallRating": 86,
+      "genderSource": {
+        "ea": {
+          "id": 0,
+          "label": "Men's Football"
+        },
+        "wikidata": "Q21621168"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "goldRule": {
+        "minimumOverall": 75,
+        "source": "https://www.ea.com/ea-originals/news/explaining-rarity-in-fifa-ultimate-team"
+      },
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Ruben_Dias_Croatia_v_Portugal_2_July_2026-228_(cropped).jpg",
+      "fileTitle": "File:Ruben Dias Croatia v Portugal 2 July 2026-228 (cropped).jpg",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "originalWidth": 2779,
+      "originalHeight": 4168,
+      "wikipediaPage": "https://en.wikipedia.org/wiki/R%C3%BAben%20Dias",
+      "wikidata": "Q21621168",
+      "image": "/public/player-faces/gold/gold-239818.png",
+      "author": "Bryan Berlin",
+      "credit": "Own work",
+      "crop": {
+        "left": 102,
+        "top": 0,
+        "size": 858,
+        "sourceWidth": 960,
+        "sourceHeight": 1440
+      },
+      "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features.",
+      "sha256": "158c86777b477936edfa6c694d815dda880183d7d27f546f7c17399d1cf8ef11"
+    },
+    {
+      "id": "gold-211110",
+      "sourcePlayerId": "211110",
+      "name": "Paulo Dybala",
+      "nationality": "Argentina",
+      "gender": "male",
+      "tier": "gold",
+      "kind": "head",
+      "overallRating": 86,
+      "genderSource": {
+        "ea": {
+          "id": 0,
+          "label": "Men's Football"
+        },
+        "wikidata": "Q166317"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "goldRule": {
+        "minimumOverall": 75,
+        "source": "https://www.ea.com/ea-originals/news/explaining-rarity-in-fifa-ultimate-team"
+      },
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:%D0%9C%D0%B0%D1%82%D1%87_%C2%AB%D0%94%D0%B8%D0%BD%D0%B0%D0%BC%D0%BE%C2%BB_-_%C2%AB%D0%AE%D0%B2%D0%B5%D0%BD%D1%82%D1%83%D1%81%C2%BB_0-2._20_%D0%BE%D0%BA%D1%82%D1%8F%D0%B1%D1%80%D1%8F_2020_%D0%B3%D0%BE%D0%B4%D0%B0_%E2%80%94_1153905_(cropped).jpg",
+      "fileTitle": "File:Матч «Динамо» - «Ювентус» 0-2. 20 октября 2020 года — 1153905 (cropped).jpg",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "originalWidth": 480,
+      "originalHeight": 640,
+      "wikipediaPage": "https://en.wikipedia.org/wiki/Paulo%20Dybala",
+      "wikidata": "Q166317",
+      "image": "/public/player-faces/gold/gold-211110.png",
+      "author": "Olga Shcherbytska",
+      "credit": "dynamomania.com (original photo)",
+      "crop": {
+        "left": 123,
+        "top": 5,
+        "size": 326,
+        "sourceWidth": 480,
+        "sourceHeight": 640
+      },
+      "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features.",
+      "sha256": "9dca8fd4c96afb4bbb430a5fda43ee1718fc62f983d4be9d117283c10d793272"
+    },
+    {
+      "id": "gold-247851",
+      "sourcePlayerId": "247851",
+      "name": "Bruno Guimarães",
+      "nationality": "Brazil",
+      "gender": "male",
+      "tier": "gold",
+      "kind": "head",
+      "overallRating": 86,
+      "genderSource": {
+        "ea": {
+          "id": 0,
+          "label": "Men's Football"
+        },
+        "wikidata": "Q58323172"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "goldRule": {
+        "minimumOverall": 75,
+        "source": "https://www.ea.com/ea-originals/news/explaining-rarity-in-fifa-ultimate-team"
+      },
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Bruno_Guimaraes_Brazil_V_Morocco_13_June_2026-78_(cropped).jpg",
+      "fileTitle": "File:Bruno Guimaraes Brazil V Morocco 13 June 2026-78 (cropped).jpg",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "originalWidth": 2666,
+      "originalHeight": 4000,
+      "wikipediaPage": "https://en.wikipedia.org/wiki/Bruno%20Guimar%C3%A3es",
+      "wikidata": "Q58323172",
+      "image": "/public/player-faces/gold/gold-247851.png",
+      "author": "Bryan Berlin",
+      "credit": "Own work",
+      "crop": {
+        "left": 156,
+        "top": 0,
+        "size": 714,
+        "sourceWidth": 960,
+        "sourceHeight": 1440
+      },
+      "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features.",
+      "sha256": "6e9a15e331c93ff6aa7bcab1b3a9bd1422cd3956021dcb58a92e89ad7a74399e"
+    },
+    {
+      "id": "gold-256196",
+      "sourcePlayerId": "256196",
+      "name": "Willian Pacho",
+      "nationality": "Ecuador",
+      "gender": "male",
+      "tier": "gold",
+      "kind": "head",
+      "overallRating": 86,
+      "genderSource": {
+        "ea": {
+          "id": 0,
+          "label": "Men's Football"
+        },
+        "wikidata": "Q87767569"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "goldRule": {
+        "minimumOverall": 75,
+        "source": "https://www.ea.com/ea-originals/news/explaining-rarity-in-fifa-ultimate-team"
+      },
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Willian_Pacho_Ecuador_v_Germany_25_June_2026-228.jpg",
+      "fileTitle": "File:Willian Pacho Ecuador v Germany 25 June 2026-228.jpg",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "originalWidth": 3333,
+      "originalHeight": 5000,
+      "wikipediaPage": "https://en.wikipedia.org/wiki/Willian%20Pacho",
+      "wikidata": "Q87767569",
+      "image": "/public/player-faces/gold/gold-256196.png",
+      "author": "Bryan Berlin",
+      "credit": "Own work",
+      "crop": {
+        "left": 310,
+        "top": 48,
+        "size": 355,
+        "sourceWidth": 960,
+        "sourceHeight": 1440
+      },
+      "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features.",
+      "sha256": "be8967950dfe1c5e60cf479e822f74bf11807545e3609727efeda9ad8c956d7a"
+    },
+    {
+      "id": "gold-208128",
+      "sourcePlayerId": "208128",
+      "name": "Hakan Çalhanoğlu",
+      "nationality": "Turkey",
+      "gender": "male",
+      "tier": "gold",
+      "kind": "head",
+      "overallRating": 86,
+      "genderSource": {
+        "ea": {
+          "id": 0,
+          "label": "Men's Football"
+        },
+        "wikidata": "Q763465"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "goldRule": {
+        "minimumOverall": 75,
+        "source": "https://www.ea.com/ea-originals/news/explaining-rarity-in-fifa-ultimate-team"
+      },
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:AUT_vs._TUR_2016-03-29_(342).jpg",
+      "fileTitle": "File:AUT vs. TUR 2016-03-29 (342).jpg",
+      "licenseName": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "originalWidth": 1600,
+      "originalHeight": 2200,
+      "wikipediaPage": "https://en.wikipedia.org/wiki/Hakan%20%C3%87alhano%C4%9Flu",
+      "wikidata": "Q763465",
+      "image": "/public/player-faces/gold/gold-208128.png",
+      "author": "Steindy (talk) 10:15, 11 April 2016 (UTC)",
+      "credit": "Own work",
+      "crop": {
+        "left": 0,
+        "top": 0,
+        "size": 924,
+        "sourceWidth": 960,
+        "sourceHeight": 1320
+      },
+      "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features.",
+      "sha256": "83cc15ba454c48b46c888f550018704bba7caae9997250d6b5fa9dfe83e62bee"
+    },
+    {
+      "id": "gold-158023",
+      "sourcePlayerId": "158023",
+      "name": "Lionel Messi",
+      "nationality": "Argentina",
+      "gender": "male",
+      "tier": "gold",
+      "kind": "head",
+      "overallRating": 86,
+      "genderSource": {
+        "ea": {
+          "id": 0,
+          "label": "Men's Football"
+        },
+        "wikidata": "Q615"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "goldRule": {
+        "minimumOverall": 75,
+        "source": "https://www.ea.com/ea-originals/news/explaining-rarity-in-fifa-ultimate-team"
+      },
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Leo_Messi_Argentina_v_Egypt_7_July_2026-1.jpg",
+      "fileTitle": "File:Leo Messi Argentina v Egypt 7 July 2026-1.jpg",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "originalWidth": 3333,
+      "originalHeight": 5000,
+      "wikipediaPage": "https://en.wikipedia.org/wiki/Lionel%20Messi",
+      "wikidata": "Q615",
+      "image": "/public/player-faces/gold/gold-158023.png",
+      "author": "Bryan Berlin",
+      "credit": "Own work",
+      "crop": {
+        "left": 155,
+        "top": 2,
+        "size": 608,
+        "sourceWidth": 960,
+        "sourceHeight": 1440
+      },
+      "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features.",
+      "sha256": "5d782dfca47a99327e626e85d38b61d524c2e2f412bd7982081a85bee59dd4fa"
+    },
+    {
+      "id": "gold-256516",
+      "sourcePlayerId": "256516",
+      "name": "Nico Williams",
+      "nationality": "Spain",
+      "gender": "male",
+      "tier": "gold",
+      "kind": "head",
+      "overallRating": 86,
+      "genderSource": {
+        "ea": {
+          "id": 0,
+          "label": "Men's Football"
+        },
+        "wikidata": "Q104414736"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "goldRule": {
+        "minimumOverall": 75,
+        "source": "https://www.ea.com/ea-originals/news/explaining-rarity-in-fifa-ultimate-team"
+      },
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Nico_Williams_Argentina_v_Spain_19_July_2026-196_(cropped).jpg",
+      "fileTitle": "File:Nico Williams Argentina v Spain 19 July 2026-196 (cropped).jpg",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "originalWidth": 1432,
+      "originalHeight": 2380,
+      "wikipediaPage": "https://en.wikipedia.org/wiki/Nico%20Williams",
+      "wikidata": "Q104414736",
+      "image": "/public/player-faces/gold/gold-256516.png",
+      "author": "Bryan Berlin",
+      "credit": "Own work",
+      "crop": {
+        "left": 227,
+        "top": 258,
+        "size": 521,
+        "sourceWidth": 960,
+        "sourceHeight": 1596
+      },
+      "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features.",
+      "sha256": "3cc0aad1742e51a5f120e6149a44b00c9ca7b4483902278dcf1be2398f4c74e5"
+    },
+    {
+      "id": "gold-240638",
+      "sourcePlayerId": "240638",
+      "name": "Tijjani Reijnders",
+      "nationality": "Holland",
+      "gender": "male",
+      "tier": "gold",
+      "kind": "head",
+      "overallRating": 86,
+      "genderSource": {
+        "ea": {
+          "id": 0,
+          "label": "Men's Football"
+        },
+        "wikidata": "Q39500352"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "goldRule": {
+        "minimumOverall": 75,
+        "source": "https://www.ea.com/ea-originals/news/explaining-rarity-in-fifa-ultimate-team"
+      },
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Manchester_City_2025_06_26_Juventus_(cropped_to_Reijniders).jpg",
+      "fileTitle": "File:Manchester City 2025 06 26 Juventus (cropped to Reijniders).jpg",
+      "licenseName": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "originalWidth": 289,
+      "originalHeight": 313,
+      "wikipediaPage": "https://en.wikipedia.org/wiki/Tijjani%20Reijnders",
+      "wikidata": "Q39500352",
+      "image": "/public/player-faces/gold/gold-240638.png",
+      "author": "Equipos de fútbol",
+      "credit": "https://www.flickr.com/photos/futbolhistoricoyactual/54621782131/",
+      "crop": {
+        "left": 86,
+        "top": 2,
+        "size": 163,
+        "sourceWidth": 289,
+        "sourceHeight": 313
+      },
+      "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features.",
+      "sha256": "50bc15b65ada4c50e1e906834f4e9a2f66b23f6293f8cc5f61e4ec09862e767a"
+    },
+    {
+      "id": "gold-192448",
+      "sourcePlayerId": "192448",
+      "name": "Marc-André ter Stegen",
+      "nationality": "Germany",
+      "gender": "male",
+      "tier": "gold",
+      "kind": "head",
+      "overallRating": 86,
+      "genderSource": {
+        "ea": {
+          "id": 0,
+          "label": "Men's Football"
+        },
+        "wikidata": "Q160472"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "goldRule": {
+        "minimumOverall": 75,
+        "source": "https://www.ea.com/ea-originals/news/explaining-rarity-in-fifa-ultimate-team"
+      },
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Marc-Andre_Ter_Stegen_ACCI_FCBARCELONA_Turisme_Catalunya_gira_pretemporada_CATPRESS.jpg",
+      "fileTitle": "File:Marc-Andre Ter Stegen ACCI FCBARCELONA Turisme Catalunya gira pretemporada CATPRESS.jpg",
+      "licenseName": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "originalWidth": 2400,
+      "originalHeight": 3000,
+      "wikipediaPage": "https://en.wikipedia.org/wiki/Marc-Andr%C3%A9%20ter%20Stegen",
+      "wikidata": "Q160472",
+      "image": "/public/player-faces/gold/gold-192448.png",
+      "author": "Government of Catalonia",
+      "credit": "https://govern.cat/salapremsa/audiovisual/imatge/2/470078\n\nEl Govern i el Barça posicionen Catalunya als Estats Units com a destinació d'inversions i de turisme prèmium] (press release)",
+      "crop": {
+        "left": 293,
+        "top": 66,
+        "size": 470,
+        "sourceWidth": 960,
+        "sourceHeight": 1200
+      },
+      "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features.",
+      "sha256": "9b9a71cb2c812c826e9ff4742499233d56afe019847228fd5fb75bfab3b22fa6"
+    },
+    {
+      "id": "gold-235073",
+      "sourcePlayerId": "235073",
+      "name": "Gregor Kobel",
+      "nationality": "Switzerland",
+      "gender": "male",
+      "tier": "gold",
+      "kind": "head",
+      "overallRating": 86,
+      "genderSource": {
+        "ea": {
+          "id": 0,
+          "label": "Men's Football"
+        },
+        "wikidata": "Q36184031"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "goldRule": {
+        "minimumOverall": 75,
+        "source": "https://www.ea.com/ea-originals/news/explaining-rarity-in-fifa-ultimate-team"
+      },
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:2023-08-12_TSV_Schott_Mainz_gegen_Borussia_Dortmund_(DFB-Pokal_2023-24)_by_Sandro_Halank%E2%80%93090.jpg",
+      "fileTitle": "File:2023-08-12 TSV Schott Mainz gegen Borussia Dortmund (DFB-Pokal 2023-24) by Sandro Halank–090.jpg",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "originalWidth": 1596,
+      "originalHeight": 1786,
+      "wikipediaPage": "https://en.wikipedia.org/wiki/Gregor%20Kobel",
+      "wikidata": "Q36184031",
+      "image": "/public/player-faces/gold/gold-235073.png",
+      "author": "Sandro Halank, Wikimedia Commons",
+      "credit": "Self-photographed",
+      "crop": {
+        "left": 300,
+        "top": 0,
+        "size": 348,
+        "sourceWidth": 960,
+        "sourceHeight": 1074
+      },
+      "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features.",
+      "sha256": "33711552309fa72eb75a1230a02a2727375c0090d1bf20107192293a17cccbd3"
+    },
+    {
+      "id": "gold-226268",
+      "sourcePlayerId": "226268",
+      "name": "Federico Dimarco",
+      "nationality": "Italy",
+      "gender": "male",
+      "tier": "gold",
+      "kind": "head",
+      "overallRating": 85,
+      "genderSource": {
+        "ea": {
+          "id": 0,
+          "label": "Men's Football"
+        },
+        "wikidata": "Q20204829"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "goldRule": {
+        "minimumOverall": 75,
+        "source": "https://www.ea.com/ea-originals/news/explaining-rarity-in-fifa-ultimate-team"
+      },
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Norway_Italy_-_June_2025_A_26_(cropped).jpg",
+      "fileTitle": "File:Norway Italy - June 2025 A 26 (cropped).jpg",
+      "licenseName": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "originalWidth": 2142,
+      "originalHeight": 2679,
+      "wikipediaPage": "https://en.wikipedia.org/wiki/Federico%20Dimarco",
+      "wikidata": "Q20204829",
+      "image": "/public/player-faces/gold/gold-226268.png",
+      "author": "MichaelEmilio",
+      "credit": "Own work",
+      "crop": {
+        "left": 387,
+        "top": 4,
+        "size": 387,
+        "sourceWidth": 960,
+        "sourceHeight": 1201
+      },
+      "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features.",
+      "sha256": "27229401090d8f6071bcf656f1c02a6e0b26c492d6f4f9b0a9f2ef1257b2a930"
+    },
+    {
+      "id": "gold-237238",
+      "sourcePlayerId": "237238",
+      "name": "Scott McTominay",
+      "nationality": "Scotland",
+      "gender": "male",
+      "tier": "gold",
+      "kind": "head",
+      "overallRating": 85,
+      "genderSource": {
+        "ea": {
+          "id": 0,
+          "label": "Men's Football"
+        },
+        "wikidata": "Q29624459"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "goldRule": {
+        "minimumOverall": 75,
+        "source": "https://www.ea.com/ea-originals/news/explaining-rarity-in-fifa-ultimate-team"
+      },
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Scott_McTominay_Scotland_v_Bolivia_6_June_2026-41.jpg",
+      "fileTitle": "File:Scott McTominay Scotland v Bolivia 6 June 2026-41.jpg",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "originalWidth": 3333,
+      "originalHeight": 5000,
+      "wikipediaPage": "https://en.wikipedia.org/wiki/Scott%20McTominay",
+      "wikidata": "Q29624459",
+      "image": "/public/player-faces/gold/gold-237238.png",
+      "author": "Bryan Berlin",
+      "credit": "Own work",
+      "crop": {
+        "left": 67,
+        "top": 46,
+        "size": 654,
+        "sourceWidth": 960,
+        "sourceHeight": 1440
+      },
+      "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features.",
+      "sha256": "4331ce7ae5be5ea32dce3ae46ca515e2b61ad6c3e0a25e997d5b8ee5bd665ce4"
+    },
+    {
+      "id": "gold-246104",
+      "sourcePlayerId": "246104",
+      "name": "Ryan Gravenberch",
+      "nationality": "Holland",
+      "gender": "male",
+      "tier": "gold",
+      "kind": "head",
+      "overallRating": 85,
+      "genderSource": {
+        "ea": {
+          "id": 0,
+          "label": "Men's Football"
+        },
+        "wikidata": "Q56257870"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "goldRule": {
+        "minimumOverall": 75,
+        "source": "https://www.ea.com/ea-originals/news/explaining-rarity-in-fifa-ultimate-team"
+      },
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:2022-07-30_Fu%C3%9Fball,_M%C3%A4nner,_DFL-Supercup,_RB_Leipzig_-_FC_Bayern_M%C3%BCnchen_1DX_3342_by_Stepro_(cropped).jpg",
+      "fileTitle": "File:2022-07-30 Fußball, Männer, DFL-Supercup, RB Leipzig - FC Bayern München 1DX 3342 by Stepro (cropped).jpg",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "originalWidth": 589,
+      "originalHeight": 786,
+      "wikipediaPage": "https://en.wikipedia.org/wiki/Ryan%20Gravenberch",
+      "wikidata": "Q56257870",
+      "image": "/public/player-faces/gold/gold-246104.png",
+      "author": "crop by Sepguilherme",
+      "credit": "Self-photographed",
+      "crop": {
+        "left": 37,
+        "top": 0,
+        "size": 467,
+        "sourceWidth": 589,
+        "sourceHeight": 786
+      },
+      "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features.",
+      "sha256": "e49405113406808fee2a9348380ebfe60c359eb4e385b9df3603f994caaaed45"
+    },
+    {
+      "id": "gold-202811",
+      "sourcePlayerId": "202811",
+      "name": "Emiliano Martínez",
+      "nationality": "Argentina",
+      "gender": "male",
+      "tier": "gold",
+      "kind": "head",
+      "overallRating": 85,
+      "genderSource": {
+        "ea": {
+          "id": 0,
+          "label": "Men's Football"
+        },
+        "wikidata": "Q3275904"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "goldRule": {
+        "minimumOverall": 75,
+        "source": "https://www.ea.com/ea-originals/news/explaining-rarity-in-fifa-ultimate-team"
+      },
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Emiliano_Martinez_Argentina_v_Spain_19_July_2026-269.jpg",
+      "fileTitle": "File:Emiliano Martinez Argentina v Spain 19 July 2026-269.jpg",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "originalWidth": 3333,
+      "originalHeight": 5000,
+      "wikipediaPage": "https://en.wikipedia.org/wiki/Emiliano%20Mart%C3%ADnez",
+      "wikidata": "Q3275904",
+      "image": "/public/player-faces/gold/gold-202811.png",
+      "author": "Bryan Berlin",
+      "credit": "Own work",
+      "crop": {
+        "left": 265,
+        "top": 0,
+        "size": 579,
+        "sourceWidth": 960,
+        "sourceHeight": 1440
+      },
+      "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features.",
+      "sha256": "b93d5c3df0210c7dfef404d9b106f14cebc90871971b6b96d072213f9f95f546"
+    },
+    {
+      "id": "gold-272834",
+      "sourcePlayerId": "272834",
+      "name": "João Neves",
+      "nationality": "Portugal",
+      "gender": "male",
+      "tier": "gold",
+      "kind": "head",
+      "overallRating": 85,
+      "genderSource": {
+        "ea": {
+          "id": 0,
+          "label": "Men's Football"
+        },
+        "wikidata": "Q113551733"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "goldRule": {
+        "minimumOverall": 75,
+        "source": "https://www.ea.com/ea-originals/news/explaining-rarity-in-fifa-ultimate-team"
+      },
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Joao_Neves_Croatia_v_Portugal_2_July_2026-102.jpg",
+      "fileTitle": "File:Joao Neves Croatia v Portugal 2 July 2026-102.jpg",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "originalWidth": 3333,
+      "originalHeight": 5000,
+      "wikipediaPage": "https://en.wikipedia.org/wiki/Jo%C3%A3o%20Neves",
+      "wikidata": "Q113551733",
+      "image": "/public/player-faces/gold/gold-272834.png",
+      "author": "Bryan Berlin",
+      "credit": "Own work",
+      "crop": {
+        "left": 296,
+        "top": 83,
+        "size": 426,
+        "sourceWidth": 960,
+        "sourceHeight": 1440
+      },
+      "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features.",
+      "sha256": "0c81162f655888daf52a8d3631d5851ecaadda32ec11bfe1a3c7530f9b3e0753"
+    },
+    {
+      "id": "gold-243014",
+      "sourcePlayerId": "243014",
+      "name": "Bryan Mbeumo",
+      "nationality": "Cameroon",
+      "gender": "male",
+      "tier": "gold",
+      "kind": "head",
+      "overallRating": 85,
+      "genderSource": {
+        "ea": {
+          "id": 0,
+          "label": "Men's Football"
+        },
+        "wikidata": "Q49561427"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "goldRule": {
+        "minimumOverall": 75,
+        "source": "https://www.ea.com/ea-originals/news/explaining-rarity-in-fifa-ultimate-team"
+      },
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Bryan_Mbeumo_00-02-31.18.png",
+      "fileTitle": "File:Bryan Mbeumo 00-02-31.18.png",
+      "licenseName": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "originalWidth": 864,
+      "originalHeight": 1080,
+      "wikipediaPage": "https://en.wikipedia.org/wiki/Bryan%20Mbeumo",
+      "wikidata": "Q49561427",
+      "image": "/public/player-faces/gold/gold-243014.png",
+      "author": "AFC Bournemouth",
+      "credit": "https://www.youtube.com/watch?v=yJCJ1ZfXv20",
+      "crop": {
+        "left": 218,
+        "top": 0,
+        "size": 646,
+        "sourceWidth": 864,
+        "sourceHeight": 1080
+      },
+      "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features.",
+      "sha256": "9f27123d767f208ff84a2e2755b9c6fc0e0f5926ae6c1590e74d276e3cbfc561"
+    },
+    {
+      "id": "gold-271421",
+      "sourcePlayerId": "271421",
+      "name": "Désiré Doué",
+      "nationality": "France",
+      "gender": "male",
+      "tier": "gold",
+      "kind": "head",
+      "overallRating": 85,
+      "genderSource": {
+        "ea": {
+          "id": 0,
+          "label": "Men's Football"
+        },
+        "wikidata": "Q112170256"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "goldRule": {
+        "minimumOverall": 75,
+        "source": "https://www.ea.com/ea-originals/news/explaining-rarity-in-fifa-ultimate-team"
+      },
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Desire_Doue_France_v_Senegal_16_June_2026-264.jpg",
+      "fileTitle": "File:Desire Doue France v Senegal 16 June 2026-264.jpg",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "originalWidth": 3333,
+      "originalHeight": 5000,
+      "wikipediaPage": "https://en.wikipedia.org/wiki/D%C3%A9sir%C3%A9%20Dou%C3%A9",
+      "wikidata": "Q112170256",
+      "image": "/public/player-faces/gold/gold-271421.png",
+      "author": "Bryan Berlin",
+      "credit": "Own work",
+      "crop": {
+        "left": 162,
+        "top": 199,
+        "size": 396,
+        "sourceWidth": 960,
+        "sourceHeight": 1440
+      },
+      "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features.",
+      "sha256": "981e7ba8354fec483faf394ec7563b762734670891f09bec107925ba930d48ca"
+    },
+    {
+      "id": "gold-204963",
+      "sourcePlayerId": "204963",
+      "name": "Carvajal",
+      "nationality": "Spain",
+      "gender": "male",
+      "tier": "gold",
+      "kind": "head",
+      "overallRating": 85,
+      "genderSource": {
+        "ea": {
+          "id": 0,
+          "label": "Men's Football"
+        },
+        "wikidata": "Q127452"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "goldRule": {
+        "minimumOverall": 75,
+        "source": "https://www.ea.com/ea-originals/news/explaining-rarity-in-fifa-ultimate-team"
+      },
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:UEFA_EURO_qualifiers_Sweden_vs_Spain_20191015_Dani_Carvajal_10_(cropped).jpg",
+      "fileTitle": "File:UEFA EURO qualifiers Sweden vs Spain 20191015 Dani Carvajal 10 (cropped).jpg",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "originalWidth": 628,
+      "originalHeight": 872,
+      "wikipediaPage": "https://en.wikipedia.org/wiki/Dani%20Carvajal",
+      "wikidata": "Q127452",
+      "image": "/public/player-faces/gold/gold-204963.png",
+      "author": "Rolandhino1",
+      "credit": "Own work",
+      "crop": {
+        "left": 81,
+        "top": 0,
+        "size": 430,
+        "sourceWidth": 628,
+        "sourceHeight": 872
+      },
+      "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features.",
+      "sha256": "8445cd499c08b79777ca55dcb5b2bea4f3ed66e60dd11004e688097c26a38174"
+    },
+    {
+      "id": "gold-230869",
+      "sourcePlayerId": "230869",
+      "name": "Unai Simón",
+      "nationality": "Spain",
+      "gender": "male",
+      "tier": "gold",
+      "kind": "head",
+      "overallRating": 85,
+      "genderSource": {
+        "ea": {
+          "id": 0,
+          "label": "Men's Football"
+        },
+        "wikidata": "Q23908113"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "goldRule": {
+        "minimumOverall": 75,
+        "source": "https://www.ea.com/ea-originals/news/explaining-rarity-in-fifa-ultimate-team"
+      },
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Unai_Simon_Argentina_v_Spain_19_July_2026-078_(cropped).jpg",
+      "fileTitle": "File:Unai Simon Argentina v Spain 19 July 2026-078 (cropped).jpg",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "originalWidth": 1046,
+      "originalHeight": 1633,
+      "wikipediaPage": "https://en.wikipedia.org/wiki/Unai%20Sim%C3%B3n",
+      "wikidata": "Q23908113",
+      "image": "/public/player-faces/gold/gold-230869.png",
+      "author": "Bryan Berlin",
+      "credit": "Own work",
+      "crop": {
+        "left": 100,
+        "top": 71,
+        "size": 635,
+        "sourceWidth": 960,
+        "sourceHeight": 1499
+      },
+      "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features.",
+      "sha256": "5d0fccaeedd58778281c7c553f0f18fac0af4825c79973f28cc3063459cda548"
+    },
+    {
+      "id": "gold-228093",
+      "sourcePlayerId": "228093",
+      "name": "Marcus Thuram",
+      "nationality": "France",
+      "gender": "male",
+      "tier": "gold",
+      "kind": "head",
+      "overallRating": 85,
+      "genderSource": {
+        "ea": {
+          "id": 0,
+          "label": "Men's Football"
+        },
+        "wikidata": "Q19903718"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "goldRule": {
+        "minimumOverall": 75,
+        "source": "https://www.ea.com/ea-originals/news/explaining-rarity-in-fifa-ultimate-team"
+      },
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Marcus_Thuram_France_v_Senegal_16_June_2026-261_(cropped).jpg",
+      "fileTitle": "File:Marcus Thuram France v Senegal 16 June 2026-261 (cropped).jpg",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "originalWidth": 1920,
+      "originalHeight": 2879,
+      "wikipediaPage": "https://en.wikipedia.org/wiki/Marcus%20Thuram",
+      "wikidata": "Q19903718",
+      "image": "/public/player-faces/gold/gold-228093.png",
+      "author": "Bryan Berlin",
+      "credit": "Own work",
+      "crop": {
+        "left": 180,
+        "top": 52,
+        "size": 712,
+        "sourceWidth": 960,
+        "sourceHeight": 1439
+      },
+      "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features.",
+      "sha256": "80942aed8320e277608300cc5c4b0ff5ff76423f2adb9397ee3b242c7d4bb2f6"
+    },
+    {
+      "id": "gold-185122",
+      "sourcePlayerId": "185122",
+      "name": "Péter Gulácsi",
+      "nationality": "Hungary",
+      "gender": "male",
+      "tier": "gold",
+      "kind": "head",
+      "overallRating": 85,
+      "genderSource": {
+        "ea": {
+          "id": 0,
+          "label": "Men's Football"
+        },
+        "wikidata": "Q357507"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "goldRule": {
+        "minimumOverall": 75,
+        "source": "https://www.ea.com/ea-originals/news/explaining-rarity-in-fifa-ultimate-team"
+      },
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:2020-03-10_Fu%C3%9Fball,_M%C3%A4nner,_UEFA_Champions_League_Achtelfinale,_RB_Leipzig_-_Tottenham_Hotspur_1DX_3666_by_Stepro.jpg",
+      "fileTitle": "File:2020-03-10 Fußball, Männer, UEFA Champions League Achtelfinale, RB Leipzig - Tottenham Hotspur 1DX 3666 by Stepro.jpg",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "originalWidth": 2738,
+      "originalHeight": 2738,
+      "wikipediaPage": "https://en.wikipedia.org/wiki/P%C3%A9ter%20Gul%C3%A1csi",
+      "wikidata": "Q357507",
+      "image": "/public/player-faces/gold/gold-185122.png",
+      "author": "Steffen Prößdorf",
+      "credit": "Self-photographed",
+      "crop": {
+        "left": 88,
+        "top": 28,
+        "size": 615,
+        "sourceWidth": 960,
+        "sourceHeight": 960
+      },
+      "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features.",
+      "sha256": "e14407f61ff01c50ad6101299b269e5b82d2d95a3b7a3458ac8db400ea433389"
+    },
+    {
+      "id": "gold-193080",
+      "sourcePlayerId": "193080",
+      "name": "De Gea",
+      "nationality": "Spain",
+      "gender": "male",
+      "tier": "gold",
+      "kind": "head",
+      "overallRating": 85,
+      "genderSource": {
+        "ea": {
+          "id": 0,
+          "label": "Men's Football"
+        },
+        "wikidata": "Q150268"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "goldRule": {
+        "minimumOverall": 75,
+        "source": "https://www.ea.com/ea-originals/news/explaining-rarity-in-fifa-ultimate-team"
+      },
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:David_de_Gea_2017.jpg",
+      "fileTitle": "File:David de Gea 2017.jpg",
+      "licenseName": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "originalWidth": 638,
+      "originalHeight": 958,
+      "wikipediaPage": "https://en.wikipedia.org/wiki/David%20de%20Gea",
+      "wikidata": "Q150268",
+      "image": "/public/player-faces/gold/gold-193080.png",
+      "author": "Кирилл Венедиктов",
+      "credit": "https://www.soccer.ru/galery/1022771/photo/691822",
+      "crop": {
+        "left": 50,
+        "top": 0,
+        "size": 552,
+        "sourceWidth": 638,
+        "sourceHeight": 958
+      },
+      "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features.",
+      "sha256": "cad09bed6f92d68e949596bc98ee69c210467b361af44b0ac585f633fc39b107"
+    },
+    {
+      "id": "gold-200104",
+      "sourcePlayerId": "200104",
+      "name": "Heung Min Son",
+      "nationality": "Korea Republic",
+      "gender": "male",
+      "tier": "gold",
+      "kind": "head",
+      "overallRating": 85,
+      "genderSource": {
+        "ea": {
+          "id": 0,
+          "label": "Men's Football"
+        },
+        "wikidata": "Q439722"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "goldRule": {
+        "minimumOverall": 75,
+        "source": "https://www.ea.com/ea-originals/news/explaining-rarity-in-fifa-ultimate-team"
+      },
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:BFA_2023_-2_Heung-Min_Son_(cropped).jpg",
+      "fileTitle": "File:BFA 2023 -2 Heung-Min Son (cropped).jpg",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "originalWidth": 1753,
+      "originalHeight": 2372,
+      "wikipediaPage": "https://en.wikipedia.org/wiki/Son%20Heung-min",
+      "wikidata": "Q439722",
+      "image": "/public/player-faces/gold/gold-200104.png",
+      "author": "Ujishadow",
+      "credit": "Own work",
+      "crop": {
+        "left": 108,
+        "top": 91,
+        "size": 719,
+        "sourceWidth": 960,
+        "sourceHeight": 1299
+      },
+      "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features.",
+      "sha256": "39fe3a8793b865fe1068acc131506727938f38beda0f60f6a0e04558c1d8fc75"
+    },
+    {
+      "id": "gold-237692",
+      "sourcePlayerId": "237692",
+      "name": "Phil Foden",
+      "nationality": "England",
+      "gender": "male",
+      "tier": "gold",
+      "kind": "head",
+      "overallRating": 85,
+      "genderSource": {
+        "ea": {
+          "id": 0,
+          "label": "Men's Football"
+        },
+        "wikidata": "Q30729096"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "goldRule": {
+        "minimumOverall": 75,
+        "source": "https://www.ea.com/ea-originals/news/explaining-rarity-in-fifa-ultimate-team"
+      },
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:2023-10-04_Fu%C3%9Fball,_M%C3%A4nner,_UEFA_Champions_League,_RB_Leipzig_-_Manchester_City_FC_1DX_2613,_Phil_Foden.jpg",
+      "fileTitle": "File:2023-10-04 Fußball, Männer, UEFA Champions League, RB Leipzig - Manchester City FC 1DX 2613, Phil Foden.jpg",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "originalWidth": 1662,
+      "originalHeight": 2160,
+      "wikipediaPage": "https://en.wikipedia.org/wiki/Phil%20Foden",
+      "wikidata": "Q30729096",
+      "image": "/public/player-faces/gold/gold-237692.png",
+      "author": "Steffen Prößdorf",
+      "credit": "Self-photographed",
+      "crop": {
+        "left": 136,
+        "top": 29,
+        "size": 574,
+        "sourceWidth": 960,
+        "sourceHeight": 1248
+      },
+      "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features.",
+      "sha256": "56c45e8fe709715593098f86474c6169fb5ba986d18bdc749c507913905f1802"
+    },
+    {
+      "id": "gold-226271",
+      "sourcePlayerId": "226271",
+      "name": "Fabián Ruiz",
+      "nationality": "Spain",
+      "gender": "male",
+      "tier": "gold",
+      "kind": "head",
+      "overallRating": 85,
+      "genderSource": {
+        "ea": {
+          "id": 0,
+          "label": "Men's Football"
+        },
+        "wikidata": "Q18637930"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "goldRule": {
+        "minimumOverall": 75,
+        "source": "https://www.ea.com/ea-originals/news/explaining-rarity-in-fifa-ultimate-team"
+      },
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Fabian_Ruiz_Argentina_v_Spain_19_July_2026-315.jpg",
+      "fileTitle": "File:Fabian Ruiz Argentina v Spain 19 July 2026-315.jpg",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "originalWidth": 3333,
+      "originalHeight": 5000,
+      "wikipediaPage": "https://en.wikipedia.org/wiki/Fabi%C3%A1n%20Ruiz",
+      "wikidata": "Q18637930",
+      "image": "/public/player-faces/gold/gold-226271.png",
+      "author": "Bryan Berlin",
+      "credit": "Own work",
+      "crop": {
+        "left": 156,
+        "top": 32,
+        "size": 486,
+        "sourceWidth": 960,
+        "sourceHeight": 1440
+      },
+      "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features.",
+      "sha256": "e0b83a86aa139512deebf46e50b593c4223fde790bf4b027925f8d9777bf6fe4"
+    },
+    {
+      "id": "gold-216393",
+      "sourcePlayerId": "216393",
+      "name": "Youri Tielemans",
+      "nationality": "Belgium",
+      "gender": "male",
+      "tier": "gold",
+      "kind": "head",
+      "overallRating": 85,
+      "genderSource": {
+        "ea": {
+          "id": 0,
+          "label": "Men's Football"
+        },
+        "wikidata": "Q14327453"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "goldRule": {
+        "minimumOverall": 75,
+        "source": "https://www.ea.com/ea-originals/news/explaining-rarity-in-fifa-ultimate-team"
+      },
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Youri_Tielemans_USMNT_v_Belgium_Mar_28_2026-20_(cropped).jpg",
+      "fileTitle": "File:Youri Tielemans USMNT v Belgium Mar 28 2026-20 (cropped).jpg",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "originalWidth": 3035,
+      "originalHeight": 4044,
+      "wikipediaPage": "https://en.wikipedia.org/wiki/Youri%20Tielemans",
+      "wikidata": "Q14327453",
+      "image": "/public/player-faces/gold/gold-216393.png",
+      "author": "Bryan Berlin",
+      "credit": "Own work",
+      "crop": {
+        "left": 0,
+        "top": 0,
+        "size": 831,
+        "sourceWidth": 960,
+        "sourceHeight": 1279
+      },
+      "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features.",
+      "sha256": "a903d99915d8a227b67da887f3850c928586ba66e111979840fb55b8844bf61c"
+    },
+    {
+      "id": "gold-199503",
+      "sourcePlayerId": "199503",
+      "name": "Granit Xhaka",
+      "nationality": "Switzerland",
+      "gender": "male",
+      "tier": "gold",
+      "kind": "head",
+      "overallRating": 85,
+      "genderSource": {
+        "ea": {
+          "id": 0,
+          "label": "Men's Football"
+        },
+        "wikidata": "Q514427"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "goldRule": {
+        "minimumOverall": 75,
+        "source": "https://www.ea.com/ea-originals/news/explaining-rarity-in-fifa-ultimate-team"
+      },
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Granit_Xhaka_(cropped).jpg",
+      "fileTitle": "File:Granit Xhaka (cropped).jpg",
+      "licenseName": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "originalWidth": 1145,
+      "originalHeight": 1834,
+      "wikipediaPage": "https://en.wikipedia.org/wiki/Granit%20Xhaka",
+      "wikidata": "Q514427",
+      "image": "/public/player-faces/gold/gold-199503.png",
+      "author": "@cfcunofficial (Chelsea Debs) London from London, UK",
+      "credit": "Chelsea 0 Arsenal 0",
+      "crop": {
+        "left": 369,
+        "top": 37,
+        "size": 474,
+        "sourceWidth": 960,
+        "sourceHeight": 1538
+      },
+      "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features.",
+      "sha256": "a13e11e651069be55b8996e3eea81ce43921d6cca2b622dead8fc82549274b63"
+    },
+    {
+      "id": "gold-165153",
+      "sourcePlayerId": "165153",
+      "name": "Karim Benzema",
+      "nationality": "France",
+      "gender": "male",
+      "tier": "gold",
+      "kind": "head",
+      "overallRating": 85,
+      "genderSource": {
+        "ea": {
+          "id": 0,
+          "label": "Men's Football"
+        },
+        "wikidata": "Q1912"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "goldRule": {
+        "minimumOverall": 75,
+        "source": "https://www.ea.com/ea-originals/news/explaining-rarity-in-fifa-ultimate-team"
+      },
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Karim_Benzema_Pick.jpg",
+      "fileTitle": "File:Karim Benzema Pick.jpg",
+      "licenseName": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "originalWidth": 1157,
+      "originalHeight": 1163,
+      "wikipediaPage": "https://en.wikipedia.org/wiki/Karim%20Benzema",
+      "wikidata": "Q1912",
+      "image": "/public/player-faces/gold/gold-165153.png",
+      "author": "Zack",
+      "credit": "YouTube: https://www.youtube.com/watch?v=UBaAcUfNL8E – View/save archived versions on archive.org",
+      "crop": {
+        "left": 214,
+        "top": 225,
+        "size": 350,
+        "sourceWidth": 960,
+        "sourceHeight": 965
+      },
+      "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features.",
+      "sha256": "a04f413ef5a4f320715740f6c9cd19b76e08013ade42ee29a81ac95b73adbaa6"
+    },
+    {
+      "id": "gold-204525",
+      "sourcePlayerId": "204525",
+      "name": "Iñigo Martínez",
+      "nationality": "Spain",
+      "gender": "male",
+      "tier": "gold",
+      "kind": "head",
+      "overallRating": 85,
+      "genderSource": {
+        "ea": {
+          "id": 0,
+          "label": "Men's Football"
+        },
+        "wikidata": "Q1028020"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "goldRule": {
+        "minimumOverall": 75,
+        "source": "https://www.ea.com/ea-originals/news/explaining-rarity-in-fifa-ultimate-team"
+      },
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:UEFA_EURO_qualifiers_Sweden_vs_Spain_20191015_Inigo_Martinez_(cropped).jpg",
+      "fileTitle": "File:UEFA EURO qualifiers Sweden vs Spain 20191015 Inigo Martinez (cropped).jpg",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "originalWidth": 618,
+      "originalHeight": 912,
+      "wikipediaPage": "https://en.wikipedia.org/wiki/I%C3%B1igo%20Mart%C3%ADnez",
+      "wikidata": "Q1028020",
+      "image": "/public/player-faces/gold/gold-204525.png",
+      "author": "Rolandhino1",
+      "credit": "Own work",
+      "crop": {
+        "left": 121,
+        "top": 29,
+        "size": 389,
+        "sourceWidth": 618,
+        "sourceHeight": 912
+      },
+      "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features.",
+      "sha256": "6d110cfebb2987c78ec2c193026b5408eae33a428ff4d2df641a5afc2bc854ac"
+    },
+    {
+      "id": "gold-20801",
+      "sourcePlayerId": "20801",
+      "name": "Cristiano Ronaldo",
+      "nationality": "Portugal",
+      "gender": "male",
+      "tier": "gold",
+      "kind": "head",
+      "overallRating": 85,
+      "genderSource": {
+        "ea": {
+          "id": 0,
+          "label": "Men's Football"
+        },
+        "wikidata": "Q11571"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "goldRule": {
+        "minimumOverall": 75,
+        "source": "https://www.ea.com/ea-originals/news/explaining-rarity-in-fifa-ultimate-team"
+      },
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Cristiano_Ronaldo_Croatia_v_Portugal_2_July_2026-075_(cropped).jpg",
+      "fileTitle": "File:Cristiano Ronaldo Croatia v Portugal 2 July 2026-075 (cropped).jpg",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "originalWidth": 2812,
+      "originalHeight": 4215,
+      "wikipediaPage": "https://en.wikipedia.org/wiki/Cristiano%20Ronaldo",
+      "wikidata": "Q11571",
+      "image": "/public/player-faces/gold/gold-20801.png",
+      "author": "Bryan Berlin",
+      "credit": "Own work",
+      "crop": {
+        "left": 140,
+        "top": 0,
+        "size": 688,
+        "sourceWidth": 960,
+        "sourceHeight": 1439
+      },
+      "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features.",
+      "sha256": "005868a295947e354e8fefdfa2282287e22c39bedbd28d9d264af9a573499ab9"
+    },
+    {
+      "id": "gold-243812",
+      "sourcePlayerId": "243812",
+      "name": "Rodrygo",
+      "nationality": "Brazil",
+      "gender": "male",
+      "tier": "gold",
+      "kind": "head",
+      "overallRating": 85,
+      "genderSource": {
+        "ea": {
+          "id": 0,
+          "label": "Men's Football"
+        },
+        "wikidata": "Q42728914"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "goldRule": {
+        "minimumOverall": 75,
+        "source": "https://www.ea.com/ea-originals/news/explaining-rarity-in-fifa-ultimate-team"
+      },
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Rodrygo_2023_(cropped).jpg",
+      "fileTitle": "File:Rodrygo 2023 (cropped).jpg",
+      "licenseName": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "originalWidth": 855,
+      "originalHeight": 1004,
+      "wikipediaPage": "https://en.wikipedia.org/wiki/Rodrygo",
+      "wikidata": "Q42728914",
+      "image": "/public/player-faces/gold/gold-243812.png",
+      "author": "Junta de Andalucía",
+      "credit": "https://www.flickr.com/photos/juntainforma/52879244560/",
+      "crop": {
+        "left": 243,
+        "top": 9,
+        "size": 372,
+        "sourceWidth": 855,
+        "sourceHeight": 1004
+      },
+      "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features.",
+      "sha256": "5d0d22b1c77b3d5688007ff54afad48fbdaedf34e81660fc0ea0b32a9c5fb958"
+    },
+    {
+      "id": "gold-244260",
+      "sourcePlayerId": "244260",
+      "name": "Dani Olmo",
+      "nationality": "Spain",
+      "gender": "male",
+      "tier": "gold",
+      "kind": "head",
+      "overallRating": 85,
+      "genderSource": {
+        "ea": {
+          "id": 0,
+          "label": "Men's Football"
+        },
+        "wikidata": "Q19560313"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "goldRule": {
+        "minimumOverall": 75,
+        "source": "https://www.ea.com/ea-originals/news/explaining-rarity-in-fifa-ultimate-team"
+      },
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Dani_Olmo_France_v_Spain_7.24.26-176_(cropped).jpg",
+      "fileTitle": "File:Dani Olmo France v Spain 7.24.26-176 (cropped).jpg",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "originalWidth": 2730,
+      "originalHeight": 4094,
+      "wikipediaPage": "https://en.wikipedia.org/wiki/Dani%20Olmo",
+      "wikidata": "Q19560313",
+      "image": "/public/player-faces/gold/gold-244260.png",
+      "author": "Bryan Berlin",
+      "credit": "Own work",
+      "crop": {
+        "left": 140,
+        "top": 81,
+        "size": 651,
+        "sourceWidth": 960,
+        "sourceHeight": 1440
+      },
+      "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features.",
+      "sha256": "8ae049a2d438220a855f6e3d64c491135e57235c92cfdb56c7a1cbbe96a00400"
+    },
+    {
+      "id": "gold-234236",
+      "sourcePlayerId": "234236",
+      "name": "Patrik Schick",
+      "nationality": "Czech Republic",
+      "gender": "male",
+      "tier": "gold",
+      "kind": "head",
+      "overallRating": 85,
+      "genderSource": {
+        "ea": {
+          "id": 0,
+          "label": "Men's Football"
+        },
+        "wikidata": "Q16910257"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "goldRule": {
+        "minimumOverall": 75,
+        "source": "https://www.ea.com/ea-originals/news/explaining-rarity-in-fifa-ultimate-team"
+      },
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:2020-03-10_Fu%C3%9Fball,_M%C3%A4nner,_UEFA_Champions_League_Achtelfinale,_RB_Leipzig_-_Tottenham_Hotspur_1DX_3672_by_Stepro.jpg",
+      "fileTitle": "File:2020-03-10 Fußball, Männer, UEFA Champions League Achtelfinale, RB Leipzig - Tottenham Hotspur 1DX 3672 by Stepro.jpg",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "originalWidth": 2738,
+      "originalHeight": 2738,
+      "wikipediaPage": "https://en.wikipedia.org/wiki/Patrik%20Schick",
+      "wikidata": "Q16910257",
+      "image": "/public/player-faces/gold/gold-234236.png",
+      "author": "Steffen Prößdorf",
+      "credit": "Self-photographed",
+      "crop": {
+        "left": 48,
+        "top": 79,
+        "size": 676,
+        "sourceWidth": 960,
+        "sourceHeight": 960
+      },
+      "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features.",
+      "sha256": "860bca034d8bae46277a41cd758ec3523b424b5039462ec35a5ac37c21987beb"
+    },
+    {
+      "id": "gold-239580",
+      "sourcePlayerId": "239580",
+      "name": "Bremer",
+      "nationality": "Brazil",
+      "gender": "male",
+      "tier": "gold",
+      "kind": "head",
+      "overallRating": 85,
+      "genderSource": {
+        "ea": {
+          "id": 0,
+          "label": "Men's Football"
+        },
+        "wikidata": "Q38693097"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "goldRule": {
+        "minimumOverall": 75,
+        "source": "https://www.ea.com/ea-originals/news/explaining-rarity-in-fifa-ultimate-team"
+      },
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Bremer_Brazil_V_Morocco_13_June_2026-143_(cropped).jpg",
+      "fileTitle": "File:Bremer Brazil V Morocco 13 June 2026-143 (cropped).jpg",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "originalWidth": 2578,
+      "originalHeight": 3864,
+      "wikipediaPage": "https://en.wikipedia.org/wiki/Gleison%20Bremer",
+      "wikidata": "Q38693097",
+      "image": "/public/player-faces/gold/gold-239580.png",
+      "author": "Bryan Berlin",
+      "credit": "Own work",
+      "crop": {
+        "left": 60,
+        "top": 26,
+        "size": 656,
+        "sourceWidth": 960,
+        "sourceHeight": 1439
+      },
+      "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features.",
+      "sha256": "49b6e2b9f02825913dc8b53f683a3c246dd58df39e9fa280c2275a01aa945be4"
+    },
+    {
+      "id": "gold-232656",
+      "sourcePlayerId": "232656",
+      "name": "Theo Hernández",
+      "nationality": "France",
+      "gender": "male",
+      "tier": "gold",
+      "kind": "head",
+      "overallRating": 84,
+      "genderSource": {
+        "ea": {
+          "id": 0,
+          "label": "Men's Football"
+        },
+        "wikidata": "Q23703372"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "goldRule": {
+        "minimumOverall": 75,
+        "source": "https://www.ea.com/ea-originals/news/explaining-rarity-in-fifa-ultimate-team"
+      },
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Theo_Hernandez_France_v_Senegal_16_June_2026-222_(cropped).jpg",
+      "fileTitle": "File:Theo Hernandez France v Senegal 16 June 2026-222 (cropped).jpg",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "originalWidth": 2176,
+      "originalHeight": 3262,
+      "wikipediaPage": "https://en.wikipedia.org/wiki/Th%C3%A9o%20Hernandez",
+      "wikidata": "Q23703372",
+      "image": "/public/player-faces/gold/gold-232656.png",
+      "author": "Bryan Berlin",
+      "credit": "Own work",
+      "crop": {
+        "left": 53,
+        "top": 63,
+        "size": 649,
+        "sourceWidth": 960,
+        "sourceHeight": 1439
+      },
+      "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features.",
+      "sha256": "bd4bab36f52d37d55cec327dfc09a4d8da89550f6f76def30529638cd97feb8f"
+    },
+    {
+      "id": "gold-212616",
+      "sourcePlayerId": "212616",
+      "name": "Rodrigo De Paul",
+      "nationality": "Argentina",
+      "gender": "male",
+      "tier": "gold",
+      "kind": "head",
+      "overallRating": 84,
+      "genderSource": {
+        "ea": {
+          "id": 0,
+          "label": "Men's Football"
+        },
+        "wikidata": "Q6110670"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "goldRule": {
+        "minimumOverall": 75,
+        "source": "https://www.ea.com/ea-originals/news/explaining-rarity-in-fifa-ultimate-team"
+      },
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Rodrigo_De_Paul_Argentina_v_Spain_19_July_2026-159.jpg",
+      "fileTitle": "File:Rodrigo De Paul Argentina v Spain 19 July 2026-159.jpg",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "originalWidth": 3333,
+      "originalHeight": 5000,
+      "wikipediaPage": "https://en.wikipedia.org/wiki/Rodrigo%20De%20Paul",
+      "wikidata": "Q6110670",
+      "image": "/public/player-faces/gold/gold-212616.png",
+      "author": "Bryan Berlin",
+      "credit": "Own work",
+      "crop": {
+        "left": 227,
+        "top": 73,
+        "size": 472,
+        "sourceWidth": 960,
+        "sourceHeight": 1440
+      },
+      "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features.",
+      "sha256": "3597c102972f40e2696017ceb8d8abed169ec85876235a9aa901e1ea452427e7"
+    },
+    {
+      "id": "gold-210514",
+      "sourcePlayerId": "210514",
+      "name": "João Cancelo",
+      "nationality": "Portugal",
+      "gender": "male",
+      "tier": "gold",
+      "kind": "head",
+      "overallRating": 84,
+      "genderSource": {
+        "ea": {
+          "id": 0,
+          "label": "Men's Football"
+        },
+        "wikidata": "Q6298063"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "goldRule": {
+        "minimumOverall": 75,
+        "source": "https://www.ea.com/ea-originals/news/explaining-rarity-in-fifa-ultimate-team"
+      },
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Joao_Cancelo_Croatia_v_Portugal_2_July_2026-002.jpg",
+      "fileTitle": "File:Joao Cancelo Croatia v Portugal 2 July 2026-002.jpg",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "originalWidth": 3333,
+      "originalHeight": 5000,
+      "wikipediaPage": "https://en.wikipedia.org/wiki/Jo%C3%A3o%20Cancelo",
+      "wikidata": "Q6298063",
+      "image": "/public/player-faces/gold/gold-210514.png",
+      "author": "Bryan Berlin",
+      "credit": "Own work",
+      "crop": {
+        "left": 188,
+        "top": 10,
+        "size": 625,
+        "sourceWidth": 960,
+        "sourceHeight": 1440
+      },
+      "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features.",
+      "sha256": "6bea8d8f06abf2f06619c64b61392501224c5ed116c10ef59f0ac83dbf7a5b54"
+    },
+    {
+      "id": "gold-244675",
+      "sourcePlayerId": "244675",
+      "name": "Sancet",
+      "nationality": "Spain",
+      "gender": "male",
+      "tier": "gold",
+      "kind": "head",
+      "overallRating": 84,
+      "genderSource": {
+        "ea": {
+          "id": 0,
+          "label": "Men's Football"
+        },
+        "wikidata": "Q66466886"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "goldRule": {
+        "minimumOverall": 75,
+        "source": "https://www.ea.com/ea-originals/news/explaining-rarity-in-fifa-ultimate-team"
+      },
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:ATHLETIC_-_OSASUNA_(2).jpg",
+      "fileTitle": "File:ATHLETIC - OSASUNA (2).jpg",
+      "licenseName": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "originalWidth": 2480,
+      "originalHeight": 2499,
+      "wikipediaPage": "https://en.wikipedia.org/wiki/Oihan%20Sancet",
+      "wikidata": "Q66466886",
+      "image": "/public/player-faces/gold/gold-244675.png",
+      "author": "Maider Goikoetxea",
+      "credit": "https://www.flickr.com/photos/194406164@N04/52952877554/",
+      "crop": {
+        "left": 0,
+        "top": 0,
+        "size": 690,
+        "sourceWidth": 960,
+        "sourceHeight": 967
+      },
+      "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features.",
+      "sha256": "e8a4057c290a13e8bb7ba0f1c9d90b46945d0dc87d39771335f7e5ae2a3c07f0"
+    }
+  ]
+}
