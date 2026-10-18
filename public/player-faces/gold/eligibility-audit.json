@@ -1,0 +1,1623 @@
+{
+  "goldRule": {
+    "minimumOverall": 75,
+    "source": "https://www.ea.com/ea-originals/news/explaining-rarity-in-fifa-ultimate-team"
+  },
+  "players": [
+    {
+      "id": "gold-209331",
+      "sourcePlayerId": "209331",
+      "name": "Mohamed Salah",
+      "overallRating": 91,
+      "gender": {
+        "id": 0,
+        "label": "Men's Football"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "wikidata": "Q1354960",
+      "wikidataMale": [
+        "Q6581097"
+      ],
+      "wikidataHuman": [
+        "Q5"
+      ],
+      "footballerDescription": "Egyptian association football player (born 1992)"
+    },
+    {
+      "id": "gold-231747",
+      "sourcePlayerId": "231747",
+      "name": "Kylian Mbappé",
+      "overallRating": 91,
+      "gender": {
+        "id": 0,
+        "label": "Men's Football"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "wikidata": "Q21621995",
+      "wikidataMale": [
+        "Q6581097"
+      ],
+      "wikidataHuman": [
+        "Q5"
+      ],
+      "footballerDescription": "French association football player (born 1998)"
+    },
+    {
+      "id": "gold-231443",
+      "sourcePlayerId": "231443",
+      "name": "Ousmane Dembélé",
+      "overallRating": 90,
+      "gender": {
+        "id": 0,
+        "label": "Men's Football"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "wikidata": "Q20851003",
+      "wikidataMale": [
+        "Q6581097"
+      ],
+      "wikidataHuman": [
+        "Q5"
+      ],
+      "footballerDescription": "French footballer (born 1997)"
+    },
+    {
+      "id": "gold-231866",
+      "sourcePlayerId": "231866",
+      "name": "Rodri",
+      "overallRating": 90,
+      "gender": {
+        "id": 0,
+        "label": "Men's Football"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "wikidata": "Q20994118",
+      "wikidataMale": [
+        "Q6581097"
+      ],
+      "wikidataHuman": [
+        "Q5"
+      ],
+      "footballerDescription": "Spanish association football player (born 1996)"
+    },
+    {
+      "id": "gold-203376",
+      "sourcePlayerId": "203376",
+      "name": "Virgil van Dijk",
+      "overallRating": 90,
+      "gender": {
+        "id": 0,
+        "label": "Men's Football"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "wikidata": "Q133903",
+      "wikidataMale": [
+        "Q6581097"
+      ],
+      "wikidataHuman": [
+        "Q5"
+      ],
+      "footballerDescription": "Dutch association football player (born 1991)"
+    },
+    {
+      "id": "gold-252371",
+      "sourcePlayerId": "252371",
+      "name": "Jude Bellingham",
+      "overallRating": 90,
+      "gender": {
+        "id": 0,
+        "label": "Men's Football"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "wikidata": "Q66241169",
+      "wikidataMale": [
+        "Q6581097"
+      ],
+      "wikidataHuman": [
+        "Q5"
+      ],
+      "footballerDescription": "English footballer (born 2003)"
+    },
+    {
+      "id": "gold-239085",
+      "sourcePlayerId": "239085",
+      "name": "Erling Haaland",
+      "overallRating": 90,
+      "gender": {
+        "id": 0,
+        "label": "Men's Football"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "wikidata": "Q28967995",
+      "wikidataMale": [
+        "Q6581097"
+      ],
+      "wikidataHuman": [
+        "Q5"
+      ],
+      "footballerDescription": "Norwegian footballer (born 2000)"
+    },
+    {
+      "id": "gold-233419",
+      "sourcePlayerId": "233419",
+      "name": "Raphinha",
+      "overallRating": 89,
+      "gender": {
+        "id": 0,
+        "label": "Men's Football"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "wikidata": "Q28861547",
+      "wikidataMale": [
+        "Q6581097"
+      ],
+      "wikidataHuman": [
+        "Q5"
+      ],
+      "footballerDescription": "Brazilian association football player (born 1996)"
+    },
+    {
+      "id": "gold-235212",
+      "sourcePlayerId": "235212",
+      "name": "Achraf Hakimi",
+      "overallRating": 89,
+      "gender": {
+        "id": 0,
+        "label": "Men's Football"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "wikidata": "Q26932598",
+      "wikidataMale": [
+        "Q6581097"
+      ],
+      "wikidataHuman": [
+        "Q5"
+      ],
+      "footballerDescription": "Moroccan-Spanish footballer (born 1998)"
+    },
+    {
+      "id": "gold-277643",
+      "sourcePlayerId": "277643",
+      "name": "Lamine Yamal",
+      "overallRating": 89,
+      "gender": {
+        "id": 0,
+        "label": "Men's Football"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "wikidata": "Q113704154",
+      "wikidataMale": [
+        "Q6581097"
+      ],
+      "wikidataHuman": [
+        "Q5"
+      ],
+      "footballerDescription": "Spanish association football player (born 2007)"
+    },
+    {
+      "id": "gold-255253",
+      "sourcePlayerId": "255253",
+      "name": "Vitinha",
+      "overallRating": 89,
+      "gender": {
+        "id": 0,
+        "label": "Men's Football"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "wikidata": "Q66818509",
+      "wikidataMale": [
+        "Q6581097"
+      ],
+      "wikidataHuman": [
+        "Q5"
+      ],
+      "footballerDescription": "Portuguese footballer (born 2000)"
+    },
+    {
+      "id": "gold-230621",
+      "sourcePlayerId": "230621",
+      "name": "Gianluigi Donnarumma",
+      "overallRating": 89,
+      "gender": {
+        "id": 0,
+        "label": "Men's Football"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "wikidata": "Q20830808",
+      "wikidataMale": [
+        "Q6581097"
+      ],
+      "wikidataHuman": [
+        "Q5"
+      ],
+      "footballerDescription": "Italian association football player (born 1999)"
+    },
+    {
+      "id": "gold-251854",
+      "sourcePlayerId": "251854",
+      "name": "Pedri",
+      "overallRating": 89,
+      "gender": {
+        "id": 0,
+        "label": "Men's Football"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "wikidata": "Q66606355",
+      "wikidataMale": [
+        "Q6581097"
+      ],
+      "wikidataHuman": [
+        "Q5"
+      ],
+      "footballerDescription": "Spanish association football player"
+    },
+    {
+      "id": "gold-212622",
+      "sourcePlayerId": "212622",
+      "name": "Joshua Kimmich",
+      "overallRating": 89,
+      "gender": {
+        "id": 0,
+        "label": "Men's Football"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "wikidata": "Q13865408",
+      "wikidataMale": [
+        "Q6581097"
+      ],
+      "wikidataHuman": [
+        "Q5"
+      ],
+      "footballerDescription": "German association football player (born 1995)"
+    },
+    {
+      "id": "gold-212831",
+      "sourcePlayerId": "212831",
+      "name": "Alisson",
+      "overallRating": 89,
+      "gender": {
+        "id": 0,
+        "label": "Men's Football"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "wikidata": "Q18237361",
+      "wikidataMale": [
+        "Q6581097"
+      ],
+      "wikidataHuman": [
+        "Q5"
+      ],
+      "footballerDescription": "Brazilian association football player"
+    },
+    {
+      "id": "gold-202126",
+      "sourcePlayerId": "202126",
+      "name": "Harry Kane",
+      "overallRating": 89,
+      "gender": {
+        "id": 0,
+        "label": "Men's Football"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "wikidata": "Q969725",
+      "wikidataMale": [
+        "Q6581097"
+      ],
+      "wikidataHuman": [
+        "Q5"
+      ],
+      "footballerDescription": "English association football player (born 1993)"
+    },
+    {
+      "id": "gold-239053",
+      "sourcePlayerId": "239053",
+      "name": "Federico Valverde",
+      "overallRating": 89,
+      "gender": {
+        "id": 0,
+        "label": "Men's Football"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "wikidata": "Q19509544",
+      "wikidataMale": [
+        "Q6581097"
+      ],
+      "wikidataHuman": [
+        "Q5"
+      ],
+      "footballerDescription": "Uruguayan professional footballer (born 1998)"
+    },
+    {
+      "id": "gold-256630",
+      "sourcePlayerId": "256630",
+      "name": "Florian Wirtz",
+      "overallRating": 89,
+      "gender": {
+        "id": 0,
+        "label": "Men's Football"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "wikidata": "Q94699949",
+      "wikidataMale": [
+        "Q6581097"
+      ],
+      "wikidataHuman": [
+        "Q5"
+      ],
+      "footballerDescription": "German association football player (born 2003)"
+    },
+    {
+      "id": "gold-192119",
+      "sourcePlayerId": "192119",
+      "name": "Thibaut Courtois",
+      "overallRating": 89,
+      "gender": {
+        "id": 0,
+        "label": "Men's Football"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "wikidata": "Q73360",
+      "wikidataMale": [
+        "Q6581097"
+      ],
+      "wikidataHuman": [
+        "Q5"
+      ],
+      "footballerDescription": "Belgian association football player (born 1992)"
+    },
+    {
+      "id": "gold-188545",
+      "sourcePlayerId": "188545",
+      "name": "Robert Lewandowski",
+      "overallRating": 88,
+      "gender": {
+        "id": 0,
+        "label": "Men's Football"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "wikidata": "Q151269",
+      "wikidataMale": [
+        "Q6581097"
+      ],
+      "wikidataHuman": [
+        "Q5"
+      ],
+      "footballerDescription": "Polish association football player (born 1988)"
+    },
+    {
+      "id": "gold-231478",
+      "sourcePlayerId": "231478",
+      "name": "Lautaro Martínez",
+      "overallRating": 88,
+      "gender": {
+        "id": 0,
+        "label": "Men's Football"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "wikidata": "Q21484126",
+      "wikidataMale": [
+        "Q6581097"
+      ],
+      "wikidataHuman": [
+        "Q5"
+      ],
+      "footballerDescription": "Argentine association football player (born 1997)"
+    },
+    {
+      "id": "gold-233731",
+      "sourcePlayerId": "233731",
+      "name": "Alexander Isak",
+      "overallRating": 88,
+      "gender": {
+        "id": 0,
+        "label": "Men's Football"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "wikidata": "Q23759917",
+      "wikidataMale": [
+        "Q6581097"
+      ],
+      "wikidataHuman": [
+        "Q5"
+      ],
+      "footballerDescription": "Swedish footballer (born 1999)"
+    },
+    {
+      "id": "gold-256790",
+      "sourcePlayerId": "256790",
+      "name": "Jamal Musiala",
+      "overallRating": 88,
+      "gender": {
+        "id": 0,
+        "label": "Men's Football"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "wikidata": "Q96072055",
+      "wikidataMale": [
+        "Q6581097"
+      ],
+      "wikidataHuman": [
+        "Q5"
+      ],
+      "footballerDescription": "German footballer (born 2003)"
+    },
+    {
+      "id": "gold-232580",
+      "sourcePlayerId": "232580",
+      "name": "Gabriel",
+      "overallRating": 88,
+      "gender": {
+        "id": 0,
+        "label": "Men's Football"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "wikidata": "Q25175970",
+      "wikidataMale": [
+        "Q6581097"
+      ],
+      "wikidataHuman": [
+        "Q5"
+      ],
+      "footballerDescription": "Brazilian footballer (born 1997)"
+    },
+    {
+      "id": "gold-246669",
+      "sourcePlayerId": "246669",
+      "name": "Bukayo Saka",
+      "overallRating": 88,
+      "gender": {
+        "id": 0,
+        "label": "Men's Football"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "wikidata": "Q59306386",
+      "wikidataMale": [
+        "Q6581097"
+      ],
+      "wikidataHuman": [
+        "Q5"
+      ],
+      "footballerDescription": "English footballer (born 2001)"
+    },
+    {
+      "id": "gold-200389",
+      "sourcePlayerId": "200389",
+      "name": "Jan Oblak",
+      "overallRating": 88,
+      "gender": {
+        "id": 0,
+        "label": "Men's Football"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "wikidata": "Q2058682",
+      "wikidataMale": [
+        "Q6581097"
+      ],
+      "wikidataHuman": [
+        "Q5"
+      ],
+      "footballerDescription": "Slovenian association football player (born 1993)"
+    },
+    {
+      "id": "gold-247635",
+      "sourcePlayerId": "247635",
+      "name": "Khvicha Kvaratskhelia",
+      "overallRating": 87,
+      "gender": {
+        "id": 0,
+        "label": "Men's Football"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "wikidata": "Q61780902",
+      "wikidataMale": [
+        "Q6581097"
+      ],
+      "wikidataHuman": [
+        "Q5"
+      ],
+      "footballerDescription": "Georgian footballer (born 2001)"
+    },
+    {
+      "id": "gold-237383",
+      "sourcePlayerId": "237383",
+      "name": "Alessandro Bastoni",
+      "overallRating": 87,
+      "gender": {
+        "id": 0,
+        "label": "Men's Football"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "wikidata": "Q28561068",
+      "wikidataMale": [
+        "Q6581097"
+      ],
+      "wikidataHuman": [
+        "Q5"
+      ],
+      "footballerDescription": "Italian association football player"
+    },
+    {
+      "id": "gold-192985",
+      "sourcePlayerId": "192985",
+      "name": "Kevin De Bruyne",
+      "overallRating": 87,
+      "gender": {
+        "id": 0,
+        "label": "Men's Football"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "wikidata": "Q357984",
+      "wikidataMale": [
+        "Q6581097"
+      ],
+      "wikidataHuman": [
+        "Q5"
+      ],
+      "footballerDescription": "Belgian association football player (born 1991)"
+    },
+    {
+      "id": "gold-228702",
+      "sourcePlayerId": "228702",
+      "name": "Frenkie de Jong",
+      "overallRating": 87,
+      "gender": {
+        "id": 0,
+        "label": "Men's Football"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "wikidata": "Q19898898",
+      "wikidataMale": [
+        "Q6581097"
+      ],
+      "wikidataHuman": [
+        "Q5"
+      ],
+      "footballerDescription": "Dutch association football player (born 1997)"
+    },
+    {
+      "id": "gold-256079",
+      "sourcePlayerId": "256079",
+      "name": "Moisés Caicedo",
+      "overallRating": 87,
+      "gender": {
+        "id": 0,
+        "label": "Men's Football"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "wikidata": "Q87715532",
+      "wikidataMale": [
+        "Q6581097"
+      ],
+      "wikidataHuman": [
+        "Q5"
+      ],
+      "footballerDescription": "Ecuatorian association football player (born 2001)"
+    },
+    {
+      "id": "gold-234378",
+      "sourcePlayerId": "234378",
+      "name": "Declan Rice",
+      "overallRating": 87,
+      "gender": {
+        "id": 0,
+        "label": "Men's Football"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "wikidata": "Q30007142",
+      "wikidataMale": [
+        "Q6581097"
+      ],
+      "wikidataHuman": [
+        "Q5"
+      ],
+      "footballerDescription": "English footballer (born 1999)"
+    },
+    {
+      "id": "gold-207865",
+      "sourcePlayerId": "207865",
+      "name": "Marquinhos",
+      "overallRating": 87,
+      "gender": {
+        "id": 0,
+        "label": "Men's Football"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "wikidata": "Q39230",
+      "wikidataMale": [
+        "Q6581097"
+      ],
+      "wikidataHuman": [
+        "Q5"
+      ],
+      "footballerDescription": "Brazilian association football player (born 1994)"
+    },
+    {
+      "id": "gold-177683",
+      "sourcePlayerId": "177683",
+      "name": "Yann Sommer",
+      "overallRating": 87,
+      "gender": {
+        "id": 0,
+        "label": "Men's Football"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "wikidata": "Q667596",
+      "wikidataMale": [
+        "Q6581097"
+      ],
+      "wikidataHuman": [
+        "Q5"
+      ],
+      "footballerDescription": "Swiss association football player"
+    },
+    {
+      "id": "gold-241486",
+      "sourcePlayerId": "241486",
+      "name": "Jules Koundé",
+      "overallRating": 87,
+      "gender": {
+        "id": 0,
+        "label": "Men's Football"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "wikidata": "Q47170176",
+      "wikidataMale": [
+        "Q6581097"
+      ],
+      "wikidataHuman": [
+        "Q5"
+      ],
+      "footballerDescription": "French footballer (born 1998)"
+    },
+    {
+      "id": "gold-212198",
+      "sourcePlayerId": "212198",
+      "name": "Bruno Fernandes",
+      "overallRating": 87,
+      "gender": {
+        "id": 0,
+        "label": "Men's Football"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "wikidata": "Q4979316",
+      "wikidataMale": [
+        "Q6581097"
+      ],
+      "wikidataHuman": [
+        "Q5"
+      ],
+      "footballerDescription": "Portuguese association football player (born 1994)"
+    },
+    {
+      "id": "gold-243715",
+      "sourcePlayerId": "243715",
+      "name": "William Saliba",
+      "overallRating": 87,
+      "gender": {
+        "id": 0,
+        "label": "Men's Football"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "wikidata": "Q56868118",
+      "wikidataMale": [
+        "Q6581097"
+      ],
+      "wikidataHuman": [
+        "Q5"
+      ],
+      "footballerDescription": "French footballer (born 2001)"
+    },
+    {
+      "id": "gold-246191",
+      "sourcePlayerId": "246191",
+      "name": "Julián Alvarez",
+      "overallRating": 87,
+      "gender": {
+        "id": 0,
+        "label": "Men's Football"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "wikidata": "Q59381180",
+      "wikidataMale": [
+        "Q6581097"
+      ],
+      "wikidataHuman": [
+        "Q5"
+      ],
+      "footballerDescription": "Argentine footballer (born 2000)"
+    },
+    {
+      "id": "gold-213331",
+      "sourcePlayerId": "213331",
+      "name": "Jonathan Tah",
+      "overallRating": 87,
+      "gender": {
+        "id": 0,
+        "label": "Men's Football"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "wikidata": "Q14640027",
+      "wikidataMale": [
+        "Q6581097"
+      ],
+      "wikidataHuman": [
+        "Q5"
+      ],
+      "footballerDescription": "German footballer (born 1996)"
+    },
+    {
+      "id": "gold-239837",
+      "sourcePlayerId": "239837",
+      "name": "Alexis Mac Allister",
+      "overallRating": 87,
+      "gender": {
+        "id": 0,
+        "label": "Men's Football"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "wikidata": "Q33297140",
+      "wikidataMale": [
+        "Q6581097"
+      ],
+      "wikidataHuman": [
+        "Q5"
+      ],
+      "footballerDescription": "Argentine association football player (born 1998)"
+    },
+    {
+      "id": "gold-215698",
+      "sourcePlayerId": "215698",
+      "name": "Mike Maignan",
+      "overallRating": 87,
+      "gender": {
+        "id": 0,
+        "label": "Men's Football"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "wikidata": "Q17274709",
+      "wikidataMale": [
+        "Q6581097"
+      ],
+      "wikidataHuman": [
+        "Q5"
+      ],
+      "footballerDescription": "French footballer (born 1995)"
+    },
+    {
+      "id": "gold-222665",
+      "sourcePlayerId": "222665",
+      "name": "Martin Ødegaard",
+      "overallRating": 87,
+      "gender": {
+        "id": 0,
+        "label": "Men's Football"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "wikidata": "Q16902219",
+      "wikidataMale": [
+        "Q6581097"
+      ],
+      "wikidataHuman": [
+        "Q5"
+      ],
+      "footballerDescription": "Norwegian footballer (born 1998)"
+    },
+    {
+      "id": "gold-220901",
+      "sourcePlayerId": "220901",
+      "name": "David Raya",
+      "overallRating": 87,
+      "gender": {
+        "id": 0,
+        "label": "Men's Football"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "wikidata": "Q19665907",
+      "wikidataMale": [
+        "Q6581097"
+      ],
+      "wikidataHuman": [
+        "Q5"
+      ],
+      "footballerDescription": "Spanish association football player"
+    },
+    {
+      "id": "gold-241651",
+      "sourcePlayerId": "241651",
+      "name": "Viktor Gyökeres",
+      "overallRating": 87,
+      "gender": {
+        "id": 0,
+        "label": "Men's Football"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "wikidata": "Q47075606",
+      "wikidataMale": [
+        "Q6581097"
+      ],
+      "wikidataHuman": [
+        "Q5"
+      ],
+      "footballerDescription": "Swedish footballer (born 1998)"
+    },
+    {
+      "id": "gold-224232",
+      "sourcePlayerId": "224232",
+      "name": "Nicolò Barella",
+      "overallRating": 87,
+      "gender": {
+        "id": 0,
+        "label": "Men's Football"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "wikidata": "Q20090225",
+      "wikidataMale": [
+        "Q6581097"
+      ],
+      "wikidataHuman": [
+        "Q5"
+      ],
+      "footballerDescription": "Italian association football player"
+    },
+    {
+      "id": "gold-205452",
+      "sourcePlayerId": "205452",
+      "name": "Antonio Rüdiger",
+      "overallRating": 86,
+      "gender": {
+        "id": 0,
+        "label": "Men's Football"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "wikidata": "Q96755",
+      "wikidataMale": [
+        "Q6581097"
+      ],
+      "wikidataHuman": [
+        "Q5"
+      ],
+      "footballerDescription": "German association football player (born 1993)"
+    },
+    {
+      "id": "gold-247827",
+      "sourcePlayerId": "247827",
+      "name": "Michael Olise",
+      "overallRating": 86,
+      "gender": {
+        "id": 0,
+        "label": "Men's Football"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "wikidata": "Q62050484",
+      "wikidataMale": [
+        "Q6581097"
+      ],
+      "wikidataHuman": [
+        "Q5"
+      ],
+      "footballerDescription": "French footballer (born 2001)"
+    },
+    {
+      "id": "gold-239818",
+      "sourcePlayerId": "239818",
+      "name": "Rúben Dias",
+      "overallRating": 86,
+      "gender": {
+        "id": 0,
+        "label": "Men's Football"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "wikidata": "Q21621168",
+      "wikidataMale": [
+        "Q6581097"
+      ],
+      "wikidataHuman": [
+        "Q5"
+      ],
+      "footballerDescription": "Portuguese footballer (born 1997)"
+    },
+    {
+      "id": "gold-211110",
+      "sourcePlayerId": "211110",
+      "name": "Paulo Dybala",
+      "overallRating": 86,
+      "gender": {
+        "id": 0,
+        "label": "Men's Football"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "wikidata": "Q166317",
+      "wikidataMale": [
+        "Q6581097"
+      ],
+      "wikidataHuman": [
+        "Q5"
+      ],
+      "footballerDescription": "Argentine association football player (born 1993)"
+    },
+    {
+      "id": "gold-247851",
+      "sourcePlayerId": "247851",
+      "name": "Bruno Guimarães",
+      "overallRating": 86,
+      "gender": {
+        "id": 0,
+        "label": "Men's Football"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "wikidata": "Q58323172",
+      "wikidataMale": [
+        "Q6581097"
+      ],
+      "wikidataHuman": [
+        "Q5"
+      ],
+      "footballerDescription": "Brazilian footballer (born 1997)"
+    },
+    {
+      "id": "gold-256196",
+      "sourcePlayerId": "256196",
+      "name": "Willian Pacho",
+      "overallRating": 86,
+      "gender": {
+        "id": 0,
+        "label": "Men's Football"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "wikidata": "Q87767569",
+      "wikidataMale": [
+        "Q6581097"
+      ],
+      "wikidataHuman": [
+        "Q5"
+      ],
+      "footballerDescription": "Ecuadorian association football player"
+    },
+    {
+      "id": "gold-208128",
+      "sourcePlayerId": "208128",
+      "name": "Hakan Çalhanoğlu",
+      "overallRating": 86,
+      "gender": {
+        "id": 0,
+        "label": "Men's Football"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "wikidata": "Q763465",
+      "wikidataMale": [
+        "Q6581097"
+      ],
+      "wikidataHuman": [
+        "Q5"
+      ],
+      "footballerDescription": "Turkish association football player (born 1994)"
+    },
+    {
+      "id": "gold-158023",
+      "sourcePlayerId": "158023",
+      "name": "Lionel Messi",
+      "overallRating": 86,
+      "gender": {
+        "id": 0,
+        "label": "Men's Football"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "wikidata": "Q615",
+      "wikidataMale": [
+        "Q6581097"
+      ],
+      "wikidataHuman": [
+        "Q5"
+      ],
+      "footballerDescription": "Argentine association football player (born 1987)"
+    },
+    {
+      "id": "gold-256516",
+      "sourcePlayerId": "256516",
+      "name": "Nico Williams",
+      "overallRating": 86,
+      "gender": {
+        "id": 0,
+        "label": "Men's Football"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "wikidata": "Q104414736",
+      "wikidataMale": [
+        "Q6581097"
+      ],
+      "wikidataHuman": [
+        "Q5"
+      ],
+      "footballerDescription": "Spanish footballer"
+    },
+    {
+      "id": "gold-240638",
+      "sourcePlayerId": "240638",
+      "name": "Tijjani Reijnders",
+      "overallRating": 86,
+      "gender": {
+        "id": 0,
+        "label": "Men's Football"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "wikidata": "Q39500352",
+      "wikidataMale": [
+        "Q6581097"
+      ],
+      "wikidataHuman": [
+        "Q5"
+      ],
+      "footballerDescription": "Dutch footballer (born 1998)"
+    },
+    {
+      "id": "gold-192448",
+      "sourcePlayerId": "192448",
+      "name": "Marc-André ter Stegen",
+      "overallRating": 86,
+      "gender": {
+        "id": 0,
+        "label": "Men's Football"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "wikidata": "Q160472",
+      "wikidataMale": [
+        "Q6581097"
+      ],
+      "wikidataHuman": [
+        "Q5"
+      ],
+      "footballerDescription": "German association football player"
+    },
+    {
+      "id": "gold-235073",
+      "sourcePlayerId": "235073",
+      "name": "Gregor Kobel",
+      "overallRating": 86,
+      "gender": {
+        "id": 0,
+        "label": "Men's Football"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "wikidata": "Q36184031",
+      "wikidataMale": [
+        "Q6581097"
+      ],
+      "wikidataHuman": [
+        "Q5"
+      ],
+      "footballerDescription": "Swiss footballer (born 1997)"
+    },
+    {
+      "id": "gold-226268",
+      "sourcePlayerId": "226268",
+      "name": "Federico Dimarco",
+      "overallRating": 85,
+      "gender": {
+        "id": 0,
+        "label": "Men's Football"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "wikidata": "Q20204829",
+      "wikidataMale": [
+        "Q6581097"
+      ],
+      "wikidataHuman": [
+        "Q5"
+      ],
+      "footballerDescription": "Italian footballer (born 1997)"
+    },
+    {
+      "id": "gold-237238",
+      "sourcePlayerId": "237238",
+      "name": "Scott McTominay",
+      "overallRating": 85,
+      "gender": {
+        "id": 0,
+        "label": "Men's Football"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "wikidata": "Q29624459",
+      "wikidataMale": [
+        "Q6581097"
+      ],
+      "wikidataHuman": [
+        "Q5"
+      ],
+      "footballerDescription": "Scottish association football player (born 1996)"
+    },
+    {
+      "id": "gold-246104",
+      "sourcePlayerId": "246104",
+      "name": "Ryan Gravenberch",
+      "overallRating": 85,
+      "gender": {
+        "id": 0,
+        "label": "Men's Football"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "wikidata": "Q56257870",
+      "wikidataMale": [
+        "Q6581097"
+      ],
+      "wikidataHuman": [
+        "Q5"
+      ],
+      "footballerDescription": "Dutch association football player (born 2002)"
+    },
+    {
+      "id": "gold-202811",
+      "sourcePlayerId": "202811",
+      "name": "Emiliano Martínez",
+      "overallRating": 85,
+      "gender": {
+        "id": 0,
+        "label": "Men's Football"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "wikidata": "Q3275904",
+      "wikidataMale": [
+        "Q6581097"
+      ],
+      "wikidataHuman": [
+        "Q5"
+      ],
+      "footballerDescription": "Argentine footballer (born 1992)"
+    },
+    {
+      "id": "gold-272834",
+      "sourcePlayerId": "272834",
+      "name": "João Neves",
+      "overallRating": 85,
+      "gender": {
+        "id": 0,
+        "label": "Men's Football"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "wikidata": "Q113551733",
+      "wikidataMale": [
+        "Q6581097"
+      ],
+      "wikidataHuman": [
+        "Q5"
+      ],
+      "footballerDescription": "Portuguese footballer (born 2004)"
+    },
+    {
+      "id": "gold-243014",
+      "sourcePlayerId": "243014",
+      "name": "Bryan Mbeumo",
+      "overallRating": 85,
+      "gender": {
+        "id": 0,
+        "label": "Men's Football"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "wikidata": "Q49561427",
+      "wikidataMale": [
+        "Q6581097"
+      ],
+      "wikidataHuman": [
+        "Q5"
+      ],
+      "footballerDescription": "Cameroonian-French footballer (born 1999)"
+    },
+    {
+      "id": "gold-271421",
+      "sourcePlayerId": "271421",
+      "name": "Désiré Doué",
+      "overallRating": 85,
+      "gender": {
+        "id": 0,
+        "label": "Men's Football"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "wikidata": "Q112170256",
+      "wikidataMale": [
+        "Q6581097"
+      ],
+      "wikidataHuman": [
+        "Q5"
+      ],
+      "footballerDescription": "French footballer (born 2005)"
+    },
+    {
+      "id": "gold-204963",
+      "sourcePlayerId": "204963",
+      "name": "Carvajal",
+      "overallRating": 85,
+      "gender": {
+        "id": 0,
+        "label": "Men's Football"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "wikidata": "Q127452",
+      "wikidataMale": [
+        "Q6581097"
+      ],
+      "wikidataHuman": [
+        "Q5"
+      ],
+      "footballerDescription": "Spanish footballer (born 1992)"
+    },
+    {
+      "id": "gold-230869",
+      "sourcePlayerId": "230869",
+      "name": "Unai Simón",
+      "overallRating": 85,
+      "gender": {
+        "id": 0,
+        "label": "Men's Football"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "wikidata": "Q23908113",
+      "wikidataMale": [
+        "Q6581097"
+      ],
+      "wikidataHuman": [
+        "Q5"
+      ],
+      "footballerDescription": "Spanish footballer (born 1997)"
+    },
+    {
+      "id": "gold-228093",
+      "sourcePlayerId": "228093",
+      "name": "Marcus Thuram",
+      "overallRating": 85,
+      "gender": {
+        "id": 0,
+        "label": "Men's Football"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "wikidata": "Q19903718",
+      "wikidataMale": [
+        "Q6581097"
+      ],
+      "wikidataHuman": [
+        "Q5"
+      ],
+      "footballerDescription": "French footballer (born 1997)"
+    },
+    {
+      "id": "gold-185122",
+      "sourcePlayerId": "185122",
+      "name": "Péter Gulácsi",
+      "overallRating": 85,
+      "gender": {
+        "id": 0,
+        "label": "Men's Football"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "wikidata": "Q357507",
+      "wikidataMale": [
+        "Q6581097"
+      ],
+      "wikidataHuman": [
+        "Q5"
+      ],
+      "footballerDescription": "Hungarian association football player (born 1990)"
+    },
+    {
+      "id": "gold-193080",
+      "sourcePlayerId": "193080",
+      "name": "De Gea",
+      "overallRating": 85,
+      "gender": {
+        "id": 0,
+        "label": "Men's Football"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "wikidata": "Q150268",
+      "wikidataMale": [
+        "Q6581097"
+      ],
+      "wikidataHuman": [
+        "Q5"
+      ],
+      "footballerDescription": "Spanish association football player"
+    },
+    {
+      "id": "gold-200104",
+      "sourcePlayerId": "200104",
+      "name": "Heung Min Son",
+      "overallRating": 85,
+      "gender": {
+        "id": 0,
+        "label": "Men's Football"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "wikidata": "Q439722",
+      "wikidataMale": [
+        "Q6581097"
+      ],
+      "wikidataHuman": [
+        "Q5"
+      ],
+      "footballerDescription": "South Korean association football player (born 1992)"
+    },
+    {
+      "id": "gold-237692",
+      "sourcePlayerId": "237692",
+      "name": "Phil Foden",
+      "overallRating": 85,
+      "gender": {
+        "id": 0,
+        "label": "Men's Football"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "wikidata": "Q30729096",
+      "wikidataMale": [
+        "Q6581097"
+      ],
+      "wikidataHuman": [
+        "Q5"
+      ],
+      "footballerDescription": "English footballer (born 2000)"
+    },
+    {
+      "id": "gold-226271",
+      "sourcePlayerId": "226271",
+      "name": "Fabián Ruiz",
+      "overallRating": 85,
+      "gender": {
+        "id": 0,
+        "label": "Men's Football"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "wikidata": "Q18637930",
+      "wikidataMale": [
+        "Q6581097"
+      ],
+      "wikidataHuman": [
+        "Q5"
+      ],
+      "footballerDescription": "Spanish footballer"
+    },
+    {
+      "id": "gold-216393",
+      "sourcePlayerId": "216393",
+      "name": "Youri Tielemans",
+      "overallRating": 85,
+      "gender": {
+        "id": 0,
+        "label": "Men's Football"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "wikidata": "Q14327453",
+      "wikidataMale": [
+        "Q6581097"
+      ],
+      "wikidataHuman": [
+        "Q5"
+      ],
+      "footballerDescription": "Belgian footballer (born 1997)"
+    },
+    {
+      "id": "gold-199503",
+      "sourcePlayerId": "199503",
+      "name": "Granit Xhaka",
+      "overallRating": 85,
+      "gender": {
+        "id": 0,
+        "label": "Men's Football"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "wikidata": "Q514427",
+      "wikidataMale": [
+        "Q6581097"
+      ],
+      "wikidataHuman": [
+        "Q5"
+      ],
+      "footballerDescription": "Swiss footballer (born 1975)"
+    },
+    {
+      "id": "gold-165153",
+      "sourcePlayerId": "165153",
+      "name": "Karim Benzema",
+      "overallRating": 85,
+      "gender": {
+        "id": 0,
+        "label": "Men's Football"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "wikidata": "Q1912",
+      "wikidataMale": [
+        "Q6581097"
+      ],
+      "wikidataHuman": [
+        "Q5"
+      ],
+      "footballerDescription": "French footballer (born 1987)"
+    },
+    {
+      "id": "gold-204525",
+      "sourcePlayerId": "204525",
+      "name": "Iñigo Martínez",
+      "overallRating": 85,
+      "gender": {
+        "id": 0,
+        "label": "Men's Football"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "wikidata": "Q1028020",
+      "wikidataMale": [
+        "Q6581097"
+      ],
+      "wikidataHuman": [
+        "Q5"
+      ],
+      "footballerDescription": "Spanish association football player"
+    },
+    {
+      "id": "gold-20801",
+      "sourcePlayerId": "20801",
+      "name": "Cristiano Ronaldo",
+      "overallRating": 85,
+      "gender": {
+        "id": 0,
+        "label": "Men's Football"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "wikidata": "Q11571",
+      "wikidataMale": [
+        "Q6581097"
+      ],
+      "wikidataHuman": [
+        "Q5"
+      ],
+      "footballerDescription": "Portuguese association football player (born 1985)"
+    },
+    {
+      "id": "gold-243812",
+      "sourcePlayerId": "243812",
+      "name": "Rodrygo",
+      "overallRating": 85,
+      "gender": {
+        "id": 0,
+        "label": "Men's Football"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "wikidata": "Q42728914",
+      "wikidataMale": [
+        "Q6581097"
+      ],
+      "wikidataHuman": [
+        "Q5"
+      ],
+      "footballerDescription": "Brazilian association football player"
+    },
+    {
+      "id": "gold-244260",
+      "sourcePlayerId": "244260",
+      "name": "Dani Olmo",
+      "overallRating": 85,
+      "gender": {
+        "id": 0,
+        "label": "Men's Football"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "wikidata": "Q19560313",
+      "wikidataMale": [
+        "Q6581097"
+      ],
+      "wikidataHuman": [
+        "Q5"
+      ],
+      "footballerDescription": "Spanish footballer"
+    },
+    {
+      "id": "gold-234236",
+      "sourcePlayerId": "234236",
+      "name": "Patrik Schick",
+      "overallRating": 85,
+      "gender": {
+        "id": 0,
+        "label": "Men's Football"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "wikidata": "Q16910257",
+      "wikidataMale": [
+        "Q6581097"
+      ],
+      "wikidataHuman": [
+        "Q5"
+      ],
+      "footballerDescription": "Czech footballer"
+    },
+    {
+      "id": "gold-239580",
+      "sourcePlayerId": "239580",
+      "name": "Bremer",
+      "overallRating": 85,
+      "gender": {
+        "id": 0,
+        "label": "Men's Football"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "wikidata": "Q38693097",
+      "wikidataMale": [
+        "Q6581097"
+      ],
+      "wikidataHuman": [
+        "Q5"
+      ],
+      "footballerDescription": "Brazilian association football player"
+    },
+    {
+      "id": "gold-232656",
+      "sourcePlayerId": "232656",
+      "name": "Theo Hernández",
+      "overallRating": 84,
+      "gender": {
+        "id": 0,
+        "label": "Men's Football"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "wikidata": "Q23703372",
+      "wikidataMale": [
+        "Q6581097"
+      ],
+      "wikidataHuman": [
+        "Q5"
+      ],
+      "footballerDescription": "French footballer (born 1997)"
+    },
+    {
+      "id": "gold-212616",
+      "sourcePlayerId": "212616",
+      "name": "Rodrigo De Paul",
+      "overallRating": 84,
+      "gender": {
+        "id": 0,
+        "label": "Men's Football"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "wikidata": "Q6110670",
+      "wikidataMale": [
+        "Q6581097"
+      ],
+      "wikidataHuman": [
+        "Q5"
+      ],
+      "footballerDescription": "Argentine association football player (born 1994)"
+    },
+    {
+      "id": "gold-210514",
+      "sourcePlayerId": "210514",
+      "name": "João Cancelo",
+      "overallRating": 84,
+      "gender": {
+        "id": 0,
+        "label": "Men's Football"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "wikidata": "Q6298063",
+      "wikidataMale": [
+        "Q6581097"
+      ],
+      "wikidataHuman": [
+        "Q5"
+      ],
+      "footballerDescription": "Portuguese footballer (born 1994)"
+    },
+    {
+      "id": "gold-244675",
+      "sourcePlayerId": "244675",
+      "name": "Sancet",
+      "overallRating": 84,
+      "gender": {
+        "id": 0,
+        "label": "Men's Football"
+      },
+      "ratingSource": "https://drop-api.ea.com/rating/ea-sports-fc?limit=100&offset=0&gender=0",
+      "wikidata": "Q66466886",
+      "wikidataMale": [
+        "Q6581097"
+      ],
+      "wikidataHuman": [
+        "Q5"
+      ],
+      "footballerDescription": "Spanish footballer"
+    }
+  ]
+}

@@ -3,7 +3,7 @@ const LIBRARY_KEY='lineup-studio-library-v2';
 const originalRender=render;
 let library,screen=null,clubTab='Overview';
 const uid=()=>crypto.randomUUID();
-const today=()=>new Date().toLocaleDateString('en-CA');
+const today=()=>library?.currentWorldDate||new Date().toLocaleDateString('en-CA',{timeZone:'Europe/London'});
 function blankTeam(){return {formation:'4-4-2',players:initial.players.map((p,i)=>({...p,name:i===10?'Goalkeeper':`Player ${i+1}`,number:i===10?1:i+2,rating:6.5,goals:0,assists:0,missed:0,sub:'',card:'',star:false,captain:false,photo:'',placeholder:true,generated:false,faceOrigin:''}))}}
 function resetMatchRatings(team){for(const p of [...team.players,...(team.bench||[])]){p.baseRating??=p.rating??6.5;p.rating=6}return team}
 function resetEvents(team){const result=structuredClone(team);result.bench??=[];result.substituted=[];[...result.players,...result.bench].forEach(p=>Object.assign(p,{baseRating:p.baseRating??p.rating??6.5,rating:6,goals:0,assists:0,missed:0,sub:'',card:'',star:false,minutes:null,appeared:null,onAt:null,offAt:null,sentOff:false,penaltyGoals:0,penaltyAttempts:0,saves:0,injury:'',injuredAt:null}));return result}
@@ -13,6 +13,7 @@ function checkLibrary(input){
  if(input?.version!==2||!Array.isArray(input.clubs)||!Array.isArray(input.matches))throw Error('Invalid club library.');
  const ids=new Set();const clubs=input.clubs.map(c=>{if(typeof c.id!=='string'||ids.has(c.id))throw Error('Invalid club ID.');ids.add(c.id);return {id:c.id,name:String(c.name||'Club').slice(0,30),logo:safeImage(c.logo),favourite:!!c.favourite,country:String(c.country||'').slice(0,60),managedSquad:!!c.managedSquad,lineupLocked:!!c.lineupLocked,defaultBadge:['home','away'].includes(c.defaultBadge)?c.defaultBadge:'',squad:c.squad?cleanTeam(c.squad):blankTeam()}});
  const matchIds=new Set();const matches=input.matches.map(m=>{if(typeof m.id!=='string'||matchIds.has(m.id)||!ids.has(m.homeId)||!ids.has(m.awayId)||m.homeId===m.awayId)throw Error('Invalid match.');matchIds.add(m.id);return {id:m.id,homeId:m.homeId,awayId:m.awayId,date:/^\d{4}-\d{2}-\d{2}$/.test(m.date)?m.date:today(),competition:String(m.competition||'My matches').slice(0,50),kickoff:/^([01]\d|2[0-3]):[0-5]\d$/.test(m.kickoff)?m.kickoff:'15:00',status:['FT','LIVE','UPCOMING'].includes(m.status)?m.status:'FT',data:ensureTeams(validate(m.data)),setupBoost:{home:!!m.setupBoost?.home,away:!!m.setupBoost?.away},...(m.simulation?{simulation:MatchSimulator.validate(m.simulation)}:{})}});
+ for(const m of matches)if(m.simulation)MatchSimulator.ensureStartingSnapshot(m);
  // Upgrade unstarted fixtures without touching live or completed match ratings.
  for(const m of matches)if(m.status==='UPCOMING'&&!m.simulation)for(const side of ['home','away'])resetMatchRatings(m.data.teams[side]);
  const leagueIds=new Set();const leagues=(Array.isArray(input.leagues)?input.leagues:[]).map(l=>{if(typeof l.id!=='string'||leagueIds.has(l.id))throw Error('Invalid league ID.');leagueIds.add(l.id);return {id:l.id,name:String(l.name||'League').slice(0,50),season:String(l.season||'').slice(0,20),logo:safeImage(l.logo),category:String(l.category||'').slice(0,60),clubIds:[...new Set((Array.isArray(l.clubIds)?l.clubIds:[]).filter(id=>ids.has(id)))]}});

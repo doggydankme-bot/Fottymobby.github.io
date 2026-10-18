@@ -115,3 +115,6 @@ dates stay unchanged. Later knockout rounds and league matchdays stay after the
 preceding round even when earlier games have moved. Different clubs can still
 play on the same date. Run `node test-fixture-dates.cjs` for cross-competition
 scheduling, round progression, calendar boundaries and reload coverage.
+
+
+Section 17 lifecycle supersedes automatic league archival: league fixtures can finish while the edition remains active/ready. Only FINISH LEAGUE freezes standings and awards the existing single season history record. Cup/tournament final advancement still archives automatically. Full-league simulation runs the shared engine on non-FT matches, yields between fixtures for progress, and keeps stored FT evidence intact. See README and test-section17.cjs for live profile/snapshot/season checks.

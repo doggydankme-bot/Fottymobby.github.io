@@ -1,0 +1,7 @@
+const assert=require('node:assert/strict');global.FootballStats=require('./analytics.js');const Sim=require('./simulator-engine.js'),Events=require('./match-events.js');
+const roles=['FWD','FWD','MID','MID','MID','MID','DEF','DEF','DEF','DEF','GK'];
+function fixture(){const team=prefix=>({formation:'4-4-2',players:roles.map((position,i)=>({playerId:prefix+i,name:prefix+i,position,rating:7,baseRating:7,goals:0,assists:0})),bench:[],substituted:[]});const m={id:'box',homeId:'h',awayId:'a',status:'UPCOMING',date:'2026-10-18',data:{homeScore:0,awayScore:0,teams:{home:team('h'),away:team('a')}}};return {m,db:{clubs:[],matches:[m]}}}
+const counts={home:{inside:0,outside:0},away:{inside:0,outside:0}};
+for(let seed=1;seed<=120;seed++){const {m,db}=fixture();Sim.complete(m,db,seed);for(const e of Events.shots(m.simulation)){if(e.penalty)continue;const x=e.side==='home'?e.shotOriginX:100-e.shotOriginX,inside=x>=82.5&&e.shotOriginY>=95/3.6&&e.shotOriginY<=265/3.6;counts[e.side][inside?'inside':'outside']++;const index=m.simulation.events.indexOf(e),last=m.simulation.events.slice(0,index).reverse().find(a=>a.type==='activity'&&a.playerId===e.playerId);assert.equal(e.shotOriginX,last.x);assert.equal(e.shotOriginY,last.y)}}
+for(const c of Object.values(counts)){assert.ok(c.inside/(c.inside+c.outside)>.7);assert.ok(c.outside>0)}
+console.log('Passed: majority of real non-penalty shots inside both penalty areas, some long shots retained, every origin equals the final recorded touch:',counts);

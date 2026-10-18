@@ -1,6 +1,8 @@
 const assert=require('node:assert/strict'),boot=require('./test-integration.cjs');
 (async()=>{
  const app=boot(),run=app.run;
+ // Keep this clock/substitution test independent of randomly seeded injuries.
+ run('globalThis.startForUiTest=MatchSimulator.start;MatchSimulator.start=(m,db)=>startForUiTest(m,db,193)');
  for(const side of ['home','away']){run(`editReserve('${side}');$('reserve-name').value='${side} substitute';$('reserve-position').value='FWD';$('reserve-rating').value='7.4';$('reserve-photo').files=[]`);await run("reserveForm.onsubmit({preventDefault(){}})")}
  assert.equal(run('state.teams.home.bench.length'),1);assert.equal(run('state.teams.away.bench.length'),1);
  run("currentMatch().status='UPCOMING';$('sim-speed').value='10';$('sim-ai-home').checked=false;$('sim-ai-away').checked=false;$('sim-start').onclick()");

@@ -1,0 +1,767 @@
+[
+  {
+    "id": "gold-209331",
+    "name": "Mohamed Salah",
+    "author": "Bryan Berlin",
+    "source": "https://commons.wikimedia.org/wiki/File:Mohamed_Salah_Argentina_v_Egypt_7_July_2026-163_(cropped).jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features."
+  },
+  {
+    "id": "gold-231747",
+    "name": "Kylian Mbappé",
+    "author": "Bryan Berlin",
+    "source": "https://commons.wikimedia.org/wiki/File:Kylian_Mbappe_France_v_Senegal_16_June_2026-391_(cropped).jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features."
+  },
+  {
+    "id": "gold-231443",
+    "name": "Ousmane Dembélé",
+    "author": "Bryan Berlin",
+    "source": "https://commons.wikimedia.org/wiki/File:Ousmane_Dembele_France_v_Senegal_16_June_2026-341_(cropped)_2.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features."
+  },
+  {
+    "id": "gold-231866",
+    "name": "Rodri",
+    "author": "Bryan Berlin",
+    "source": "https://commons.wikimedia.org/wiki/File:Rodri_Argentina_v_Spain_19_July_2026-187_(cropped).jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features."
+  },
+  {
+    "id": "gold-203376",
+    "name": "Virgil van Dijk",
+    "author": "Ailura",
+    "source": "https://commons.wikimedia.org/wiki/File:20160604_AUT_NED_8876_(cropped).jpg",
+    "license": "CC BY-SA 3.0 at",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/at/deed.en",
+    "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features."
+  },
+  {
+    "id": "gold-252371",
+    "name": "Jude Bellingham",
+    "author": "Bryan Berlin",
+    "source": "https://commons.wikimedia.org/wiki/File:Jude_Bellingham_England_v_Ghana_23_June_2026-061_(cropped).jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features."
+  },
+  {
+    "id": "gold-239085",
+    "name": "Erling Haaland",
+    "author": "Bryan Berlin",
+    "source": "https://commons.wikimedia.org/wiki/File:Erling_Haaland_Morocco_v_Norway_7_June_2026-51.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features."
+  },
+  {
+    "id": "gold-233419",
+    "name": "Raphinha",
+    "author": "Bryan Berlin",
+    "source": "https://commons.wikimedia.org/wiki/File:Raphinha_Brazil_V_Morocco_13_June_2026-133_(cropped).jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features."
+  },
+  {
+    "id": "gold-235212",
+    "name": "Achraf Hakimi",
+    "author": "Bryan Berlin",
+    "source": "https://commons.wikimedia.org/wiki/File:Achraf_Hakimi_Morocco_v_Norway_7_June_2026-16.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features."
+  },
+  {
+    "id": "gold-277643",
+    "name": "Lamine Yamal",
+    "author": "Bryan Berlin",
+    "source": "https://commons.wikimedia.org/wiki/File:Lamine_Yamal_France_v_Spain_7.24.26-142.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features."
+  },
+  {
+    "id": "gold-255253",
+    "name": "Vitinha",
+    "author": "Bryan Berlin",
+    "source": "https://commons.wikimedia.org/wiki/File:Vitinha_USMNT_v_Portugal_Mar_31_2026-50_(cropped).jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features."
+  },
+  {
+    "id": "gold-230621",
+    "name": "Gianluigi Donnarumma",
+    "author": "MichaelEmilio",
+    "source": "https://commons.wikimedia.org/wiki/File:Norway_Italy_-_June_2025_A_17_(Gianluigi_Donnarumma).jpg",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features."
+  },
+  {
+    "id": "gold-251854",
+    "name": "Pedri",
+    "author": "Bryan Berlin",
+    "source": "https://commons.wikimedia.org/wiki/File:Pedri_France_v_Spain_7.24.26-245.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features."
+  },
+  {
+    "id": "gold-212622",
+    "name": "Joshua Kimmich",
+    "author": "Bryan Berlin",
+    "source": "https://commons.wikimedia.org/wiki/File:Joshua_Kimmich_Ecuador_v_Germany_25_June_2026-149.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features."
+  },
+  {
+    "id": "gold-212831",
+    "name": "Alisson",
+    "author": "Bryan Berlin",
+    "source": "https://commons.wikimedia.org/wiki/File:Alisson_Becker_Brazil_V_Morocco_13_June_2026-117_(cropped).jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features."
+  },
+  {
+    "id": "gold-202126",
+    "name": "Harry Kane",
+    "author": "Bryan Berlin",
+    "source": "https://commons.wikimedia.org/wiki/File:Harry_Kane_England_v_Ghana_23_June_2026-024_(cropped).jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features."
+  },
+  {
+    "id": "gold-239053",
+    "name": "Federico Valverde",
+    "author": "Real Madrid",
+    "source": "https://commons.wikimedia.org/wiki/File:Federico_Valverde_2021_(cropped).jpg",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features."
+  },
+  {
+    "id": "gold-256630",
+    "name": "Florian Wirtz",
+    "author": "Bryan Berlin",
+    "source": "https://commons.wikimedia.org/wiki/File:Florian_Wirtz_Ecuador_v_Germany_25_June_2026-181_(cropped).jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features."
+  },
+  {
+    "id": "gold-192119",
+    "name": "Thibaut Courtois",
+    "author": "Bryan Berlin",
+    "source": "https://commons.wikimedia.org/wiki/File:Thibaut_Courtois_Belgium_v_USA_6_July_2026-076_(cropped).jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features."
+  },
+  {
+    "id": "gold-188545",
+    "name": "Robert Lewandowski",
+    "author": "Bryan Berlin",
+    "source": "https://commons.wikimedia.org/wiki/File:Robert_Lewandowski_NYCFC_v_Chicago_25_July_2026-383.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features."
+  },
+  {
+    "id": "gold-231478",
+    "name": "Lautaro Martínez",
+    "author": "Bryan Berlin",
+    "source": "https://commons.wikimedia.org/wiki/File:Lautaro_Martinez_Argentina_v_Spain_19_July_2026-049_(cropped).jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features."
+  },
+  {
+    "id": "gold-233731",
+    "name": "Alexander Isak",
+    "author": "Mikael Hervestad",
+    "source": "https://commons.wikimedia.org/wiki/File:Alexander_Isak_-_Sweden_-_Greece21_(cropped).jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features."
+  },
+  {
+    "id": "gold-256790",
+    "name": "Jamal Musiala",
+    "author": "Bryan Berlin",
+    "source": "https://commons.wikimedia.org/wiki/File:Jamal_Musiala_Ecuador_v_Germany_25_June_2026-174_(cropped).jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features."
+  },
+  {
+    "id": "gold-232580",
+    "name": "Gabriel",
+    "author": "Bryan Berlin",
+    "source": "https://commons.wikimedia.org/wiki/File:Gabriel_Magalhaes_Brazil_V_Morocco_13_June_2026-132_(cropped).jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features."
+  },
+  {
+    "id": "gold-246669",
+    "name": "Bukayo Saka",
+    "author": "Bryan Berlin",
+    "source": "https://commons.wikimedia.org/wiki/File:Bukayo_Saka_England_v_Ghana_23_June_2026-057_(cropped).jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features."
+  },
+  {
+    "id": "gold-200389",
+    "name": "Jan Oblak",
+    "author": "Анна Нэсси",
+    "source": "https://commons.wikimedia.org/wiki/File:Jan_Oblak_2019.jpg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features."
+  },
+  {
+    "id": "gold-247635",
+    "name": "Khvicha Kvaratskhelia",
+    "author": "Paté kroute",
+    "source": "https://commons.wikimedia.org/wiki/File:Kvaratskhelia_asse_psg_2425.png",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features."
+  },
+  {
+    "id": "gold-237383",
+    "name": "Alessandro Bastoni",
+    "author": "MichaelEmilio",
+    "source": "https://commons.wikimedia.org/wiki/File:Norway_Italy_-_June_2025_A_36_(cropped).jpg",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features."
+  },
+  {
+    "id": "gold-192985",
+    "name": "Kevin De Bruyne",
+    "author": "Bryan Berlin",
+    "source": "https://commons.wikimedia.org/wiki/File:Kevin_De_Bruyne_USMNT_v_Belgium_Mar_28_2026-64_(cropped).jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features."
+  },
+  {
+    "id": "gold-228702",
+    "name": "Frenkie de Jong",
+    "author": "Unknown authorUnknown author",
+    "source": "https://commons.wikimedia.org/wiki/File:Frenkie_De_Jong_(2025)_(cropped).png",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features."
+  },
+  {
+    "id": "gold-256079",
+    "name": "Moisés Caicedo",
+    "author": "Bryan Berlin",
+    "source": "https://commons.wikimedia.org/wiki/File:Moises_Caicedo_Ecuador_v_Germany_25_June_2026-051_(cropped).jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features."
+  },
+  {
+    "id": "gold-234378",
+    "name": "Declan Rice",
+    "author": "Bryan Berlin",
+    "source": "https://commons.wikimedia.org/wiki/File:Declan_Rice_England_v_Ghana_23_June_2026-150.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features."
+  },
+  {
+    "id": "gold-207865",
+    "name": "Marquinhos",
+    "author": "Bryan Berlin",
+    "source": "https://commons.wikimedia.org/wiki/File:Marquinhos_Brazil_V_Morocco_13_June_2026-153_(cropped).jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features."
+  },
+  {
+    "id": "gold-177683",
+    "name": "Yann Sommer",
+    "author": "Werner100359",
+    "source": "https://commons.wikimedia.org/wiki/File:FC_Salzburg_gegen_Inter_Mailand_(Testspiel_2023-08-09)_69.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features."
+  },
+  {
+    "id": "gold-241486",
+    "name": "Jules Koundé",
+    "author": "Bryan Berlin",
+    "source": "https://commons.wikimedia.org/wiki/File:Jules_Kounde_France_v_Senegal_16_June_2026-449_(cropped).jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features."
+  },
+  {
+    "id": "gold-212198",
+    "name": "Bruno Fernandes",
+    "author": "Bryan Berlin",
+    "source": "https://commons.wikimedia.org/wiki/File:Bruno_Fernandes_USMNT_v_Portugal_Mar_31_2026-27_(cropped).jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features."
+  },
+  {
+    "id": "gold-243715",
+    "name": "William Saliba",
+    "author": "Bryan Berlin",
+    "source": "https://commons.wikimedia.org/wiki/File:William_Saliba_France_v_Paraguay_4_July_2026-183.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features."
+  },
+  {
+    "id": "gold-246191",
+    "name": "Julián Alvarez",
+    "author": "Bryan Berlin",
+    "source": "https://commons.wikimedia.org/wiki/File:Julian_Alvarez_Argentina_v_Spain_19_July_2026-052_(cropped).jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features."
+  },
+  {
+    "id": "gold-213331",
+    "name": "Jonathan Tah",
+    "author": "Bryan Berlin",
+    "source": "https://commons.wikimedia.org/wiki/File:Jonathan_Tah_Ecuador_v_Germany_25_June_2026-116.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features."
+  },
+  {
+    "id": "gold-239837",
+    "name": "Alexis Mac Allister",
+    "author": "Bryan Berlin",
+    "source": "https://commons.wikimedia.org/wiki/File:Alexis_Mac_Allister_Argentina_v_Spain_19_July_2026-162_(cropped).jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features."
+  },
+  {
+    "id": "gold-215698",
+    "name": "Mike Maignan",
+    "author": "Bryan Berlin",
+    "source": "https://commons.wikimedia.org/wiki/File:Mike_Maignan_France_v_Norway_26_June_26-132_(cropped).jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features."
+  },
+  {
+    "id": "gold-222665",
+    "name": "Martin Ødegaard",
+    "author": "Bryan Berlin",
+    "source": "https://commons.wikimedia.org/wiki/File:Martin_Odegaard_France_v_Norway_26_June_26-014.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features."
+  },
+  {
+    "id": "gold-220901",
+    "name": "David Raya",
+    "author": "Bryan Berlin",
+    "source": "https://commons.wikimedia.org/wiki/File:David_Raya_Argentina_v_Spain_19_July_2026-003_(cropped).jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features."
+  },
+  {
+    "id": "gold-241651",
+    "name": "Viktor Gyökeres",
+    "author": "Bryan Berlin",
+    "source": "https://commons.wikimedia.org/wiki/File:Viktor_Gyokeres_France_v_Sweden_6.30.26-123_(cropped).jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features."
+  },
+  {
+    "id": "gold-224232",
+    "name": "Nicolò Barella",
+    "author": "Biser Todorov",
+    "source": "https://commons.wikimedia.org/wiki/File:Nicol%C3%B2_Barella_in_2021_(cropped_2).jpg",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features."
+  },
+  {
+    "id": "gold-205452",
+    "name": "Antonio Rüdiger",
+    "author": "Bryan Berlin",
+    "source": "https://commons.wikimedia.org/wiki/File:Antonio_Rudiger_Ecuador_v_Germany_25_June_2026-055_(cropped).jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features."
+  },
+  {
+    "id": "gold-247827",
+    "name": "Michael Olise",
+    "author": "Bryan Berlin",
+    "source": "https://commons.wikimedia.org/wiki/File:Michael_Olise_France_v_Senegal_16_June_2026-307_(cropped).jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features."
+  },
+  {
+    "id": "gold-239818",
+    "name": "Rúben Dias",
+    "author": "Bryan Berlin",
+    "source": "https://commons.wikimedia.org/wiki/File:Ruben_Dias_Croatia_v_Portugal_2_July_2026-228_(cropped).jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features."
+  },
+  {
+    "id": "gold-211110",
+    "name": "Paulo Dybala",
+    "author": "Olga Shcherbytska",
+    "source": "https://commons.wikimedia.org/wiki/File:%D0%9C%D0%B0%D1%82%D1%87_%C2%AB%D0%94%D0%B8%D0%BD%D0%B0%D0%BC%D0%BE%C2%BB_-_%C2%AB%D0%AE%D0%B2%D0%B5%D0%BD%D1%82%D1%83%D1%81%C2%BB_0-2._20_%D0%BE%D0%BA%D1%82%D1%8F%D0%B1%D1%80%D1%8F_2020_%D0%B3%D0%BE%D0%B4%D0%B0_%E2%80%94_1153905_(cropped).jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features."
+  },
+  {
+    "id": "gold-247851",
+    "name": "Bruno Guimarães",
+    "author": "Bryan Berlin",
+    "source": "https://commons.wikimedia.org/wiki/File:Bruno_Guimaraes_Brazil_V_Morocco_13_June_2026-78_(cropped).jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features."
+  },
+  {
+    "id": "gold-256196",
+    "name": "Willian Pacho",
+    "author": "Bryan Berlin",
+    "source": "https://commons.wikimedia.org/wiki/File:Willian_Pacho_Ecuador_v_Germany_25_June_2026-228.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features."
+  },
+  {
+    "id": "gold-208128",
+    "name": "Hakan Çalhanoğlu",
+    "author": "Steindy (talk) 10:15, 11 April 2016 (UTC)",
+    "source": "https://commons.wikimedia.org/wiki/File:AUT_vs._TUR_2016-03-29_(342).jpg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features."
+  },
+  {
+    "id": "gold-158023",
+    "name": "Lionel Messi",
+    "author": "Bryan Berlin",
+    "source": "https://commons.wikimedia.org/wiki/File:Leo_Messi_Argentina_v_Egypt_7_July_2026-1.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features."
+  },
+  {
+    "id": "gold-256516",
+    "name": "Nico Williams",
+    "author": "Bryan Berlin",
+    "source": "https://commons.wikimedia.org/wiki/File:Nico_Williams_Argentina_v_Spain_19_July_2026-196_(cropped).jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features."
+  },
+  {
+    "id": "gold-240638",
+    "name": "Tijjani Reijnders",
+    "author": "Equipos de fútbol",
+    "source": "https://commons.wikimedia.org/wiki/File:Manchester_City_2025_06_26_Juventus_(cropped_to_Reijniders).jpg",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features."
+  },
+  {
+    "id": "gold-192448",
+    "name": "Marc-André ter Stegen",
+    "author": "Government of Catalonia",
+    "source": "https://commons.wikimedia.org/wiki/File:Marc-Andre_Ter_Stegen_ACCI_FCBARCELONA_Turisme_Catalunya_gira_pretemporada_CATPRESS.jpg",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features."
+  },
+  {
+    "id": "gold-235073",
+    "name": "Gregor Kobel",
+    "author": "Sandro Halank, Wikimedia Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:2023-08-12_TSV_Schott_Mainz_gegen_Borussia_Dortmund_(DFB-Pokal_2023-24)_by_Sandro_Halank%E2%80%93090.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features."
+  },
+  {
+    "id": "gold-226268",
+    "name": "Federico Dimarco",
+    "author": "MichaelEmilio",
+    "source": "https://commons.wikimedia.org/wiki/File:Norway_Italy_-_June_2025_A_26_(cropped).jpg",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features."
+  },
+  {
+    "id": "gold-237238",
+    "name": "Scott McTominay",
+    "author": "Bryan Berlin",
+    "source": "https://commons.wikimedia.org/wiki/File:Scott_McTominay_Scotland_v_Bolivia_6_June_2026-41.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features."
+  },
+  {
+    "id": "gold-246104",
+    "name": "Ryan Gravenberch",
+    "author": "crop by Sepguilherme",
+    "source": "https://commons.wikimedia.org/wiki/File:2022-07-30_Fu%C3%9Fball,_M%C3%A4nner,_DFL-Supercup,_RB_Leipzig_-_FC_Bayern_M%C3%BCnchen_1DX_3342_by_Stepro_(cropped).jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features."
+  },
+  {
+    "id": "gold-202811",
+    "name": "Emiliano Martínez",
+    "author": "Bryan Berlin",
+    "source": "https://commons.wikimedia.org/wiki/File:Emiliano_Martinez_Argentina_v_Spain_19_July_2026-269.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features."
+  },
+  {
+    "id": "gold-272834",
+    "name": "João Neves",
+    "author": "Bryan Berlin",
+    "source": "https://commons.wikimedia.org/wiki/File:Joao_Neves_Croatia_v_Portugal_2_July_2026-102.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features."
+  },
+  {
+    "id": "gold-243014",
+    "name": "Bryan Mbeumo",
+    "author": "AFC Bournemouth",
+    "source": "https://commons.wikimedia.org/wiki/File:Bryan_Mbeumo_00-02-31.18.png",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features."
+  },
+  {
+    "id": "gold-271421",
+    "name": "Désiré Doué",
+    "author": "Bryan Berlin",
+    "source": "https://commons.wikimedia.org/wiki/File:Desire_Doue_France_v_Senegal_16_June_2026-264.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features."
+  },
+  {
+    "id": "gold-204963",
+    "name": "Carvajal",
+    "author": "Rolandhino1",
+    "source": "https://commons.wikimedia.org/wiki/File:UEFA_EURO_qualifiers_Sweden_vs_Spain_20191015_Dani_Carvajal_10_(cropped).jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features."
+  },
+  {
+    "id": "gold-230869",
+    "name": "Unai Simón",
+    "author": "Bryan Berlin",
+    "source": "https://commons.wikimedia.org/wiki/File:Unai_Simon_Argentina_v_Spain_19_July_2026-078_(cropped).jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features."
+  },
+  {
+    "id": "gold-228093",
+    "name": "Marcus Thuram",
+    "author": "Bryan Berlin",
+    "source": "https://commons.wikimedia.org/wiki/File:Marcus_Thuram_France_v_Senegal_16_June_2026-261_(cropped).jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features."
+  },
+  {
+    "id": "gold-185122",
+    "name": "Péter Gulácsi",
+    "author": "Steffen Prößdorf",
+    "source": "https://commons.wikimedia.org/wiki/File:2020-03-10_Fu%C3%9Fball,_M%C3%A4nner,_UEFA_Champions_League_Achtelfinale,_RB_Leipzig_-_Tottenham_Hotspur_1DX_3666_by_Stepro.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features."
+  },
+  {
+    "id": "gold-193080",
+    "name": "De Gea",
+    "author": "Кирилл Венедиктов",
+    "source": "https://commons.wikimedia.org/wiki/File:David_de_Gea_2017.jpg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features."
+  },
+  {
+    "id": "gold-200104",
+    "name": "Heung Min Son",
+    "author": "Ujishadow",
+    "source": "https://commons.wikimedia.org/wiki/File:BFA_2023_-2_Heung-Min_Son_(cropped).jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features."
+  },
+  {
+    "id": "gold-237692",
+    "name": "Phil Foden",
+    "author": "Steffen Prößdorf",
+    "source": "https://commons.wikimedia.org/wiki/File:2023-10-04_Fu%C3%9Fball,_M%C3%A4nner,_UEFA_Champions_League,_RB_Leipzig_-_Manchester_City_FC_1DX_2613,_Phil_Foden.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features."
+  },
+  {
+    "id": "gold-226271",
+    "name": "Fabián Ruiz",
+    "author": "Bryan Berlin",
+    "source": "https://commons.wikimedia.org/wiki/File:Fabian_Ruiz_Argentina_v_Spain_19_July_2026-315.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features."
+  },
+  {
+    "id": "gold-216393",
+    "name": "Youri Tielemans",
+    "author": "Bryan Berlin",
+    "source": "https://commons.wikimedia.org/wiki/File:Youri_Tielemans_USMNT_v_Belgium_Mar_28_2026-20_(cropped).jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features."
+  },
+  {
+    "id": "gold-199503",
+    "name": "Granit Xhaka",
+    "author": "@cfcunofficial (Chelsea Debs) London from London, UK",
+    "source": "https://commons.wikimedia.org/wiki/File:Granit_Xhaka_(cropped).jpg",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features."
+  },
+  {
+    "id": "gold-165153",
+    "name": "Karim Benzema",
+    "author": "Zack",
+    "source": "https://commons.wikimedia.org/wiki/File:Karim_Benzema_Pick.jpg",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features."
+  },
+  {
+    "id": "gold-204525",
+    "name": "Iñigo Martínez",
+    "author": "Rolandhino1",
+    "source": "https://commons.wikimedia.org/wiki/File:UEFA_EURO_qualifiers_Sweden_vs_Spain_20191015_Inigo_Martinez_(cropped).jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features."
+  },
+  {
+    "id": "gold-20801",
+    "name": "Cristiano Ronaldo",
+    "author": "Bryan Berlin",
+    "source": "https://commons.wikimedia.org/wiki/File:Cristiano_Ronaldo_Croatia_v_Portugal_2_July_2026-075_(cropped).jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features."
+  },
+  {
+    "id": "gold-243812",
+    "name": "Rodrygo",
+    "author": "Junta de Andalucía",
+    "source": "https://commons.wikimedia.org/wiki/File:Rodrygo_2023_(cropped).jpg",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features."
+  },
+  {
+    "id": "gold-244260",
+    "name": "Dani Olmo",
+    "author": "Bryan Berlin",
+    "source": "https://commons.wikimedia.org/wiki/File:Dani_Olmo_France_v_Spain_7.24.26-176_(cropped).jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features."
+  },
+  {
+    "id": "gold-234236",
+    "name": "Patrik Schick",
+    "author": "Steffen Prößdorf",
+    "source": "https://commons.wikimedia.org/wiki/File:2020-03-10_Fu%C3%9Fball,_M%C3%A4nner,_UEFA_Champions_League_Achtelfinale,_RB_Leipzig_-_Tottenham_Hotspur_1DX_3672_by_Stepro.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features."
+  },
+  {
+    "id": "gold-239580",
+    "name": "Bremer",
+    "author": "Bryan Berlin",
+    "source": "https://commons.wikimedia.org/wiki/File:Bremer_Brazil_V_Morocco_13_June_2026-143_(cropped).jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features."
+  },
+  {
+    "id": "gold-232656",
+    "name": "Theo Hernández",
+    "author": "Bryan Berlin",
+    "source": "https://commons.wikimedia.org/wiki/File:Theo_Hernandez_France_v_Senegal_16_June_2026-222_(cropped).jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features."
+  },
+  {
+    "id": "gold-212616",
+    "name": "Rodrigo De Paul",
+    "author": "Bryan Berlin",
+    "source": "https://commons.wikimedia.org/wiki/File:Rodrigo_De_Paul_Argentina_v_Spain_19_July_2026-159.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features."
+  },
+  {
+    "id": "gold-210514",
+    "name": "João Cancelo",
+    "author": "Bryan Berlin",
+    "source": "https://commons.wikimedia.org/wiki/File:Joao_Cancelo_Croatia_v_Portugal_2_July_2026-002.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features."
+  },
+  {
+    "id": "gold-244675",
+    "name": "Sancet",
+    "author": "Maider Goikoetxea",
+    "source": "https://commons.wikimedia.org/wiki/File:ATHLETIC_-_OSASUNA_(2).jpg",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "changes": "Head crop, resize to 256px, palette optimisation, circular alpha edge. No synthesized face features."
+  }
+]
