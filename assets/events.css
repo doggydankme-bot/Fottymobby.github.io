@@ -1,0 +1,141 @@
+/* Source badges are independently clipped, so they never contain portrait pixels. */
+.event.match-event {
+    padding: 0;
+    border: 0;
+    background: #fff;
+    top: 76px;
+    width: 34px;
+    min-width: 34px;
+    height: 34px;
+    right: auto;
+    z-index: 3;
+    isolation: isolate
+}
+
+.event-icon {
+    display: block;
+    width: 34px;
+    height: 34px;
+    border-radius: 50%;
+    overflow: hidden;
+    background-repeat: no-repeat;
+    flex-shrink: 0
+}
+
+.icon-assist {
+    background-image: url('assets/reference.jpg');
+    background-size: 809px 1280px;
+    background-position: -656px -703px
+}
+
+.icon-goal {
+    background-image: url('assets/reference.jpg');
+    background-size: 809px 1280px;
+    background-position: -726px -703px
+}
+
+.icon-missed {
+    background: #fff
+}
+
+.icon-missed::after {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: url('assets/missed-penalty.png') center center / 36px 42px no-repeat;
+    clip-path: circle(43%)
+}
+
+.sub-event {
+    border: 0;
+    background: none;
+    padding: 0;
+    z-index: 3;
+    overflow: hidden
+}
+
+.icon-sub {
+    background-image: url('assets/reference.jpg');
+    background-size: 809px 1280px;
+    background-position: -191px -384px
+}
+
+.event.match-event b {
+    right: -5px;
+    bottom: -5px;
+    min-width: 17px;
+    height: 17px;
+    display: grid;
+    place-items: center;
+    padding: 0 3px;
+    border: 1px solid #1e1e1e;
+    font-size: 13px;
+    line-height: 1;
+    color: #242424;
+    background: #fff;
+    border-radius: 9px;
+    z-index: 4
+}
+
+.player .rating {
+    z-index: 2
+}
+
+.player .rating.rating-red {
+    background: #ef5350;
+    color: #000
+}
+
+.event.match-event.missed {
+    left: 151px;
+    top: 36px
+}
+
+.event.match-event {
+    background: transparent;
+    border-radius: 0
+}
+
+.event.match-event .event-icon {
+    position: absolute;
+    top: 0;
+    box-shadow: 0 0 0 1px #fff
+}
+
+.sub-minute {
+    z-index: 3
+}
+
+.portrait {
+    background-image: url('assets/portraits-clean.png')
+}
+
+.card-block.second-yellow {
+    position: relative;
+    width: 23px;
+    height: 25px;
+    background: transparent;
+    border-radius: 0
+}
+
+.card-block.second-yellow::before,
+.card-block.second-yellow::after {
+    content: '';
+    position: absolute;
+    width: 15px;
+    height: 21px;
+    border-radius: 2px
+}
+
+.card-block.second-yellow::before {
+    left: 0;
+    top: 0;
+    background: #ffda28
+}
+
+.card-block.second-yellow::after {
+    right: 0;
+    bottom: 0;
+    background: #f34b55;
+    box-shadow: 0 0 0 1px #fff
+}

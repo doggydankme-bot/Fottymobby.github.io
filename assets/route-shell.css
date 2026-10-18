@@ -1,0 +1,23 @@
+/* The outlet contains one view; these rules size that view, never conceal another. */
+#app-route-outlet{min-width:0;width:100%}
+#management-page{width:min(100% - 32px,1100px);margin:24px auto 40px}
+#management-page>.editor{width:100%;max-width:850px;margin:24px auto;order:initial}
+#management-page>.app-header{padding:20px 0;height:auto;gap:20px;flex-wrap:wrap}
+.route-management-back,.route-management-match{font-size:14px;padding:12px 18px;border-radius:20px;margin:0 8px 14px 0}
+#club-page-host{max-width:809px;margin:20px auto;width:calc(100% - 24px);overflow-wrap:anywhere}
+#club-page-host>#club-screen{position:relative;inset:auto;width:809px;height:auto;max-height:none;overflow:visible;zoom:var(--club-page-scale,1);min-height:0}
+body[data-interface=desktop] #club-page-host{max-width:1250px;margin:28px auto}
+body[data-interface=desktop] #club-page-host>#club-screen{width:100%;zoom:.68;width:calc(100% / .68)}
+body[data-interface=desktop] #app-route-outlet main.advanced-match-layout{grid-template-columns:220px minmax(0,1fr) 290px}
+@media(min-width:1600px){body[data-interface=desktop] #app-route-outlet main.advanced-match-layout{grid-template-columns:250px minmax(0,1fr) 320px}}
+body[data-interface=desktop].desktop-player-open #app-route-outlet main.advanced-match-layout{grid-template-columns:180px minmax(0,1fr)}
+@media(max-width:1179px){body[data-interface=desktop] #app-route-outlet main.advanced-match-layout{grid-template-columns:minmax(0,1fr) 260px}}
+@media(max-width:780px){body[data-interface=desktop] #app-route-outlet main.advanced-match-layout{grid-template-columns:minmax(0,1fr)}}
+/* Lineup bottom clearance, in the same 809px formation coordinate system. */
+body.event-match-ui[data-match-tab=Lineup] #phone>.pitch{height:1000px}
+body.event-match-ui[data-match-tab=Lineup] .pitch>.penalty-arc{top:676px}
+body.event-match-ui[data-match-tab=Lineup] .pitch>.penalty-box{top:708px}
+body.event-match-ui[data-match-tab=Lineup] .pitch>.goal-box{top:832px}
+body.event-match-ui[data-match-tab=Lineup] #players>.player:last-child{margin-top:-20px}
+body.event-match-ui:not([data-interface=desktop])[data-match-tab=Lineup] #phone{height:1534px}
+body.event-match-ui:not([data-interface=desktop])[data-match-tab=Lineup] #frame{aspect-ratio:809/1534}
